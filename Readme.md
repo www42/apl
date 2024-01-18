@@ -9,6 +9,8 @@
 [Browse Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
 
 
+---
+
 |          | Learning Path | Guided <br> Project |
 | -------- | :------------ | ------------------- |
 |          | *Infrastructure (kombinierbar mit z.B. AZ-900, AZ-104, AZ-500, AZ-700, AZ-305):*                    |                                          |
@@ -34,7 +36,7 @@
 |          | *Security (z.B. AZ-500, SC-900, SC-400, SC-300, SC-200, SC-100):*                                   |                                          |
 | APL-5001 | [Configure SIEM security operations using Microsoft Sentinel][5001 LP]                              | [Repo][5001 Repo] <br> [HTML][5001 HTML] |
 | APL-5002 | [Secure Azure services and workloads with Microsoft Defender <br> for Cloud regulatory compliance controls][5002 LP] | [Repo][5002 Repo] <br> [HTML][5002 HTML] |
-|          | *Business applications (z.B. PL-900, PL-100, PL-200, PL-300, PL-400, PL-500, PL-600):*              |                                      |
+|          | *Business applications (z.B. PL-900, PL-100, PL-200, PL-300, PL-400, PL-500, PL-600):*              |                                          |
 | APL-7001 | [Create and manage automated processes by using Power Automate][7001 LP]                            | [Repo][7001 Repo]                        |
 | APL-7002 | [Create and manage canvas apps with Power Apps][7002 LP]                                            | [Repo][7002 Repo]                        |
 | APL-7003 | [Create and manage model-driven apps with PowerApps and Dataverse][7003 LP]                         | [Repo][7003 Repo]                        |
@@ -97,14 +99,6 @@
 [4001 Repo]: https://github.com/MicrosoftLearning/MS-4001-Build-collaborative-apps-for-Microsoft-Teams
 [4001 HTML]: https://microsoftlearning.github.io/MS-4001-Build-collaborative-apps-for-Microsoft-Teams/
 
-[7001 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/create-and-manage-automated-processes-with-power-automate/
-[7001 Repo]: https://github.com/MicrosoftLearning/PL-7001-Create-and-Manage-Automated-Processes-by-using-Power-Automate
-[7001 HTML]: ./
-
-[7002 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/create-manage-canvas-apps-power-apps/
-[7002 Repo]: https://github.com/MicrosoftLearning/PL-7002-Create-and-manage-canvas-apps-with-Power-Apps
-[7002 HTML]: ./
-
 [5001 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/configure-siem-security-operations-using-microsoft-sentinel/
 [5001 Repo]: https://github.com/MicrosoftLearning/APL-5001-configure-siem-security-operations-using-microsoft-sentinel
 [5001 HTML]: https://microsoftlearning.github.io/APL-5001-configure-siem-security-operations-using-microsoft-sentinel/
@@ -112,6 +106,14 @@
 [5002 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/secure-azure-services-and-workloads-with-microsoft-defender-for-cloud-regulatory-compliance-controls/
 [5002 Repo]: https://github.com/MicrosoftLearning/Secure-Azure-with-Microsoft-Defender-Cloud-Compliance-Controls
 [5002 HTML]: https://microsoftlearning.github.io/Secure-Azure-with-Microsoft-Defender-Cloud-Compliance-Controls/
+
+[7001 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/create-and-manage-automated-processes-with-power-automate/
+[7001 Repo]: https://github.com/MicrosoftLearning/PL-7001-Create-and-Manage-Automated-Processes-by-using-Power-Automate
+[7001 HTML]: ./
+
+[7002 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/create-manage-canvas-apps-power-apps/
+[7002 Repo]: https://github.com/MicrosoftLearning/PL-7002-Create-and-manage-canvas-apps-with-Power-Apps
+[7002 HTML]: ./
 
 [7003 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/create-and-manage-model-driven-apps-with-power-apps-and-dataverse/   
 [7003 Repo]: https://github.com/MicrosoftLearning/PL-7003-Create-and-manage-model-driven-apps-with-Power-Apps-and-Dataverse
