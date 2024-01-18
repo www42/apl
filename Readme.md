@@ -1,6 +1,6 @@
 # Microsoft Applied Skills
 
-[Microsoft Applied Skills](https://learn.microsoft.com/en-us/credentials/)
+New: [Microsoft Applied Skills](https://learn.microsoft.com/en-us/credentials/)
 
 [Applied Skills vs Certification](https://aka.ms/ChooseYourMicrosoftCredential)
 
