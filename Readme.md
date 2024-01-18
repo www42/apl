@@ -20,16 +20,16 @@ your organization, and your career.
 
 |          | Learning Path | Guided <br> Project |
 | -------- | :------------ | ------------------- |
-|          | *Infrastructure (kombinierbar mit z.B. AZ-900, AZ-104, AZ-500, AZ-700, AZ-305):*                    |                                          |
+|          | *Infrastructure:<br> (can be combined with AZ-900, AZ-104, AZ-500, AZ-700, AZ-305 etc.)*             |                                          |
 | APL-1001 | [Deploy containers by using Azure Kubernetes Service][1001 LP]                                      | [Repo][1001 Repo] <br> [HTML][1001 HTML] |
 | APL-1002 | [Configure secure access to your workloads using Azure networking][1002 LP]                         | [Repo][1002 Repo] <br> [HTML][1002 HTML] |
 | APL-1003 | [Secure storage for Azure Files and Azure Blob Storage][1003 LP]                                    | [Repo][1003 Repo] <br> [HTML][1003 HTML] |
 | APL-1004 | [Deploy and configure Azure Monitor][1004 LP]                                                       | [Repo][1004 Repo] <br> [HTML][1004 HTML] |
-|          | *Digital and app innovation (z.B. AZ-204, AZ-400, AZ-104):*                                         |                                          |              
+|          | *Digital and app innovation:<br> (can be combined with AZ-204, AZ-400, AZ-104 etc.)*                |                                          |              
 | APL-2001 | [Implement security through a pipeline using Azure DevOps][2001 LP]                                 | [Repo][2001 Repo] <br> [HTML][2001 HTML] |
 | APL-2002 | [Develop an ASP.NET Core web app that consumes an API][2002 LP]                                     | [Repo][2002 Repo] <br> [HTML][2002 HTML] |
 | APL-2003 | [Deploy cloud-native applications using Azure Container Apps][2003 LP]                              | [Repo][2003 Repo] <br> [HTML][2003 HTML] |
-|          | *Data and AI (z.B. DP-900, DP-100, DP-203, DP-300, DP-600, AI-900, AI-102):*                        |                                          |              
+|          | *Data and AI:<br> (can be combined with DP-900, DP-100, DP-203, DP-300, DP-600, AI-900, AI-102)*    |                                          |              
 | APL-3001 | [Migrate SQL Server workloads to Azure SQL Database][3001 LP]                                       | [Repo][3001 Repo] <br> [HTML][3001 HTML] |
 | APL-3002 | [Create an intelligent document processing solution with Azure AI Document Intelligence][3002 LP]   | [Repo][3002 Repo] <br> [HTML][3002 HTML] |
 | APL-3003 | [Build a natural language processing solution with Azure AI Language][3003 LP]                      | [Repo][3003 Repo] <br> [HTML][3003 HTML] |
@@ -38,12 +38,12 @@ your organization, and your career.
 | APL-3007 | [Train and deploy a machine learning model with Azure Machine Learning][3007 LP]                    | [Repo][3007 Repo] <br> [HTML][3007 HTML] |
 | APL-3008 | Coming soon: Implement real-time data analytics with Fabric                                         |                                          |
 | APL-3009 | Coming soon: Implement a data lakehouse with Fabric                                                 |                                          |
-|          | *Teams (z.B. MS-900, MS-102, MS-700):*                                                              |                                          |
+|          | *Teams:<br> (can be combined with MS-900, MS-102, MS-700 etc.)*                                     |                                          |
 | APL-4001 | [Build collaborative apps for Microsoft Teams][4001 LP]                                             | [Repo][4001 Repo] <br> [HTML][4001 HTML] |
-|          | *Security (z.B. AZ-500, SC-900, SC-400, SC-300, SC-200, SC-100):*                                   |                                          |
+|          | *Security:<br> (can be combined with AZ-500, SC-900, SC-400, SC-300, SC-200, SC-100)*               |                                          |
 | APL-5001 | [Configure SIEM security operations using Microsoft Sentinel][5001 LP]                              | [Repo][5001 Repo] <br> [HTML][5001 HTML] |
 | APL-5002 | [Secure Azure services and workloads with Microsoft Defender <br> for Cloud regulatory compliance controls][5002 LP] | [Repo][5002 Repo] <br> [HTML][5002 HTML] |
-|          | *Business applications (z.B. PL-900, PL-100, PL-200, PL-300, PL-400, PL-500, PL-600):*              |                                          |
+|          | *Business applications:<br> (can be combined with PL-900, PL-100, PL-200, PL-300, PL-400, PL-500, PL-600)* |                                   |
 | APL-7001 | [Create and manage automated processes by using Power Automate][7001 LP]                            | [Repo][7001 Repo]                        |
 | APL-7002 | [Create and manage canvas apps with Power Apps][7002 LP]                                            | [Repo][7002 Repo]                        |
 | APL-7003 | [Create and manage model-driven apps with PowerApps and Dataverse][7003 LP]                         | [Repo][7003 Repo]                        |
