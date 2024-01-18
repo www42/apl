@@ -9,7 +9,7 @@
 [Browse Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
 
 
-|          | Learning Path | GitHub | Guided Project |
+|          | Learning Path | GitHub  Guided Project ||
 | -------- | ------------- | ------ | -------------- |
 |          |*Infrastructure:*  |||
 | APL-1001 | [Deploy containers by using Azure Kubernetes Service][1001 LP]                                                  | [Repo][1001 Repo] | [HTML][1001 HTML] |
