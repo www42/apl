@@ -12,32 +12,34 @@
 |            | Learning Path | GitHub | Guided Project |
 | --------   | ------------- | ------ | -------------- |
 |            |*Infrastructure:*  |||
-| APL-1001   | [Deploy containers by using Azure Kubernetes Service][1001 LP]                                    | [Repo][1001 Repo] | [HTML][1001 HTML] |
-| APL-1002   | [Configure secure access to your workloads using Azure networking][1002 LP]                       | [Repo][1002 Repo] | [HTML][1002 HTML] |
-| APL-1003   | [Secure storage for Azure Files and Azure Blob Storage][1003 LP]                                  | [Repo][1003 Repo] | [HTML][1003 HTML] |
-| APL-1004   | [Deploy and configure Azure Monitor][1004 LP]                                                     | [Repo][1004 Repo] | [HTML][1004 HTML] |
-|            | *Digital and app innovation:* |||
-| APL-2001   | [Implement security through a pipeline using Azure DevOps][2001 LP]                               | [Repo][2001 Repo] | [HTML][2001 HTML] |
-| APL-2002   | [Develop an ASP.NET Core web app that consumes an API][2002 LP]                                   | [Repo][2002 Repo] | [HTML][2002 HTML] |
-| APL-2003   | Coming soon: Deploy cloud-native applications using Azure Container Apps                          | [Repo][2003 Repo] |  |
-|            | *Data and AI:* |||
-| APL-3001   | [Migrate SQL Server workloads to Azure SQL Database][3001 LP]                                     | [Repo][3001 Repo] | [HTML][3001 HTML] |
-| APL-3002   | [Create an intelligent document processing solution with Azure AI Document Intelligence][3002 LP] | [Repo][3002 Repo] | [HTML][3002 HTML] |
-| APL-3003   | [Build a natural language processing solution with Azure AI Language][3003 LP]                    | [Repo][3003 Repo] | [HTML][3003 HTML] |
-| APL-3004   | [Build an Azure AI Vision solution][3004 LP]                                                      | [Repo][3004 Repo] | [HTML][3004 HTML] |
-| APL-3006   | Coming soon: Develop generative AI with Azure OpenAI Service                                      |  |  |
-| APL-3007   | Coming soon: Train and deploy a machine learning model with Azure Machine Learning                |  |  |
-| APL-3008   | Coming soon: Implement real-time data analytics with Fabric                                       |  |  |
-| APL-3009   | Coming soon: Implement a data lakehouse with Fabric                                               |  |  |
+| APL-1001   | [Deploy containers by using Azure Kubernetes Service][1001 LP]                                                  | [Repo][1001 Repo] | [HTML][1001 HTML] |
+| APL-1002   | [Configure secure access to your workloads using Azure networking][1002 LP]                                     | [Repo][1002 Repo] | [HTML][1002 HTML] |
+| APL-1003   | [Secure storage for Azure Files and Azure Blob Storage][1003 LP]                                                | [Repo][1003 Repo] | [HTML][1003 HTML] |
+| APL-1004   | [Deploy and configure Azure Monitor][1004 LP]                                                                   | [Repo][1004 Repo] | [HTML][1004 HTML] |
+|            | *Digital and app innovation:* |||              
+| APL-2001   | [Implement security through a pipeline using Azure DevOps][2001 LP]                                             | [Repo][2001 Repo] | [HTML][2001 HTML] |
+| APL-2002   | [Develop an ASP.NET Core web app that consumes an API][2002 LP]                                                 | [Repo][2002 Repo] | [HTML][2002 HTML] |
+| APL-2003   | [Deploy cloud-native applications using Azure Container Apps][2003 LP]                                          | [Repo][2003 Repo] | [HTML][2003 HTML] |
+|            | *Data and AI:* |||              
+| APL-3001   | [Migrate SQL Server workloads to Azure SQL Database][3001 LP]                                                   | [Repo][3001 Repo] | [HTML][3001 HTML] |
+| APL-3002   | [Create an intelligent document processing solution with Azure AI Document Intelligence][3002 LP]               | [Repo][3002 Repo] | [HTML][3002 HTML] |
+| APL-3003   | [Build a natural language processing solution with Azure AI Language][3003 LP]                                  | [Repo][3003 Repo] | [HTML][3003 HTML] |
+| APL-3004   | [Build an Azure AI Vision solution][3004 LP]                                                                    | [Repo][3004 Repo] | [HTML][3004 HTML] |
+| APL-3006   | [Develop generative AI solutions with Azure OpenAI Service][3006 LP]                                            |  |  |
+| APL-3007   | [Train and deploy a machine learning model with Azure Machine Learning][3007 LP]                                | [Repo][3007 Repo] | [HTML][3007 HTML] |
+| APL-3008   | Coming soon: Implement real-time data analytics with Fabric                                                     |  |  |
+| APL-3009   | Coming soon: Implement a data lakehouse with Fabric                                                             |  |  |
 |            | *Teams?:*  |||
-| APL-4001   | Coming soon: Build collaborative apps for Microsoft Teams                                         | [Repo][4001 Repo] | [HTML][4001 HTML] |
+| APL-4001   | [Build collaborative apps for Microsoft Teams][4001 LP]                                                         | [Repo][4001 Repo] | [HTML][4001 HTML] |
 |            | *Security:* |||
 | APL-5001   | [Configure SIEM security operations using Microsoft Sentinel][5001 LP]                                          | [Repo][5001 Repo] | [HTML][5001 HTML] |
 | APL-5002   | [Secure Azure services and workloads with Microsoft Defender for Cloud regulatory compliance controls][5002 LP] | [Repo][5002 Repo] | [HTML][5002 HTML] |
 |            | *Business applications:* |||
-| APL-7001   | [Create and manage automated processes by using Power Automate][7001 LP]                          | [Repo][7001 Repo] |  |
-| APL-7002   | [Create and manage canvas apps with Power Apps][7002 LP]                                          | [Repo][7002 Repo] |  |
-| APL-7003   | Coming soon: Create and manage model-driven apps with PowerApps and Dataverse                     | [Repo][7003 Repo] |  |
+| APL-7001   | [Create and manage automated processes by using Power Automate][7001 LP]                                        | [Repo][7001 Repo] |  |
+| APL-7002   | [Create and manage canvas apps with Power Apps][7002 LP]                                                        | [Repo][7002 Repo] |  |
+| APL-7003   | [Create and manage model-driven apps with PowerApps and Dataverse][7003 LP]                                     | [Repo][7003 Repo] |  |
+
+
 
 [1001 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-containers-by-using-azure-kubernetes-service/
 [1001 Repo]: https://github.com/MicrosoftLearning/deploy-and-manage-containers-with-azure-kubernetes-service
@@ -63,9 +65,9 @@
 [2002 Repo]: https://github.com/MicrosoftLearning/APL-2002-develop-aspnet-core-consumes-api
 [2002 HTML]: https://microsoftlearning.github.io/APL-2002-develop-aspnet-core-consumes-api/
 
-[2003 LP]:   ./
+[2003 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-cloud-native-apps-using-azure-container-apps/
 [2003 Repo]: https://github.com/MicrosoftLearning/az-2003-deploy-cloud-native-applications-using-azure-container-apps
-[2003 HTML]: ./
+[2003 HTML]: https://microsoftlearning.github.io/az-2003-deploy-cloud-native-applications-using-azure-container-apps/
 
 [3001 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/migrate-sql-workloads-azure-sql-database/
 [3001 Repo]: https://github.com/MicrosoftLearning/mslearn-sql-migration
@@ -83,9 +85,17 @@
 [3004 Repo]: https://github.com/MicrosoftLearning/mslearn-ai-vision
 [3004 HTML]: https://microsoftlearning.github.io/mslearn-ai-vision/
 
-[4001 LP]:   ./
-[4001 Repo]: https://github.com/MicrosoftLearning/APL-4001-Build-collaborative-apps-for-Microsoft-Teams
-[4001 HTML]: https://microsoftlearning.github.io/APL-4001-Build-collaborative-apps-for-Microsoft-Teams/
+[3006 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/develop-generative-ai-solutions-with-azure-openai-service/
+[3006 Repo]: https://github.com/MicrosoftLearning/mslearn-ai-fundamentals
+[3006 HTML]: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/14-azure-openai-content-filters.html
+
+[3007 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/train-and-deploy-a-machine-learning-model-with-azure-machine-learning/
+[3007 Repo]: https://github.com/MicrosoftLearning/mslearn-azure-ml
+[3007 HTML]: https://microsoftlearning.github.io/mslearn-azure-ml/Instructions/11-Deploy-online-endpoint.html
+
+[4001 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/build-collaborative-apps-microsoft-teams/
+[4001 Repo]: https://github.com/MicrosoftLearning/MS-4001-Build-collaborative-apps-for-Microsoft-Teams
+[4001 HTML]: https://microsoftlearning.github.io/MS-4001-Build-collaborative-apps-for-Microsoft-Teams/
 
 [7001 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/create-and-manage-automated-processes-with-power-automate/
 [7001 Repo]: https://github.com/MicrosoftLearning/PL-7001-Create-and-Manage-Automated-Processes-by-using-Power-Automate
@@ -103,7 +113,7 @@
 [5002 Repo]: https://github.com/MicrosoftLearning/Secure-Azure-with-Microsoft-Defender-Cloud-Compliance-Controls
 [5002 HTML]: https://microsoftlearning.github.io/Secure-Azure-with-Microsoft-Defender-Cloud-Compliance-Controls/
 
-[7003 LP]:   ./   
+[7003 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/create-and-manage-model-driven-apps-with-power-apps-and-dataverse/   
 [7003 Repo]: https://github.com/MicrosoftLearning/PL-7003-Create-and-manage-model-driven-apps-with-Power-Apps-and-Dataverse
 [7003 HTML]: ./
 
