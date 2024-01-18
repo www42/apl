@@ -33,7 +33,7 @@
 | APL-4001 | [Build collaborative apps for Microsoft Teams][4001 LP]                                                         | [Repo][4001 Repo] | [HTML][4001 HTML] |
 |          | *Security:* |||
 | APL-5001 | [Configure SIEM security operations using Microsoft Sentinel][5001 LP]                                          | [Repo][5001 Repo] | [HTML][5001 HTML] |
-| APL-5002 | [Secure Azure services and workloads with Microsoft Defender for Cloud regulatory compliance controls][5002 LP] | [Repo][5002 Repo] | [HTML][5002 HTML] |
+| APL-5002 | [Secure Azure services and workloads with Microsoft Defender <br> for Cloud regulatory compliance controls][5002 LP] | [Repo][5002 Repo] | [HTML][5002 HTML] |
 |          | *Business applications:* |||
 | APL-7001 | [Create and manage automated processes by using Power Automate][7001 LP]                                        | [Repo][7001 Repo] |  |
 | APL-7002 | [Create and manage canvas apps with Power Apps][7002 LP]                                                        | [Repo][7002 Repo] |  |
