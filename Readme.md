@@ -1,4 +1,4 @@
-## Applied Skills
+# Microsoft Applied Skills
 
 [Microsoft Applied Skills](https://learn.microsoft.com/en-us/credentials/)
 
