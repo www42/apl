@@ -12,7 +12,11 @@ your organization, and your career.
 [Browse Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
 
 
----
+</br>
+</br>
+</br>
+</br>
+</br>
 
 |          | Learning Path | Guided <br> Project |
 | -------- | :------------ | ------------------- |
