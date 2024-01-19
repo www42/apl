@@ -1,19 +1,14 @@
 # Microsoft Applied Skills
 
-[Applied Skills](https://learn.microsoft.com/en-us/credentials/) - the new scenario-based credential that proves 
-your proficiency in skill sets specific to critical business 
-problems, so you can make a bigger impact on your projects, 
-your organization, and your career.
+Applied Skills - the new scenario-based credential that proves your proficiency in skill sets specific to critical business problems, 
+so you can make a bigger impact on your projects, your organization, and your career.
+
+[Announcing Applied Skills](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/announcing-microsoft-applied-skills-the-new-credentials-to/ba-p/3775645)
 
 [Applied Skills vs Certification](https://aka.ms/ChooseYourMicrosoftCredential)
 
-[Applied Skills Poster](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1c0zC)
-
 [Browse Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
 
-
-</br>
-</br>
 </br>
 </br>
 </br>
