@@ -15,11 +15,13 @@ so you can make a bigger impact on your projects, your organization, and your ca
 
 |          | Learning Path | Guided <br> Project |
 | -------- | :------------ | ------------------- |
-|          | *Infrastructure:<br> (can be combined with AZ-900, AZ-104, AZ-500, AZ-700, AZ-305 etc.)*             |                                          |
+|          | *Infrastructure:<br> (can be combined with AZ-900, AZ-104, AZ-500, AZ-700, AZ-305 etc.)*            |                                          |
 | APL-1001 | [Deploy containers by using Azure Kubernetes Service][1001 LP]                                      | [Repo][1001 Repo] <br> [HTML][1001 HTML] |
 | APL-1002 | [Configure secure access to your workloads using Azure networking][1002 LP]                         | [Repo][1002 Repo] <br> [HTML][1002 HTML] |
 | APL-1003 | [Secure storage for Azure Files and Azure Blob Storage][1003 LP]                                    | [Repo][1003 Repo] <br> [HTML][1003 HTML] |
 | APL-1004 | [Deploy and configure Azure Monitor][1004 LP]                                                       | [Repo][1004 Repo] <br> [HTML][1004 HTML] |
+| APL-1005 | Coming soon: Configuring Azure Virtual Desktop for the Enterprise                                   |                                          |
+| APL-1006 | Coming soon: Migrate and modernize SAP in the Microsoft Cloud                                       |                                          |
 |          | *Digital and app innovation:<br> (can be combined with AZ-204, AZ-400, AZ-104 etc.)*                |                                          |              
 | APL-2001 | [Implement security through a pipeline using Azure DevOps][2001 LP]                                 | [Repo][2001 Repo] <br> [HTML][2001 HTML] |
 | APL-2002 | [Develop an ASP.NET Core web app that consumes an API][2002 LP]                                     | [Repo][2002 Repo] <br> [HTML][2002 HTML] |
@@ -33,6 +35,9 @@ so you can make a bigger impact on your projects, your organization, and your ca
 | APL-3007 | [Train and deploy a machine learning model with Azure Machine Learning][3007 LP]                    | [Repo][3007 Repo] <br> [HTML][3007 HTML] |
 | APL-3008 | Coming soon: Implement real-time data analytics with Fabric                                         |                                          |
 | APL-3009 | Coming soon: Implement a data lakehouse with Fabric                                                 |                                          |
+| APL-3011 | Coming soon: Implementing a Data Analytics Solution with Azure Databricks                           |                                          |
+| APL-3012 | Coming soon: Implementing a Data Analytics Solution with Synapse Analytics                          |                                          |
+| APL-3014 | Coming soon: Implementing a Machine Learning Solution with Azure Databricks                         |                                          |
 |          | *Teams:<br> (can be combined with MS-900, MS-102, MS-700 etc.)*                                     |                                          |
 | APL-4001 | [Build collaborative apps for Microsoft Teams][4001 LP]                                             | [Repo][4001 Repo] <br> [HTML][4001 HTML] |
 |          | *Security:<br> (can be combined with AZ-500, SC-900, SC-400, SC-300, SC-200, SC-100)*               |                                          |
