@@ -52,7 +52,7 @@ so you can make a bigger impact on your projects, your organization, and your ca
 
 [1001 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-containers-by-using-azure-kubernetes-service/
 [1001 Repo]: https://github.com/MicrosoftLearning/deploy-and-manage-containers-with-azure-kubernetes-service
-[1001 HTML]: https://microsoftlearning.github.io/deploy-and-manage-containers-with-azure-kubernetes-service/Instructions/Labs/Exercise_01_provision_registry_azu[re_kubernetes_service.html
+[1001 HTML]: https://github.com/MicrosoftLearning/deploy-and-manage-containers-with-azure-kubernetes-service/blob/master/Instructions/Labs/Complete%20Guided%20Exercise-Deploy%20Applications%20to%20AKS.md
 
 [1002 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/configure-secure-workloads-use-azure-virtual-networking/
 [1002 Repo]: https://github.com/MicrosoftLearning/Configure-secure-access-to-workloads-with-Azure-virtual-networking-services
