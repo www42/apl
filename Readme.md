@@ -34,8 +34,8 @@ so you can make a bigger impact on your projects, your organization, and your ca
 | AI-3004  | [Build an Azure AI Vision solution][3004 LP]                                                                         | [Repo][3004 Repo] <br> [HTML][3004 HTML] |
 | ??-3006  | [Develop generative AI solutions with Azure OpenAI Service][3006 LP]                                                 |                                          |  
 | DP-3007  | [Train and deploy a machine learning model with Azure Machine Learning][3007 LP]                                     | [Repo][3007 Repo] <br> [HTML][3007 HTML] |
-| ??-3008  | Coming soon: Implement real-time data analytics with Fabric                                                          |                                          |
-| ??-3009  | Coming soon: Implement a data lakehouse with Fabric                                                                  |                                          |
+| DP-3008  | [Implement a data warehouse in Microsoft Fabric][3008 LP]                                                            |                                          |
+| DP-3009  | [Implement a lakehouse in Microsoft Fabric][3009 LP]                                                                 |                                          |
 | DP-3011  | Coming soon: Implementing a Data Analytics Solution with Azure Databricks                                            |                                          |
 | DP-3012  | Coming soon: Implementing a Data Analytics Solution with Synapse Analytics                                           |                                          |
 | DP-3014  | Coming soon: Implementing a Machine Learning Solution with Azure Databricks                                          |                                          |
@@ -109,6 +109,14 @@ so you can make a bigger impact on your projects, your organization, and your ca
 [3007 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/train-and-deploy-a-machine-learning-model-with-azure-machine-learning/
 [3007 Repo]: https://github.com/MicrosoftLearning/mslearn-azure-ml
 [3007 HTML]: https://microsoftlearning.github.io/mslearn-azure-ml/Instructions/11-Deploy-online-endpoint.html
+
+[3008 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/work-with-data-warehouses-using-microsoft-fabric/
+[3008 Repo]: ./
+[3008 HTML]: ./
+
+[3009 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/implement-lakehouse-microsoft-fabric/
+[3009 Repo]: ./
+[3009 HTML]: ./
 
 [4001 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/build-collaborative-apps-microsoft-teams/
 [4001 Repo]: https://github.com/MicrosoftLearning/MS-4001-Build-collaborative-apps-for-Microsoft-Teams
