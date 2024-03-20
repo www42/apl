@@ -13,17 +13,17 @@ so you can make a bigger impact on your projects, your organization, and your ca
 </br>
 </br>
 
-|          | Learning Path | Guided <br> Project | Skillable Lab |
-| -------- | :------------ | ------------------- | ------------- |
-|          | *Infrastructure:<br> (can be combined with AZ-900, AZ-104, AZ-500, AZ-700, AZ-305 etc.)*                             |                                          |                   |
-| AZ-1001  | [Deploy containers by using Azure Kubernetes Service][1001 LP]                                                       | [Repo][1001 Repo] <br> [HTML][1001 HTML] | yes (Cloud Slice) |
-| AZ-1002  | [Configure secure access to your workloads using Azure networking][1002 LP]                                          | [Repo][1002 Repo] <br> [HTML][1002 HTML] | yes (Cloud Slice) |
-| AZ-1003  | [Secure storage for Azure Files and Azure Blob Storage][1003 LP]                                                     | [Repo][1003 Repo] <br> [HTML][1003 HTML] | yes (Cloud Slice) |
-| AZ-1004  | [Deploy and configure Azure Monitor][1004 LP]                                                                        | [Repo][1004 Repo] <br> [HTML][1004 HTML] | yes (Cloud Slice) |
-| AZ-1005  | Coming soon: Configuring Azure Virtual Desktop for the Enterprise                                                    |                                          | yes (Cloud Slice) |
-| AZ-1006  | Coming soon: Migrate and modernize SAP in the Microsoft Cloud                                                        |                                          | yes (Cloud Slice) |
-|          | *Digital and app innovation:<br> (can be combined with AZ-204, AZ-400, AZ-104 etc.)*                                 |                                          |                   |              
-| AZ-2001  | [Implement security through a pipeline using Azure DevOps][2001 LP]                                                  | [Repo][2001 Repo] <br> [HTML][2001 HTML] | yes (Azure Pass)  |
+|          | Learning Path | Guided <br> Project | Skillable <br> Lab |
+| -------- | :------------ | ------------------- | ------------------ |
+|          | *Infrastructure:<br> (can be combined with AZ-900, AZ-104, AZ-500, AZ-700, AZ-305 etc.)*                             |                                          |                      |
+| AZ-1001  | [Deploy containers by using Azure Kubernetes Service][1001 LP]                                                       | [Repo][1001 Repo] <br> [HTML][1001 HTML] | yes <br> Cloud Slice |
+| AZ-1002  | [Configure secure access to your workloads using Azure networking][1002 LP]                                          | [Repo][1002 Repo] <br> [HTML][1002 HTML] | yes <br> Cloud Slice |
+| AZ-1003  | [Secure storage for Azure Files and Azure Blob Storage][1003 LP]                                                     | [Repo][1003 Repo] <br> [HTML][1003 HTML] | yes <br> Cloud Slice |
+| AZ-1004  | [Deploy and configure Azure Monitor][1004 LP]                                                                        | [Repo][1004 Repo] <br> [HTML][1004 HTML] | yes <br> Cloud Slice |
+| AZ-1005  | Coming soon: Configuring Azure Virtual Desktop for the Enterprise                                                    |                                          | yes <br> Cloud Slice |
+| AZ-1006  | Coming soon: Migrate and modernize SAP in the Microsoft Cloud                                                        |                                          | yes <br> Cloud Slice |
+|          | *Digital and app innovation:<br> (can be combined with AZ-204, AZ-400, AZ-104 etc.)*                                 |                                          |                      |              
+| AZ-2001  | [Implement security through a pipeline using Azure DevOps][2001 LP]                                                  | [Repo][2001 Repo] <br> [HTML][2001 HTML] | yes <br> Azure Pass  |
 | AZ-2002  | [Develop an ASP.NET Core web app that consumes an API][2002 LP]                                                      | [Repo][2002 Repo] <br> [HTML][2002 HTML] | yes (Cloud Slice) |
 | AZ-2003  | [Deploy cloud-native applications using Azure Container Apps][2003 LP]                                               | [Repo][2003 Repo] <br> [HTML][2003 HTML] | yes (Cloud Slice) |
 | AZ-2008  | Coming soon: DevOps Foundations: The Core Principles and Practices                                                   | [Repo][2008 Repo] <br> [HTML][2008 HTML] |  |
