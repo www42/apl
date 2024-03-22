@@ -44,7 +44,7 @@ so you can make a bigger impact on your projects, your organization, and your ca
 | MS-4001  | [Build collaborative apps for Microsoft Teams][4001 LP]                                                              | [Repo][4001 Repo] <br> [HTML][4001 HTML] |                      | yes |
 | MS-4004  | Coming soon: Optimize productivity with Copilot for Microsoft 365                                                    |                                          |                      | yes |
 | MS-4005  | Coming soon: Craft effective prompts for Microsoft Copilot for Microsoft 365                                         |                                          |                      | yes |
-| MS-4006  | Coming soon: Copilot for Microsoft 365 for Administrators                                                            | [Repo][4006 Repo] <br> [HTML][4006 HTML] |                      |     |
+| MS-4006  | Coming soon: Copilot for Microsoft 365 for Administrators                                                            | [Repo][4006 Repo] <br> [HTML][4006 HTML] |                      | yes |
 |          | *Security:<br> (can be combined with AZ-500, SC-900, SC-400, SC-300, SC-200, SC-100)*                                |                                          |                      |     |
 | SC-5001  | [Configure SIEM security operations using Microsoft Sentinel][5001 LP]                                               | [Repo][5001 Repo] <br> [HTML][5001 HTML] | yes <br> Cloud Slice | yes |
 | SC-5002  | [Secure Azure services and workloads with Microsoft Defender <br> for Cloud regulatory compliance controls][5002 LP] | [Repo][5002 Repo] <br> [HTML][5002 HTML] | yes <br> Cloud Slice | yes |
