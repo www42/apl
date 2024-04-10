@@ -24,14 +24,13 @@ so you can make a bigger impact on your projects, your organization, and your ca
 | AZ-2001  | [Implement security through a pipeline using Azure DevOps][2001 LP]                                                  | [Repo][2001 Repo] <br> [HTML][2001 HTML] | yes <br> Azure Pass  | yes |
 | AZ-2002  | [Develop an ASP.NET Core web app that consumes an API][2002 LP]                                                      | [Repo][2002 Repo] <br> [HTML][2002 HTML] | yes <br> Cloud Slice | yes |
 | AZ-2003  | [Deploy cloud-native applications using Azure Container Apps][2003 LP]                                               | [Repo][2003 Repo] <br> [HTML][2003 HTML] | yes <br> Cloud Slice | yes |
-| AZ-2005  | [Develop AI agents using Azure OpenAI and the Semantic Kernel SDK][2005 LP]                                          |                                          |                      |     |
+| AZ-2005  | Coming soon: Develop AI agents using Azure OpenAI and the Semantic Kernel SDK                                        |                                          |                      |     |
 | AZ-2008  | Coming soon: DevOps Foundations: The Core Principles and Practices                                                   | [Repo][2008 Repo] <br> [HTML][2008 HTML] | yes <br> ?           | yes |
 | AZ-3001  | [Migrate SQL Server workloads to Azure SQL Database][3001 LP]                                                        | [Repo][3001 Repo] <br> [HTML][3001 HTML] | yes <br> Cloud Slice | yes |
-| AI-050   | [Develop generative AI solutions with Azure OpenAI Service][050 LP]                                                  |                                          | yes <br> Cloud Slice | yes |
+| AI-050   | [Develop generative AI solutions with Azure OpenAI Service][050 LP]                                                  | [Repo][050 Repo]  <br> [HTML][050 HTML]  | yes <br> Cloud Slice | yes |
 | AI-3002  | [Create an intelligent document processing solution with Azure AI Document Intelligence][3002 LP]                    | [Repo][3002 Repo] <br> [HTML][3002 HTML] | yes <br> Cloud Slice | yes |
 | AI-3003  | [Build a natural language processing solution with Azure AI Language][3003 LP]                                       | [Repo][3003 Repo] <br> [HTML][3003 HTML] | yes <br> Cloud Slice | yes |
 | AI-3004  | [Build an Azure AI Vision solution][3004 LP]                                                                         | [Repo][3004 Repo] <br> [HTML][3004 HTML] | yes <br> Cloud Slice | yes |
-| AI-3006  | [Develop generative AI solutions with Azure OpenAI Service][3006 LP]                                                 |                                          |                      |     |
 | DP-3007  | [Train and deploy a machine learning model with Azure Machine Learning][3007 LP]                                     | [Repo][3007 Repo] <br> [HTML][3007 HTML] | yes <br> Cloud Slice | yes |
 | DP-3008  | [Implement a data warehouse in Microsoft Fabric][3008 LP]                                                            |                                          |                      |     |
 | DP-3009  | [Implement a lakehouse in Microsoft Fabric][3009 LP]                                                                 |                                          |                      |     |
@@ -55,8 +54,8 @@ so you can make a bigger impact on your projects, your organization, and your ca
 
 
 [050 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/develop-generative-ai-solutions-with-azure-openai-service/
-[050 Repo]: ./
-[050 HTML]: ./
+[050 Repo]: https://github.com/MicrosoftLearning/mslearn-openai/tree/main
+[050 HTML]: https://github.com/MicrosoftLearning/mslearn-openai/tree/main/Instructions/Exercises
 
 [1001 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-containers-by-using-azure-kubernetes-service/
 [1001 Repo]: https://github.com/MicrosoftLearning/deploy-and-manage-containers-with-azure-kubernetes-service
@@ -110,10 +109,6 @@ so you can make a bigger impact on your projects, your organization, and your ca
 [3004 Repo]: https://github.com/MicrosoftLearning/mslearn-ai-vision
 [3004 HTML]: https://microsoftlearning.github.io/mslearn-ai-vision/
 
-[3006 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/develop-generative-ai-solutions-with-azure-openai-service/
-[3006 Repo]: https://github.com/MicrosoftLearning/mslearn-ai-fundamentals
-[3006 HTML]: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/14-azure-openai-content-filters.html
-
 [3007 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/train-and-deploy-a-machine-learning-model-with-azure-machine-learning/
 [3007 Repo]: https://github.com/MicrosoftLearning/mslearn-azure-ml
 [3007 HTML]: https://microsoftlearning.github.io/mslearn-azure-ml/Instructions/11-Deploy-online-endpoint.html
@@ -138,7 +133,7 @@ so you can make a bigger impact on your projects, your organization, and your ca
 [4005 Repo]: ./
 [4005 HTML]: ./
 
-[4006 LP]:   ./
+[4006 LP]:   https://learn.microsoft.com/en-us/training/courses/ms-4006
 [4006 Repo]: https://github.com/MicrosoftLearning/MS-4006-Copilot-for-Microsoft-365-for-Administrators
 [4006 HTML]: https://github.com/MicrosoftLearning/MS-4006-Copilot-for-Microsoft-365-for-Administrators/tree/master/Instructions
 
