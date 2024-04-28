@@ -3,8 +3,8 @@
 
 |          | Learning Path                                                                                                        | Assessment <br> durchführbar?            |
 | -------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| AZ-1001  | [Deploy containers by using Azure Kubernetes Service][1001 LP]                                                       | No  |
-| AZ-1002  | [Configure secure access to your workloads using Azure networking][1002 LP]                                          | Yes |
+| AZ-1001  | [Deploy containers by using Azure Kubernetes Service][1001 LP]                                                       | ❌ No  |
+| AZ-1002  | [Configure secure access to your workloads using Azure networking][1002 LP]                                          | ✅ Yes |
 | AZ-1003  | [Secure storage for Azure Files and Azure Blob Storage][1003 LP]                                                     | Yes |
 | AZ-1004  | [Deploy and configure Azure Monitor][1004 LP]                                                                        | No  |
 | AZ-1005  | Coming soon: Configuring Azure Virtual Desktop for the Enterprise                                                    | -   |
