@@ -13,7 +13,9 @@ so you can make a bigger impact on your projects, your organization, and your ca
 </br>
 </br>
 
-| Assessment <br> ✅ avail <br>  ❌ not avail        | Learning Path                                                                                                        | Guided <br> Project                      | Skillable <br> Lab   | ILT |
+Assessment <br> ✅ avail <br>  ❌ not avail
+
+|          | Learning Path                                                                                                        | Guided <br> Project                      | Skillable <br> Lab   | ILT |
 | -------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | -------------------- | --- |
 | AZ-1001 ❌ | [Deploy containers by using Azure Kubernetes Service][1001 LP]                                                       | [Repo][1001 Repo] <br> [HTML][1001 HTML] | yes <br> Cloud Slice | yes |
 | AZ-1002 ✅ | [Configure secure access to your workloads using Azure networking][1002 LP]                                          | [Repo][1002 Repo] <br> [HTML][1002 HTML] | yes <br> Cloud Slice | yes |
