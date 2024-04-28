@@ -1,8 +1,8 @@
 # Microsoft Applied Skills - Stand 28. April 2024
 
 
-|          | Learning Path                                                                                                        | Assessment <br> durchführbar? <br> ✅ Yes  ❌ No |
-| -------- | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+|          | Learning Path                                                                                                        | Assessment <br> durchführbar? |
+| -------- | -------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
 | AZ-1001  | [Deploy containers by using Azure Kubernetes Service][1001 LP]                                                       | ❌ |
 | AZ-1002  | [Configure secure access to your workloads using Azure networking][1002 LP]                                          | ✅ |
 | AZ-1003  | [Secure storage for Azure Files and Azure Blob Storage][1003 LP]                                                     | ✅ |
