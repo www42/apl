@@ -13,7 +13,7 @@ so you can make a bigger impact on your projects, your organization, and your ca
 </br>
 </br>
 
-Assessment <br> ✅ avail <br>  ❌ not avail
+Assessment <br> ✅ avail <br>  ❌ not avail <br> 05.05.2024
 
 |          | Learning Path                                                                                                        | Guided <br> Project                      | Skillable <br> Lab   | ILT |
 | -------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | -------------------- | --- |
@@ -23,7 +23,7 @@ Assessment <br> ✅ avail <br>  ❌ not avail
 | AZ-1004 ❌ | [Deploy and configure Azure Monitor][1004 LP]                                                                        | [Repo][1004 Repo] <br> [HTML][1004 HTML] | yes <br> Cloud Slice | yes |
 | AZ-1005  | Coming soon: Configuring Azure Virtual Desktop for the Enterprise                                                    |                                          | yes <br> Azure Pass  | yes |
 | AZ-1006  | Coming soon: Migrate and modernize SAP in the Microsoft Cloud                                                        |                                          | yes <br> Cloud Slice | yes |
-| AZ-2001 ❌ | [Implement security through a pipeline using Azure DevOps][2001 LP]                                                  | [Repo][2001 Repo] <br> [HTML][2001 HTML] | yes <br> Azure Pass  | yes |
+| AZ-2001 ✅ | [Implement security through a pipeline using Azure DevOps][2001 LP]                                                  | [Repo][2001 Repo] <br> [HTML][2001 HTML] | yes <br> Azure Pass  | yes |
 | AZ-2002 ✅ | [Develop an ASP.NET Core web app that consumes an API][2002 LP]                                                      | [Repo][2002 Repo] <br> [HTML][2002 HTML] | yes <br> Cloud Slice | yes |
 | AZ-2003 ✅ | [Deploy cloud-native applications using Azure Container Apps][2003 LP]                                               | [Repo][2003 Repo] <br> [HTML][2003 HTML] | yes <br> Cloud Slice | yes |
 | AZ-2005  | Coming soon: Develop AI agents using Azure OpenAI and the Semantic Kernel SDK                                        |                                          |                      |     |
