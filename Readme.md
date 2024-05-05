@@ -15,8 +15,8 @@ so you can make a bigger impact on your projects, your organization, and your ca
 
 Assessment <br> ✅ avail <br>  ❌ not avail <br> 05.05.2024
 
-|          | Learning Path                                                                                                        | Guided <br> Project                      | Skillable <br> Lab   | ILT |
-| -------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | -------------------- | --- |
+|          | Learning Path                                                                                                        | Microsoft <br> Labs                      | Skillable            | ILT <br> (ppt)|
+| -------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | -------------------- | ------------- |
 | AZ-1001 ❌ | [Deploy containers by using Azure Kubernetes Service][1001 LP]                                                       | [Repo][1001 Repo] <br> [HTML][1001 HTML] | yes <br> Cloud Slice | yes |
 | AZ-1002 ✅ | [Configure secure access to your workloads using Azure networking][1002 LP]                                          | [Repo][1002 Repo] <br> [HTML][1002 HTML] | yes <br> Cloud Slice | yes |
 | AZ-1003 ✅ | [Secure storage for Azure Files and Azure Blob Storage][1003 LP]                                                     | [Repo][1003 Repo] <br> [HTML][1003 HTML] | yes <br> Cloud Slice | yes |
