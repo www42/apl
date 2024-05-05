@@ -27,6 +27,7 @@ Assessment <br> ✅ avail <br>  ❌ not avail <br> 05.05.2024
 | AZ-2002 ✅ | [Develop an ASP.NET Core web app that consumes an API][2002 LP]                                                      | [Repo][2002 Repo] <br> [HTML][2002 HTML] | yes <br> Cloud Slice | yes |
 | AZ-2003 ✅ | [Deploy cloud-native applications using Azure Container Apps][2003 LP]                                               | [Repo][2003 Repo] <br> [HTML][2003 HTML] | yes <br> Cloud Slice | yes |
 | AZ-2005  | Coming soon: Develop AI agents using Azure OpenAI and the Semantic Kernel SDK                                        |                                          |                      |     |
+| AZ-2007  | Coming soon: Accelerate app development by using GitHub Copilot                                                      | [Repo][2007 Repo] <br>                   |                      |     |
 | AZ-2008  | Coming soon: DevOps Foundations: The Core Principles and Practices                                                   | [Repo][2008 Repo] <br> [HTML][2008 HTML] | yes <br> ?           | yes |
 | AZ-3001 ✅ | [Migrate SQL Server workloads to Azure SQL Database][3001 LP]                                                        | [Repo][3001 Repo] <br> [HTML][3001 HTML] | yes <br> Cloud Slice | yes |
 | AI-050  ✅ | [Develop generative AI solutions with Azure OpenAI Service][050 LP]                                                  | [Repo][050 Repo]  <br> [HTML][050 HTML]  | yes <br> Cloud Slice | yes |
@@ -41,8 +42,8 @@ Assessment <br> ✅ avail <br>  ❌ not avail <br> 05.05.2024
 | DP-3014  | Coming soon: Implementing a Machine Learning Solution with Azure Databricks                                          |                                          | yes <br> Cloud Slice | yes |
 | DP-3015  | Coming soon: Getting Started with Cosmos DB NoSQL Development                                                        |                                          | yes <br> Cloud Slice | yes |
 | MS-4001 ❌ | [Build collaborative apps for Microsoft Teams][4001 LP]                                                              | [Repo][4001 Repo] <br> [HTML][4001 HTML] |                      | yes |
-| MS-4004  | Coming soon: Empower your workforce with Copilot for Microsoft 365 Use Cases                                         |                                          |                      | yes |
-| MS-4005  | Coming soon: Craft effective prompts for Microsoft Copilot for Microsoft 365                                         |                                          |                      | yes |
+| MS-4004  | Coming soon: Empower your workforce with Copilot for Microsoft 365 Use Cases                                         | [Repo][4004 Repo] <br>                        |                      | yes |
+| MS-4005  | Coming soon: Craft effective prompts for Microsoft Copilot for Microsoft 365                                         | [Repo][4005 Repo] <br>                        |                      | yes |
 | MS-4006  | Coming soon: Copilot for Microsoft 365 for Administrators                                                            | [Repo][4006 Repo] <br> [HTML][4006 HTML] | yes <br> M365 Tenant | yes |
 | MS-4007  | Coming soon: Copilot for Microsoft 365 User Enablement Specialist                                                    |                                          |                      | yes |
 | SC-5001 ❌ | [Configure SIEM security operations using Microsoft Sentinel][5001 LP]                                               | [Repo][5001 Repo] <br> [HTML][5001 HTML] | yes <br> Cloud Slice | yes |
@@ -91,6 +92,10 @@ Assessment <br> ✅ avail <br>  ❌ not avail <br> 05.05.2024
 [2005 Repo]: ./
 [2005 HTML]: ./
 
+[2007 LP]:   ./
+[2007 Repo]: https://github.com/MicrosoftLearning/APL-2007-Accelerate-app-development-by-using-GitHub-Copilot
+[2007 HTML]: ./
+
 [2008 LP]:   ./
 [2008 Repo]: https://github.com/MicrosoftLearning/AZ-2008_DevOps_Foundations_Core_Principles_Practices
 [2008 HTML]: https://microsoftlearning.github.io/AZ-2008_DevOps_Foundations_Core_Principles_Practices/
@@ -128,16 +133,16 @@ Assessment <br> ✅ avail <br>  ❌ not avail <br> 05.05.2024
 [4001 HTML]: https://microsoftlearning.github.io/MS-4001-Build-collaborative-apps-for-Microsoft-Teams/
 
 [4004 LP]:   ./
-[4004 Repo]: ./
+[4004 Repo]: https://github.com/MicrosoftLearning/MS-4004-Empower-workforce-copilot-use-cases
 [4004 HTML]: ./
 
 [4005 LP]:   ./
-[4005 Repo]: ./
+[4005 Repo]: https://github.com/MicrosoftLearning/MS-4005-Craft-effective-prompts-for-Microsoft-Copilot-for-Microsoft-365/
 [4005 HTML]: ./
 
 [4006 LP]:   https://learn.microsoft.com/en-us/training/courses/ms-4006
 [4006 Repo]: https://github.com/MicrosoftLearning/MS-4006-Copilot-for-Microsoft-365-for-Administrators
-[4006 HTML]: https://github.com/MicrosoftLearning/MS-4006-Copilot-for-Microsoft-365-for-Administrators/tree/master/Instructions
+[4006 HTML]: ./
 
 [4007 LP]:   ./
 [4007 Repo]: ./
