@@ -1,8 +1,18 @@
-# Microsoft Applied Skills - Stand 28. April 2024
+# Microsoft Applied Skills
+
+[Browse Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
+
+<a href="https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills" target="_blank">Browse Applied Skills</a> New tab
 
 
-|          | Learning Path                                                                                                        | Assessment <br> durchführbar? |
-| -------- | -------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+✅ Assessment vailable
+<br>
+❌ This assessment is currently undergoing maintenance 
+<br>
+May 5 2024
+
+|          | Learning Path                                                                                                        | Assessment |
+| -------- | -------------------------------------------------------------------------------------------------------------------- | ---------- |
 | AZ-1001  | [Deploy containers by using Azure Kubernetes Service][1001 LP]                                                       | ❌ |
 | AZ-1002  | [Configure secure access to your workloads using Azure networking][1002 LP]                                          | ✅ |
 | AZ-1003  | [Secure storage for Azure Files and Azure Blob Storage][1003 LP]                                                     | ✅ |
