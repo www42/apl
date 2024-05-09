@@ -3,7 +3,7 @@
 ## [Browse Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
 
 <p align="right">
-    ✅ This is assessment vailable <br>
+    ✅ This assessment is vailable <br>
     ❌ This assessment is currently undergoing maintenance <br>
     May 5, 2024
 </p>
