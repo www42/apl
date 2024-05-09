@@ -1,4 +1,4 @@
-## Applied Skills Lab by Microsoft Learn / Skillable
+## Applied Skills Labs by Microsoft Learn / Skillable
 
 |          | Learning Path                                                                                                        | Microsoft <br> Labs                      | Skillable            | ILT <br> (ppt)|
 | -------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | -------------------- | ------------- |

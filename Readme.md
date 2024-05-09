@@ -5,7 +5,7 @@
 <p align="right">
     ✅ This assessment is vailable <br>
     ❌ This assessment is currently undergoing maintenance <br>
-    May 5, 2024
+    May 9, 2024
 </p>
 
 
@@ -17,7 +17,7 @@
 | AZ-1004  | [Deploy and configure Azure Monitor][1004 LP]                                                                        | ❌ |
 | AZ-1005  | Coming soon: Configuring Azure Virtual Desktop for the Enterprise                                                    | - |
 | AZ-1006  | Coming soon: Migrate and modernize SAP in the Microsoft Cloud                                                        | - |
-| AZ-2001  | [Implement security through a pipeline using Azure DevOps][2001 LP]                                                  | ❌ |
+| AZ-2001  | [Implement security through a pipeline using Azure DevOps][2001 LP]                                                  | ✅ |
 | AZ-2002  | [Develop an ASP.NET Core web app that consumes an API][2002 LP]                                                      | ✅ |
 | AZ-2003  | [Deploy cloud-native applications using Azure Container Apps][2003 LP]                                               | ✅ |
 | AZ-2005  | Coming soon: Develop AI agents using Azure OpenAI and the Semantic Kernel SDK                                        | - |
@@ -26,7 +26,7 @@
 | AI-050   | [Develop generative AI solutions with Azure OpenAI Service][050 LP]                                                  | ✅ |
 | AI-3002  | [Create an intelligent document processing solution with Azure AI Document Intelligence][3002 LP]                    | ✅ |
 | AI-3003  | [Build a natural language processing solution with Azure AI Language][3003 LP]                                       | ✅ |
-| AI-3004  | [Build an Azure AI Vision solution][3004 LP]                                                                         | ❌ |
+| AI-3004  | [Build an Azure AI Vision solution][3004 LP]                                                                         | ✅ |
 | DP-3007  | [Train and deploy a machine learning model with Azure Machine Learning][3007 LP]                                     | ❌ |
 | DP-3008  | [Implement a data warehouse in Microsoft Fabric][3008 LP]                                                            | ✅ |
 | DP-3009  | [Implement a lakehouse in Microsoft Fabric][3009 LP]                                                                 | ✅ |
