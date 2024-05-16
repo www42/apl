@@ -11,6 +11,10 @@
 
 |          | Learning Path                                                                                                        |     |
 | -------- | -------------------------------------------------------------------------------------------------------------------- | --- |
+| AI-050   | [Develop generative AI solutions with Azure OpenAI Service][050 LP]                                                  | ✅ |
+| AI-3002  | [Create an intelligent document processing solution with Azure AI Document Intelligence][3002 LP]                    | ✅ |
+| AI-3003  | [Build a natural language processing solution with Azure AI Language][3003 LP]                                       | ✅ |
+| AI-3004  | [Build an Azure AI Vision solution][3004 LP]                                                                         | ✅ |
 | AZ-1001  | [Deploy containers by using Azure Kubernetes Service][1001 LP]                                                       | ❌ |
 | AZ-1002  | [Configure secure access to your workloads using Azure networking][1002 LP]                                          | ✅ |
 | AZ-1003  | [Secure storage for Azure Files and Azure Blob Storage][1003 LP]                                                     | ✅ |
@@ -22,23 +26,22 @@
 | AZ-2003  | [Deploy cloud-native applications using Azure Container Apps][2003 LP]                                               | ✅ |
 | AZ-2005  | Coming soon: Develop AI agents using Azure OpenAI and the Semantic Kernel SDK                                        | - |
 | AZ-2008  | Coming soon: DevOps Foundations: The Core Principles and Practices                                                   | - |
-| AZ-3001  | [Migrate SQL Server workloads to Azure SQL Database][3001 LP]                                                        | ✅ |
-| AI-050   | [Develop generative AI solutions with Azure OpenAI Service][050 LP]                                                  | ✅ |
-| AI-3002  | [Create an intelligent document processing solution with Azure AI Document Intelligence][3002 LP]                    | ✅ |
-| AI-3003  | [Build a natural language processing solution with Azure AI Language][3003 LP]                                       | ✅ |
-| AI-3004  | [Build an Azure AI Vision solution][3004 LP]                                                                         | ✅ |
+| DP-3001  | [Migrate SQL Server workloads to Azure SQL Database][3001 LP]                                                        | ✅ |
 | DP-3007  | [Train and deploy a machine learning model with Azure Machine Learning][3007 LP]                                     | ❌ |
-| DP-3008  | [Implement a data warehouse in Microsoft Fabric][3008 LP]                                                            | ✅ |
-| DP-3009  | [Implement a lakehouse in Microsoft Fabric][3009 LP]                                                                 | ✅ |
 | DP-3011  | Coming soon: Implementing a Data Analytics Solution with Azure Databricks                                            | - |
 | DP-3012  | Coming soon: Implementing a Data Analytics Solution with Synapse Analytics                                           | - |
 | DP-3014  | Coming soon: Implementing a Machine Learning Solution with Azure Databricks                                          | - |
 | DP-3015  | Coming soon: Getting Started with Cosmos DB NoSQL Development                                                        | - |
+| DP-601   | [Implement a lakehouse in Microsoft Fabric][601 LP]                                                                  | ✅ |
+| DP-602   | [Implement a data warehouse in Microsoft Fabric][602 LP]                                                             | ✅ |
+| DP-603   | [Implementing Real Time Analytics with Microsoft Fabric][603 LP]                                                     | - |
+| DP-604   | [Implement a data science and machine learning solution with Microsoft Fabric][604 LP]                               | ✅ |
 | MS-4001  | [Build collaborative apps for Microsoft Teams][4001 LP]                                                              | ❌ |
 | MS-4004  | Coming soon: Empower your workforce with Copilot for Microsoft 365 Use Cases                                         | - |
 | MS-4005  | Coming soon: Craft effective prompts for Microsoft Copilot for Microsoft 365                                         | - |
 | MS-4006  | Coming soon: Copilot for Microsoft 365 for Administrators                                                            | - |
 | MS-4007  | Coming soon: Copilot for Microsoft 365 User Enablement Specialist                                                    | - |
+| MS-4008  | Coming soon: Copilot for Microsoft 365 Interactive Experience for Executives                                         | - |
 | SC-5001  | [Configure SIEM security operations using Microsoft Sentinel][5001 LP]                                               | ❌ |
 | SC-5002  | [Secure Azure services and workloads with Microsoft Defender <br> for Cloud regulatory compliance controls][5002 LP] | ✅ |
 | SC-5003  | Comming soon: Implement information protection and data loss prevention by using Microsoft Purview                   | - |
@@ -64,13 +67,16 @@
 [3003 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/build-natural-language-solution-azure-ai/
 [3004 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/build-azure-ai-vision-solution/
 [3007 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/train-and-deploy-a-machine-learning-model-with-azure-machine-learning/
-[3008 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/work-with-data-warehouses-using-microsoft-fabric/
-[3009 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/implement-lakehouse-microsoft-fabric/
+[601 LP]:    https://learn.microsoft.com/en-us/credentials/applied-skills/implement-lakehouse-microsoft-fabric/
+[602 LP]:    https://learn.microsoft.com/en-us/credentials/applied-skills/work-with-data-warehouses-using-microsoft-fabric/
+[603 LP]:    ./
+[604 LP]:    https://learn.microsoft.com/en-us/credentials/applied-skills/implement-a-data-science-and-machine-learning-solution-with-microsoft-fabric/
 [4001 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/build-collaborative-apps-microsoft-teams/
 [4004 LP]:   ./
 [4005 LP]:   ./
 [4006 LP]:   https://learn.microsoft.com/en-us/training/courses/ms-4006
 [4007 LP]:   ./
+[4008 LP]:   ./
 [5001 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/configure-siem-security-operations-using-microsoft-sentinel/
 [5002 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/secure-azure-services-and-workloads-with-microsoft-defender-for-cloud-regulatory-compliance-controls/
 [5003 LP]:   ./

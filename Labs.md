@@ -14,6 +14,10 @@
 
 |          | Learning Path                                                                                                        | ILT | MS                                       | Skill | Go |
 | -------- | -------------------------------------------------------------------------------------------------------------------- | --- | ---------------------------------------- | ------| -- |
+| AI-050   | [Develop generative AI solutions with Azure OpenAI Service][050 LP]                                                  | ✅ | [Repo][050 Repo]  <br> [HTML][050 HTML]  | ✅ 1 |   |
+| AI-3002  | [Create an intelligent document processing solution with Azure AI Document Intelligence][3002 LP]                    | ✅ | [Repo][3002 Repo] <br> [HTML][3002 HTML] | ✅ 1 |   |
+| AI-3003  | [Build a natural language processing solution with Azure AI Language][3003 LP]                                       | ✅ | [Repo][3003 Repo] <br> [HTML][3003 HTML] | ✅ 1 |   |
+| AI-3004  | [Build an Azure AI Vision solution][3004 LP]                                                                         | ✅ | [Repo][3004 Repo] <br> [HTML][3004 HTML] | ✅ 1 |   |
 | AZ-1001  | [Deploy containers by using Azure Kubernetes Service][1001 LP]                                                       | ✅ | [Repo][1001 Repo] <br> [HTML][1001 HTML] | ✅ 1 |   |
 | AZ-1002  | [Configure secure access to your workloads using Azure networking][1002 LP]                                          | ✅ | [Repo][1002 Repo] <br> [HTML][1002 HTML] | ✅ 1 |   |
 | AZ-1003  | [Secure storage for Azure Files and Azure Blob Storage][1003 LP]                                                     | ✅ | [Repo][1003 Repo] <br> [HTML][1003 HTML] | ✅ 1 |   |
@@ -26,23 +30,22 @@
 | AZ-2005  | Coming soon: Develop AI agents using Azure OpenAI and the Semantic Kernel SDK                                        |    |                                          |      |   |
 | AZ-2007  | Coming soon: Accelerate app development by using GitHub Copilot                                                      |    | [Repo][2007 Repo] <br>                   |      |   |
 | AZ-2008  | Coming soon: DevOps Foundations: The Core Principles and Practices                                                   | ✅ | [Repo][2008 Repo] <br> [HTML][2008 HTML] | ✅ ? |   |
-| AZ-3001  | [Migrate SQL Server workloads to Azure SQL Database][3001 LP]                                                        | ✅ | [Repo][3001 Repo] <br> [HTML][3001 HTML] | ✅ 1 |   |
-| AI-050   | [Develop generative AI solutions with Azure OpenAI Service][050 LP]                                                  | ✅ | [Repo][050 Repo]  <br> [HTML][050 HTML]  | ✅ 1 |   |
-| AI-3002  | [Create an intelligent document processing solution with Azure AI Document Intelligence][3002 LP]                    | ✅ | [Repo][3002 Repo] <br> [HTML][3002 HTML] | ✅ 1 |   |
-| AI-3003  | [Build a natural language processing solution with Azure AI Language][3003 LP]                                       | ✅ | [Repo][3003 Repo] <br> [HTML][3003 HTML] | ✅ 1 |   |
-| AI-3004  | [Build an Azure AI Vision solution][3004 LP]                                                                         | ✅ | [Repo][3004 Repo] <br> [HTML][3004 HTML] | ✅ 1 |   |
+| DP-3001  | [Migrate SQL Server workloads to Azure SQL Database][3001 LP]                                                        | ✅ | [Repo][3001 Repo] <br> [HTML][3001 HTML] | ✅ 1 |   |
 | DP-3007  | [Train and deploy a machine learning model with Azure Machine Learning][3007 LP]                                     | ✅ | [Repo][3007 Repo] <br> [HTML][3007 HTML] | ✅ 1 |   |
-| DP-3008  | [Implement a data warehouse in Microsoft Fabric][3008 LP]                                                            |    |                                          |      |   |
-| DP-3009  | [Implement a lakehouse in Microsoft Fabric][3009 LP]                                                                 |    |                                          |      |   |
 | DP-3011  | Coming soon: Implementing a Data Analytics Solution with Azure Databricks                                            | ✅ |                                          | ✅ 1 |   |
 | DP-3012  | Coming soon: Implementing a Data Analytics Solution with Synapse Analytics                                           | ✅ |                                          | ✅ 1 |   |
 | DP-3014  | Coming soon: Implementing a Machine Learning Solution with Azure Databricks                                          | ✅ |                                          | ✅ 1 |   |
 | DP-3015  | Coming soon: Getting Started with Cosmos DB NoSQL Development                                                        | ✅ |                                          | ✅ 1 |   |
+| DP-601   | [Implement a lakehouse in Microsoft Fabric][601 LP]                                                                  | ✅ |                                          |      |   |
+| DP-602   | [Implement a data warehouse in Microsoft Fabric][602 LP]                                                             | ✅ |                                          |      |   |
+| DP-603   | [Implementing Real Time Analytics with Microsoft Fabric][603 LP]                                                     | ✅ | [Repo][603 Repo]  <br> [HTML][603 HTML]  |      |   |
+| DP-604   | [Implement a data science and machine learning solution with Microsoft Fabric][604 LP]                               | ✅ | [Repo][604 Repo]  <br> [HTML][604 HTML]  |      |   |
 | MS-4001  | [Build collaborative apps for Microsoft Teams][4001 LP]                                                              | ✅ | [Repo][4001 Repo] <br> [HTML][4001 HTML] |      |   |
 | MS-4004  | Coming soon: Empower your workforce with Copilot for Microsoft 365 Use Cases                                         | ✅ | [Repo][4004 Repo] <br>                   |      |   |
 | MS-4005  | Coming soon: Craft effective prompts for Microsoft Copilot for Microsoft 365                                         | ✅ | [Repo][4005 Repo] <br>                   |      |   |
 | MS-4006  | Coming soon: Copilot for Microsoft 365 for Administrators                                                            | ✅ | [Repo][4006 Repo] <br> [HTML][4006 HTML] | ✅ 3 |   |
 | MS-4007  | Coming soon: Copilot for Microsoft 365 User Enablement Specialist                                                    | ✅ |                                          |      |   |
+| MS-4008  | Coming soon: Copilot for Microsoft 365 Interactive Experience for Executives                                         | ✅ |                                          |      |   |
 | SC-5001  | [Configure SIEM security operations using Microsoft Sentinel][5001 LP]                                               | ✅ | [Repo][5001 Repo] <br> [HTML][5001 HTML] | ✅ 1 |   |
 | SC-5002  | [Secure Azure services and workloads with Microsoft Defender <br> for Cloud regulatory compliance controls][5002 LP] | ✅ | [Repo][5002 Repo] <br> [HTML][5002 HTML] | ✅ 1 |   |
 | SC-5003  | Comming soon: Implement information protection and data loss prevention by using Microsoft Purview                   | ✅ |                                          | ✅ ? |   |
@@ -117,13 +120,21 @@
 [3007 Repo]: https://github.com/MicrosoftLearning/mslearn-azure-ml
 [3007 HTML]: https://microsoftlearning.github.io/mslearn-azure-ml/Instructions/11-Deploy-online-endpoint.html
 
-[3008 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/work-with-data-warehouses-using-microsoft-fabric/
-[3008 Repo]: ./
-[3008 HTML]: ./
+[602 LP]:    https://learn.microsoft.com/en-us/credentials/applied-skills/work-with-data-warehouses-using-microsoft-fabric/
+[602 Repo]:  ./
+[602 HTML]:  ./
 
-[3009 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/implement-lakehouse-microsoft-fabric/
-[3009 Repo]: ./
-[3009 HTML]: ./
+[601 LP]:    https://learn.microsoft.com/en-us/credentials/applied-skills/implement-lakehouse-microsoft-fabric/
+[601 Repo]:  ./
+[601 HTML]:  ./
+
+[603 LP]:    ./
+[603 Repo]:  ./
+[603 HTML]:  ./
+
+[604 LP]:    https://learn.microsoft.com/en-us/credentials/applied-skills/implement-a-data-science-and-machine-learning-solution-with-microsoft-fabric/
+[604 Repo]:  ./
+[604 HTML]:  ./
 
 [4001 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/build-collaborative-apps-microsoft-teams/
 [4001 Repo]: https://github.com/MicrosoftLearning/MS-4001-Build-collaborative-apps-for-Microsoft-Teams
@@ -144,6 +155,10 @@
 [4007 LP]:   ./
 [4007 Repo]: ./
 [4007 HTML]: ./
+
+[4008 LP]:   ./
+[4008 Repo]: ./
+[4008 HTML]: ./
 
 [5001 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/configure-siem-security-operations-using-microsoft-sentinel/
 [5001 Repo]: https://github.com/MicrosoftLearning/APL-5001-configure-siem-security-operations-using-microsoft-sentinel
