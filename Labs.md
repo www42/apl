@@ -128,7 +128,7 @@
 [601 Repo]:  ./
 [601 HTML]:  ./
 
-[603 LP]:    ./
+[603 LP]:    https://learn.microsoft.com/en-us/credentials/applied-skills/implement-a-real-time-intelligence-solution-with-microsoft-fabric/
 [603 Repo]:  ./
 [603 HTML]:  ./
 
