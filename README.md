@@ -39,9 +39,9 @@
 | DP-3012  | Implementing a Data Analytics Solution with Synapse Analytics                                                        |Coming<br>soon                          |❌|✅|✅|
 | DP-3014  | Implementing a Machine Learning Solution with Azure Databricks                                                       |Coming<br>soon                          |❌|✅|✅|
 | DP-3015  | Getting Started with Cosmos DB NoSQL Development                                                                     |Coming<br>soon                          |❌|✅|✅|
-| DP-601   | [Implement a lakehouse in Microsoft Fabric][601 LP]                                                                  |Coming<br>soon                          |✅|✅|✅|
-| DP-602   | [Implement a data warehouse in Microsoft Fabric][602 LP]                                                             |Coming<br>soon                          |✅|✅|✅|
-| DP-603   | [Implementing Real Time Analytics with Microsoft Fabric][603 LP]                                                     |Coming<br>soon                          |✅|✅|✅|
+| DP-601   | [Implement a lakehouse in Microsoft Fabric][601 LP]                                                                  |?<br>?                                  |✅|✅|✅|
+| DP-602   | [Implement a data warehouse in Microsoft Fabric][602 LP]                                                             |?<br>?                                  |✅|✅|✅|
+| DP-603   | [Implementing Real Time Analytics with Microsoft Fabric][603 LP]                                                     |?<br>?                                  |✅|✅|✅|
 | DP-604   | [Implement a data science and machine learning solution with Microsoft Fabric][604 LP]                               |[Repo][604 Repo]  <br> [HTML][604 HTML] |✅|✅|✅|
 | MS-4001  | [Build collaborative apps for Microsoft Teams][4001 LP]                                                              |[Repo][4001 Repo] <br> [HTML][4001 HTML]|❌|✅|✅|
 | MS-4004  | Empower your workforce with Copilot for Microsoft 365 Use Cases                                                      |[Repo][4004 Repo] <br>                  |❌|✅|❌|
