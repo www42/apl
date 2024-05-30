@@ -12,6 +12,9 @@
 | I | Instructor Led Training (ILT) available |
 | S | Skillable available |
 
+<br>
+updated on May 30, 2024
+
 |          | Learning Path                                                                                                        | Labs                                   |A|I|S|
 | -------- | -------------------------------------------------------------------------------------------------------------------- |----------------------------------------|-|-|-|
 | AI-050   | [Develop generative AI solutions with Azure OpenAI Service][050 LP]                                                  |[Repo][050 Repo]  <br> [HTML][050 HTML] |✅|✅|✅|
