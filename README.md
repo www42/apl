@@ -25,38 +25,38 @@
 | AZ-1002  | [Configure secure access to your workloads using Azure networking][1002 LP]                                          |[Repo][1002 Repo] <br> [HTML][1002 HTML]|✅|✅|✅|
 | AZ-1003  | [Secure storage for Azure Files and Azure Blob Storage][1003 LP]                                                     |[Repo][1003 Repo] <br> [HTML][1003 HTML]|✅|✅|✅|
 | AZ-1004  | [Deploy and configure Azure Monitor][1004 LP]                                                                        |[Repo][1004 Repo] <br> [HTML][1004 HTML]|❌|✅|✅|
-| AZ-1005  | Configuring Azure Virtual Desktop for the Enterprise                                                                 |Coming<br>soon                          |❌|✅|✅|
-| AZ-1006  | Migrate and modernize SAP in the Microsoft Cloud                                                                     |Coming<br>soon                          |❌|✅|✅|
+| AZ-1005  | Configuring Azure Virtual Desktop for the Enterprise                                                                 |Coming <br> soon                        |❌|✅|✅|
+| AZ-1006  | Migrate and modernize SAP in the Microsoft Cloud                                                                     |Coming <br> soon                        |❌|✅|✅|
 | AZ-2001  | [Implement security through a pipeline using Azure DevOps][2001 LP]                                                  |[Repo][2001 Repo] <br> [HTML][2001 HTML]|✅|✅|✅|
 | AZ-2002  | [Develop an ASP.NET Core web app that consumes an API][2002 LP]                                                      |[Repo][2002 Repo] <br> [HTML][2002 HTML]|✅|✅|✅|
 | AZ-2003  | [Deploy cloud-native applications using Azure Container Apps][2003 LP]                                               |[Repo][2003 Repo] <br> [HTML][2003 HTML]|✅|✅|✅|
 | AZ-2005  | Develop AI agents using Azure OpenAI and the Semantic Kernel SDK                                                     |[Repo][2005 Repo] <br> [HTML][2005 HTML]|❌|❌|❌|
-| AZ-2007  | Accelerate app development by using GitHub Copilot                                                                   |Coming<br>soon                          |❌|❌|❌|
+| AZ-2007  | Accelerate app development by using GitHub Copilot                                                                   |Coming <br> soon                        |❌|❌|❌|
 | AZ-2008  | DevOps Foundations: The Core Principles and Practices                                                                |[Repo][2008 Repo] <br> [HTML][2008 HTML]|❌|✅|✅|
 | DP-3001  | [Migrate SQL Server workloads to Azure SQL Database][3001 LP]                                                        |[Repo][3001 Repo] <br> [HTML][3001 HTML]|✅|✅|✅|
 | DP-3007  | [Train and deploy a machine learning model with Azure Machine Learning][3007 LP]                                     |[Repo][3007 Repo] <br> [HTML][3007 HTML]|❌|✅|✅|
-| DP-3011  | Implementing a Data Analytics Solution with Azure Databricks                                                         |Coming<br>soon                          |❌|✅|✅|
-| DP-3012  | Implementing a Data Analytics Solution with Synapse Analytics                                                        |Coming<br>soon                          |❌|✅|✅|
-| DP-3014  | Implementing a Machine Learning Solution with Azure Databricks                                                       |Coming<br>soon                          |❌|✅|✅|
-| DP-3015  | Getting Started with Cosmos DB NoSQL Development                                                                     |Coming<br>soon                          |❌|✅|✅|
-| DP-601   | [Implement a lakehouse in Microsoft Fabric][601 LP]                                                                  |?<br>?                                  |✅|✅|✅|
-| DP-602   | [Implement a data warehouse in Microsoft Fabric][602 LP]                                                             |?<br>?                                  |✅|✅|✅|
-| DP-603   | [Implementing Real Time Analytics with Microsoft Fabric][603 LP]                                                     |?<br>?                                  |✅|✅|✅|
-| DP-604   | [Implement a data science and machine learning solution with Microsoft Fabric][604 LP]                               |[Repo][604 Repo]  <br> [HTML][604 HTML] |✅|✅|✅|
+| DP-3011  | Implementing a Data Analytics Solution with Azure Databricks                                                         |Coming <br> soon                        |❌|✅|✅|
+| DP-3012  | Implementing a Data Analytics Solution with Synapse Analytics                                                        |Coming <br> soon                        |❌|✅|✅|
+| DP-3014  | Implementing a Machine Learning Solution with Azure Databricks                                                       |Coming <br> soon                        |❌|✅|✅|
+| DP-3015  | Getting Started with Cosmos DB NoSQL Development                                                                     |Coming <br> soon                        |❌|✅|✅|
+| DP-601   | [Implement a lakehouse in Microsoft Fabric][601 LP]                                                                  |? <br> ?                                |✅|✅|✅|
+| DP-602   | [Implement a data warehouse in Microsoft Fabric][602 LP]                                                             |? <br> ?                                |✅|✅|✅|
+| DP-603   | [Implementing Real Time Analytics with Microsoft Fabric][603 LP]                                                     |? <br> ?                                |✅|✅|✅|
+| DP-604   | [Implement a data science and machine learning solution with Microsoft Fabric][604 LP]                               |? <br> ?                                |✅|✅|✅|
 | MS-4001  | [Build collaborative apps for Microsoft Teams][4001 LP]                                                              |[Repo][4001 Repo] <br> [HTML][4001 HTML]|❌|✅|✅|
 | MS-4004  | Empower your workforce with Copilot for Microsoft 365 Use Cases                                                      |[Repo][4004 Repo] <br>                  |❌|✅|❌|
 | MS-4005  | Craft effective prompts for Microsoft Copilot for Microsoft 365                                                      |[Repo][4005 Repo] <br>                  |❌|✅|❌|
 | MS-4006  | Copilot for Microsoft 365 for Administrators                                                                         |[Repo][4006 Repo] <br> [HTML][4006 HTML]|❌|✅|❌|
-| MS-4007  | Copilot for Microsoft 365 User Enablement Specialist                                                                 |Coming<br>soon                          |❌|✅|❌|
-| MS-4008  | Copilot for Microsoft 365 Interactive Experience for Executives                                                      |Coming<br>soon                          |❌|✅|❌|
+| MS-4007  | Copilot for Microsoft 365 User Enablement Specialist                                                                 |Coming <br> soon                        |❌|✅|❌|
+| MS-4008  | Copilot for Microsoft 365 Interactive Experience for Executives                                                      |Coming <br> soon                        |❌|✅|❌|
 | PL-7001  | [Create and manage canvas apps with Power Apps][7001 LP]                                                             |[Repo][7001 Repo]                       |❌|✅|❌|
 | PL-7002  | [Create and manage automated processes by using Power Automate][7002 LP]                                             |[Repo][7002 Repo]                       |❌|✅|❌|
 | PL-7003  | [Create and manage model-driven apps with PowerApps and Dataverse][7003 LP]                                          |[Repo][7003 Repo]                       |❌|✅|❌|
 | SC-5001  | [Configure SIEM security operations using Microsoft Sentinel][5001 LP]                                               |[Repo][5001 Repo] <br> [HTML][5001 HTML]|✅|✅|✅|
 | SC-5002  | [Secure Azure services and workloads with Microsoft Defender <br> for Cloud regulatory compliance controls][5002 LP] |[Repo][5002 Repo] <br> [HTML][5002 HTML]|✅|✅|✅|
-| SC-5003  | Implement information protection and data loss prevention by using Microsoft Purview                                 |Coming<br>soon                          |❌|✅|❌|
-| SC-5006  | Get started with Microsoft Copilot for Security                                                                      |Coming<br>soon                          |❌|❌|❌|
-| SC-5008  | Configure and manage entitlement with Microsoft Entra ID                                                             |Coming<br>soon                          |❌|❌|❌|
+| SC-5003  | Implement information protection and data loss prevention by using Microsoft Purview                                 |Coming <br> soon                        |❌|✅|❌|
+| SC-5006  | Get started with Microsoft Copilot for Security                                                                      |Coming <br> soon                        |❌|❌|❌|
+| SC-5008  | Configure and manage entitlement with Microsoft Entra ID                                                             |Coming <br> soon                        |❌|❌|❌|
 
 
 [050 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/develop-generative-ai-solutions-with-azure-openai-service/
