@@ -1,4 +1,4 @@
-# Applied Skills Labs
+# Microsoft Applied Skills
 
 |   |   |
 | - | - |
