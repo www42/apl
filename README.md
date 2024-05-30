@@ -22,6 +22,9 @@
 | AI-3002 [Create an intelligent document processing solution with Azure AI Document Intelligence][3002 APL]                    | [LP][3002 LP] | [Repo][3002 Repo] <br> [HTML][3002 HTML] |✅|✅|✅|
 | AI-3003 [Build a natural language processing solution with Azure AI Language][3003 APL]                                       | [LP][3003 LP] | [Repo][3003 Repo] <br> [HTML][3003 HTML] |✅|✅|✅|
 | AI-3004 [Build an Azure AI Vision solution][3004 APL]                                                                         | [LP][3004 LP] | [Repo][3004 Repo] <br> [HTML][3004 HTML] |❌|✅|✅|
+| AI-3016 Develop copilots with Azure AI Studio                                                                                 | [LP][3016 LP] | -                                        |❌|❌|❌|
+| AI-3017 Microsoft AI for business leaders                                                                                     | [LP][3017 LP] | -                                        |❌|❌|❌|
+| AI-3018 Copilot Foundations                                                                                                   | [LP][3018 LP] | -                                        |❌|❌|❌|
 | AZ-1001 [Deploy containers by using Azure Kubernetes Service][1001 APL]                                                       | [LP][1001 LP] | [Repo][1001 Repo] <br> [HTML][1001 HTML] |❌|✅|✅|
 | AZ-1002 [Configure secure access to your workloads using Azure networking][1002 APL]                                          | [LP][1002 LP] | [Repo][1002 Repo] <br> [HTML][1002 HTML] |✅|✅|✅|
 | AZ-1003 [Secure storage for Azure Files and Azure Blob Storage][1003 APL]                                                     | [LP][1003 LP] | [Repo][1003 Repo] <br> [HTML][1003 HTML] |✅|✅|✅|
@@ -44,12 +47,14 @@
 | DP-602  [Implement a data warehouse in Microsoft Fabric][602 APL]                                                             | [LP][602 LP]  | ?                                        |✅|✅|✅|
 | DP-603  [Implementing Real Time Analytics with Microsoft Fabric][603 APL]                                                     | [LP][603 LP]  | ?                                        |✅|✅|✅|
 | DP-604  [Implement a data science and machine learning solution with Microsoft Fabric][604 APL]                               | [LP][604 LP]  | ?                                        |✅|✅|✅|
+| MD-4011 Enhance Endpoint Security with Microsoft Intune and Microsoft Copilot for Security                                    | -             | -                                        |❌|❌|❌|
 | MS-4001 [Build collaborative apps for Microsoft Teams][4001 APL]                                                              | [LP][4001 LP] | [Repo][4001 Repo] <br> [HTML][4001 HTML] |❌|✅|✅|
 | MS-4004 Empower your workforce with Copilot for Microsoft 365 Use Cases                                                       | [LP][4004 LP] | [Repo][4004 Repo] <br> [HTML][4004 HTML] |❌|✅|❌|
 | MS-4005 Craft effective prompts for Microsoft Copilot for Microsoft 365                                                       | [LP][4005 LP] | [Repo][4005 Repo] <br> [HTML][4005 HTML] |❌|✅|❌|
 | MS-4006 Copilot for Microsoft 365 for Administrators                                                                          | [LP][4006 LP] | [Repo][4006 Repo] <br> [HTML][4006 HTML] |❌|✅|❌|
 | MS-4007 Copilot for Microsoft 365 User Enablement Specialist                                                                  | [LP][4007 LP] | -                                        |❌|✅|❌|
 | MS-4008 Copilot for Microsoft 365 Interactive Experience for Executives                                                       | [LP][4008 LP] | -                                        |❌|✅|❌|
+| MS-4010 Build Plugins and Connectors for Microsoft Copilot for Microsoft 365                                                  | -             | -                                        |❌|❌|❌|
 | PL-7001 [Create and manage canvas apps with Power Apps][7001 APL]                                                             | [LP][7001 LP] | [Repo][7001 Repo] <br> [HTML][7001 HTML] |❌|✅|❌|
 | PL-7002 [Create and manage automated processes by using Power Automate][7002 APL]                                             | [LP][7002 LP] | [Repo][7002 Repo] <br> [HTML][7002 HTML] |❌|✅|❌|
 | PL-7003 [Create and manage model-driven apps with PowerApps and Dataverse][7003 APL]                                          | [LP][7003 LP] | [Repo][7003 Repo] <br> [HTML][7003 HTML] |❌|✅|❌|
@@ -57,7 +62,9 @@
 | SC-5002 [Secure Azure services and workloads with Microsoft Defender for Cloud regulatory compliance controls][5002 APL]      | [LP][5002 LP] | [Repo][5002 Repo] <br> [HTML][5002 HTML] |✅|✅|✅|
 | SC-5003 Implement information protection and data loss prevention by using Microsoft Purview                                  | [LP][5003 LP] | [Repo][5003 Repo] <br> [HTML][5003 HTML] |❌|✅|❌|
 | SC-5006 Get started with Microsoft Copilot for Security                                                                       | [LP][5006 LP] | -                                        |❌|❌|❌|
+| SC-5007 Implement retention, eDiscovery, and Communication compliance in Microsoft Purview                                    | -             | -                                        |❌|❌|❌|
 | SC-5008 Configure and manage entitlement with Microsoft Entra ID                                                              | -             | -                                        |❌|❌|❌|
+
 
 
 [050 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/develop-generative-ai-solutions-with-azure-openai-service/
@@ -148,6 +155,12 @@
 [3014 LP]:   https://learn.microsoft.com/en-us/training/paths/build-operate-machine-learning-solutions-azure-databricks/
 
 [3015 LP]:   https://learn.microsoft.com/en-us/training/courses/dp-3015
+
+[3016 LP]:   https://learn.microsoft.com/en-us/training/paths/create-custom-copilots-ai-studio/
+
+[3017 LP]:   https://learn.microsoft.com/training/paths/transform-your-business-with-microsoft-ai/
+
+[3018 LP]:   https://learn.microsoft.com/training/paths/copilot-foundations/
 
 [601 APL]:   https://learn.microsoft.com/en-us/credentials/applied-skills/implement-lakehouse-microsoft-fabric/
 [601 LP]:    https://learn.microsoft.com/en-us/training/paths/implement-lakehouse-microsoft-fabric/
