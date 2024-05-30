@@ -30,8 +30,8 @@
 | AZ-2001  | [Implement security through a pipeline using Azure DevOps][2001 LP]                                                  |[Repo][2001 Repo] <br> [HTML][2001 HTML]|✅|✅|✅|
 | AZ-2002  | [Develop an ASP.NET Core web app that consumes an API][2002 LP]                                                      |[Repo][2002 Repo] <br> [HTML][2002 HTML]|✅|✅|✅|
 | AZ-2003  | [Deploy cloud-native applications using Azure Container Apps][2003 LP]                                               |[Repo][2003 Repo] <br> [HTML][2003 HTML]|✅|✅|✅|
-| AZ-2005  | Develop AI agents using Azure OpenAI and the Semantic Kernel SDK                                                     |Coming<br>soon                          |❌|❌|❌|
-| AZ-2007  | Accelerate app development by using GitHub Copilot                                                                   |[Repo][2007 Repo] <br>                  |❌|❌|❌|
+| AZ-2005  | Develop AI agents using Azure OpenAI and the Semantic Kernel SDK                                                     |[Repo][2005 Repo] <br> [HTML][2005 HTML]|❌|❌|❌|
+| AZ-2007  | Accelerate app development by using GitHub Copilot                                                                   |Coming<br>soon                          |❌|❌|❌|
 | AZ-2008  | DevOps Foundations: The Core Principles and Practices                                                                |[Repo][2008 Repo] <br> [HTML][2008 HTML]|❌|✅|✅|
 | DP-3001  | [Migrate SQL Server workloads to Azure SQL Database][3001 LP]                                                        |[Repo][3001 Repo] <br> [HTML][3001 HTML]|✅|✅|✅|
 | DP-3007  | [Train and deploy a machine learning model with Azure Machine Learning][3007 LP]                                     |[Repo][3007 Repo] <br> [HTML][3007 HTML]|❌|✅|✅|
@@ -41,7 +41,7 @@
 | DP-3015  | Getting Started with Cosmos DB NoSQL Development                                                                     |Coming<br>soon                          |❌|✅|✅|
 | DP-601   | [Implement a lakehouse in Microsoft Fabric][601 LP]                                                                  |Coming<br>soon                          |✅|✅|✅|
 | DP-602   | [Implement a data warehouse in Microsoft Fabric][602 LP]                                                             |Coming<br>soon                          |✅|✅|✅|
-| DP-603   | [Implementing Real Time Analytics with Microsoft Fabric][603 LP]                                                     |[Repo][603 Repo]  <br> [HTML][603 HTML] |✅|✅|✅|
+| DP-603   | [Implementing Real Time Analytics with Microsoft Fabric][603 LP]                                                     |Coming<br>soon                          |✅|✅|✅|
 | DP-604   | [Implement a data science and machine learning solution with Microsoft Fabric][604 LP]                               |[Repo][604 Repo]  <br> [HTML][604 HTML] |✅|✅|✅|
 | MS-4001  | [Build collaborative apps for Microsoft Teams][4001 LP]                                                              |[Repo][4001 Repo] <br> [HTML][4001 HTML]|❌|✅|✅|
 | MS-4004  | Empower your workforce with Copilot for Microsoft 365 Use Cases                                                      |[Repo][4004 Repo] <br>                  |❌|✅|❌|
@@ -61,7 +61,7 @@
 
 [050 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/develop-generative-ai-solutions-with-azure-openai-service/
 [050 Repo]: https://github.com/MicrosoftLearning/mslearn-openai/tree/main
-[050 HTML]: https://github.com/MicrosoftLearning/mslearn-openai/tree/main/Instructions/Exercises
+[050 HTML]: https://microsoftlearning.github.io/mslearn-openai/
 
 [1001 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-containers-by-using-azure-kubernetes-service/
 [1001 Repo]: https://github.com/MicrosoftLearning/deploy-and-manage-containers-with-azure-kubernetes-service
@@ -92,11 +92,11 @@
 [2003 HTML]: https://microsoftlearning.github.io/az-2003-deploy-cloud-native-applications-using-azure-container-apps/
 
 [2005 LP]:   https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-azure-open-ai-semantic-kernel-sdk/
-[2005 Repo]: ./
-[2005 HTML]: ./
+[2005 Repo]: https://github.com/MicrosoftLearning/AZ-2005-Develop-AI-agents-OpenAI-Semantic-Kernel-SDK
+[2005 HTML]: https://github.com/MicrosoftLearning/AZ-2005-Develop-AI-agents-OpenAI-Semantic-Kernel-SDK/tree/master/Instructions/Labs
 
 [2007 LP]:   ./
-[2007 Repo]: https://github.com/MicrosoftLearning/APL-2007-Accelerate-app-development-by-using-GitHub-Copilot
+[2007 Repo]: ./
 [2007 HTML]: ./
 
 [2008 LP]:   ./
@@ -123,13 +123,13 @@
 [3007 Repo]: https://github.com/MicrosoftLearning/mslearn-azure-ml
 [3007 HTML]: https://microsoftlearning.github.io/mslearn-azure-ml/Instructions/11-Deploy-online-endpoint.html
 
-[602 LP]:    https://learn.microsoft.com/en-us/credentials/applied-skills/work-with-data-warehouses-using-microsoft-fabric/
-[602 Repo]:  ./
-[602 HTML]:  ./
-
 [601 LP]:    https://learn.microsoft.com/en-us/credentials/applied-skills/implement-lakehouse-microsoft-fabric/
 [601 Repo]:  ./
 [601 HTML]:  ./
+
+[602 LP]:    https://learn.microsoft.com/en-us/credentials/applied-skills/work-with-data-warehouses-using-microsoft-fabric/
+[602 Repo]:  ./
+[602 HTML]:  ./
 
 [603 LP]:    https://learn.microsoft.com/en-us/credentials/applied-skills/implement-a-real-time-intelligence-solution-with-microsoft-fabric/
 [603 Repo]:  ./
