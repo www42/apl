@@ -7,10 +7,10 @@
 
 |   |   |
 | - | - |
-| Labs | Microsoft Labs |
-| A | Assessment available |
-| I | Instructor Led Training (ILT) available |
-| S | Skillable available |
+| **Labs** | Microsoft Labs |
+| **A**    | Assessment available |
+| **I**    | Instructor Led Training (ILT) available |
+| **S**    | Skillable available |
 
 <br>
 <p align="right">updated on May 30, 2024</p>
