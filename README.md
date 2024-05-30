@@ -31,7 +31,7 @@
 | AZ-2002  | [Develop an ASP.NET Core web app that consumes an API][2002 LP]                                                      |[Repo][2002 Repo] <br> [HTML][2002 HTML]|✅|✅|✅|
 | AZ-2003  | [Deploy cloud-native applications using Azure Container Apps][2003 LP]                                               |[Repo][2003 Repo] <br> [HTML][2003 HTML]|✅|✅|✅|
 | AZ-2005  | Develop AI agents using Azure OpenAI and the Semantic Kernel SDK                                                     |[Repo][2005 Repo] <br> [HTML][2005 HTML]|❌|❌|❌|
-| AZ-2007  | Accelerate app development by using GitHub Copilot                                                                   |Coming <br> soon                        |❌|❌|❌|
+| AZ-2007  | Accelerate app development by using GitHub Copilot                                                                   |- <br> -                                |❌|❌|❌|
 | AZ-2008  | DevOps Foundations: The Core Principles and Practices                                                                |[Repo][2008 Repo] <br> [HTML][2008 HTML]|❌|✅|✅|
 | DP-3001  | [Migrate SQL Server workloads to Azure SQL Database][3001 LP]                                                        |[Repo][3001 Repo] <br> [HTML][3001 HTML]|✅|✅|✅|
 | DP-3007  | [Train and deploy a machine learning model with Azure Machine Learning][3007 LP]                                     |[Repo][3007 Repo] <br> [HTML][3007 HTML]|❌|✅|✅|
@@ -49,12 +49,12 @@
 | MS-4006  | Copilot for Microsoft 365 for Administrators                                                                         |[Repo][4006 Repo] <br> [HTML][4006 HTML]|❌|✅|❌|
 | MS-4007  | Copilot for Microsoft 365 User Enablement Specialist                                                                 |- <br> -                                |❌|✅|❌|
 | MS-4008  | Copilot for Microsoft 365 Interactive Experience for Executives                                                      |- <br> -                                |❌|✅|❌|
-| PL-7001  | [Create and manage canvas apps with Power Apps][7001 LP]                                                             |[Repo][7001 Repo]                       |❌|✅|❌|
-| PL-7002  | [Create and manage automated processes by using Power Automate][7002 LP]                                             |[Repo][7002 Repo]                       |❌|✅|❌|
-| PL-7003  | [Create and manage model-driven apps with PowerApps and Dataverse][7003 LP]                                          |[Repo][7003 Repo]                       |❌|✅|❌|
+| PL-7001  | [Create and manage canvas apps with Power Apps][7001 LP]                                                             |[Repo][7001 Repo] <br> [HTML][7001 HTML]|❌|✅|❌|
+| PL-7002  | [Create and manage automated processes by using Power Automate][7002 LP]                                             |[Repo][7002 Repo] <br> [HTML][7002 HTML]|❌|✅|❌|
+| PL-7003  | [Create and manage model-driven apps with PowerApps and Dataverse][7003 LP]                                          |[Repo][7003 Repo] <br> [HTML][7003 HTML]|❌|✅|❌|
 | SC-5001  | [Configure SIEM security operations using Microsoft Sentinel][5001 LP]                                               |[Repo][5001 Repo] <br> [HTML][5001 HTML]|✅|✅|✅|
 | SC-5002  | [Secure Azure services and workloads with Microsoft Defender <br> for Cloud regulatory compliance controls][5002 LP] |[Repo][5002 Repo] <br> [HTML][5002 HTML]|✅|✅|✅|
-| SC-5003  | Implement information protection and data loss prevention by using Microsoft Purview                                 |- <br> -                                |❌|✅|❌|
+| SC-5003  | Implement information protection and data loss prevention by using Microsoft Purview                                 |[Repo][5003 Repo] <br> [HTML][5003 HTML]|❌|✅|❌|
 | SC-5006  | Get started with Microsoft Copilot for Security                                                                      |- <br> -                                |❌|❌|❌|
 | SC-5008  | Configure and manage entitlement with Microsoft Entra ID                                                             |- <br> -                                |❌|❌|❌|
 
@@ -172,8 +172,8 @@
 [5002 HTML]: https://microsoftlearning.github.io/Secure-Azure-with-Microsoft-Defender-Cloud-Compliance-Controls/
 
 [5003 LP]:   ./
-[5003 Repo]: ./
-[5003 HTML]: ./
+[5003 Repo]: https://github.com/MicrosoftLearning/SC-5003_Information-protection-and-Data-Loss-Prevention
+[5003 HTML]: https://microsoftlearning.github.io/SC-5003_Information-protection-and-Data-Loss-Prevention/
 
 [5006 LP]:   ./
 [5006 Repo]: ./
@@ -184,13 +184,13 @@
 [5008 HTML]: ./
 
 [7001 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/create-manage-canvas-apps-power-apps/
-[7001 Repo]: https://github.com/MicrosoftLearning/PL-7002-Create-and-manage-canvas-apps-with-Power-Apps
-[7001 HTML]: ./
+[7001 Repo]: https://github.com/MicrosoftLearning/PL-7001-Create-and-manage-canvas-apps-with-Power-Apps
+[7001 HTML]: https://github.com/MicrosoftLearning/PL-7001-Create-and-manage-canvas-apps-with-Power-Apps/tree/master/Instructions
 
 [7002 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/create-and-manage-automated-processes-with-power-automate/
-[7002 Repo]: https://github.com/MicrosoftLearning/PL-7001-Create-and-Manage-Automated-Processes-by-using-Power-Automate
-[7002 HTML]: ./
+[7002 Repo]: https://github.com/MicrosoftLearning/PL-7002-Create-and-Manage-Automated-Processes-by-using-Power-Automate
+[7002 HTML]: https://github.com/MicrosoftLearning/PL-7002-Create-and-Manage-Automated-Processes-by-using-Power-Automate/tree/master/Instructions
 
 [7003 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/create-and-manage-model-driven-apps-with-power-apps-and-dataverse/   
 [7003 Repo]: https://github.com/MicrosoftLearning/PL-7003-Create-and-manage-model-driven-apps-with-Power-Apps-and-Dataverse
-[7003 HTML]: ./
+[7003 HTML]: https://github.com/MicrosoftLearning/PL-7003-Create-and-manage-model-driven-apps-with-Power-Apps-and-Dataverse/tree/master/Instructions
