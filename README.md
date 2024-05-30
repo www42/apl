@@ -3,8 +3,8 @@
 
 [Browse](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills) the full list of Microsoft Applied Skills.
 <br>
-<br>
-<br>
+
+
 |   |   |
 | - | - |
 | M | Microsoft Labs |
