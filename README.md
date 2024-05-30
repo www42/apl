@@ -22,7 +22,7 @@
 | AZ-1002  | [Configure secure access to your workloads using Azure networking][1002 LP]                                          |[Repo][1002 Repo] <br> [HTML][1002 HTML]|✅|✅|✅|
 | AZ-1003  | [Secure storage for Azure Files and Azure Blob Storage][1003 LP]                                                     |[Repo][1003 Repo] <br> [HTML][1003 HTML]|✅|✅|✅|
 | AZ-1004  | [Deploy and configure Azure Monitor][1004 LP]                                                                        |[Repo][1004 Repo] <br> [HTML][1004 HTML]|❌|✅|✅|
-| AZ-1005  | Coming soon: Configuring Azure Virtual Desktop for the Enterprise                                                    |                                        |❌|✅|✅|
+| AZ-1005  | Configuring Azure Virtual Desktop for the Enterprise                                                                 |Coming<br>soon                          |❌|✅|✅|
 | AZ-1006  | Coming soon: Migrate and modernize SAP in the Microsoft Cloud                                                        |                                        |❌|✅|✅|
 | AZ-2001  | [Implement security through a pipeline using Azure DevOps][2001 LP]                                                  |[Repo][2001 Repo] <br> [HTML][2001 HTML]|✅|✅|✅|
 | AZ-2002  | [Develop an ASP.NET Core web app that consumes an API][2002 LP]                                                      |[Repo][2002 Repo] <br> [HTML][2002 HTML]|✅|✅|✅|
