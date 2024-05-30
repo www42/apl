@@ -1,15 +1,16 @@
 # Microsoft Applied Skills
 
+
+[Browse](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills) the full list of Microsoft Applied Skills.
+<br>
+<br>
+<br>
 |   |   |
 | - | - |
 | M | Microsoft Labs |
 | A | Assessment available |
 | I | Instructor Led Training (ILT) available |
 | S | Skillable available |
-
-<br>
-<br>
-<br>
 
 |          | Learning Path                                                                                                        | M                                      |A|I|S|
 | -------- | -------------------------------------------------------------------------------------------------------------------- |----------------------------------------|-|-|-|
