@@ -25,8 +25,8 @@
 | AZ-1002  | [Configure secure access to your workloads using Azure networking][1002 LP]                                          |[Repo][1002 Repo] <br> [HTML][1002 HTML]|✅|✅|✅|
 | AZ-1003  | [Secure storage for Azure Files and Azure Blob Storage][1003 LP]                                                     |[Repo][1003 Repo] <br> [HTML][1003 HTML]|✅|✅|✅|
 | AZ-1004  | [Deploy and configure Azure Monitor][1004 LP]                                                                        |[Repo][1004 Repo] <br> [HTML][1004 HTML]|❌|✅|✅|
-| AZ-1005  | Configuring Azure Virtual Desktop for the Enterprise                                                                 |Coming <br> soon                        |❌|✅|✅|
-| AZ-1006  | Migrate and modernize SAP in the Microsoft Cloud                                                                     |Coming <br> soon                        |❌|✅|✅|
+| AZ-1005  | Configuring Azure Virtual Desktop for the Enterprise                                                                 |- <br> -                                |❌|✅|✅|
+| AZ-1006  | Migrate and modernize SAP in the Microsoft Cloud                                                                     |- <br> -                                |❌|✅|✅|
 | AZ-2001  | [Implement security through a pipeline using Azure DevOps][2001 LP]                                                  |[Repo][2001 Repo] <br> [HTML][2001 HTML]|✅|✅|✅|
 | AZ-2002  | [Develop an ASP.NET Core web app that consumes an API][2002 LP]                                                      |[Repo][2002 Repo] <br> [HTML][2002 HTML]|✅|✅|✅|
 | AZ-2003  | [Deploy cloud-native applications using Azure Container Apps][2003 LP]                                               |[Repo][2003 Repo] <br> [HTML][2003 HTML]|✅|✅|✅|
@@ -44,8 +44,8 @@
 | DP-603   | [Implementing Real Time Analytics with Microsoft Fabric][603 LP]                                                     |? <br> ?                                |✅|✅|✅|
 | DP-604   | [Implement a data science and machine learning solution with Microsoft Fabric][604 LP]                               |? <br> ?                                |✅|✅|✅|
 | MS-4001  | [Build collaborative apps for Microsoft Teams][4001 LP]                                                              |[Repo][4001 Repo] <br> [HTML][4001 HTML]|❌|✅|✅|
-| MS-4004  | Empower your workforce with Copilot for Microsoft 365 Use Cases                                                      |[Repo][4004 Repo] <br>                  |❌|✅|❌|
-| MS-4005  | Craft effective prompts for Microsoft Copilot for Microsoft 365                                                      |[Repo][4005 Repo] <br>                  |❌|✅|❌|
+| MS-4004  | Empower your workforce with Copilot for Microsoft 365 Use Cases                                                      |[Repo][4004 Repo] <br> [HTML][4004 HTML]|❌|✅|❌|
+| MS-4005  | Craft effective prompts for Microsoft Copilot for Microsoft 365                                                      |[Repo][4005 Repo] <br> [HTML][4005 HTML]|❌|✅|❌|
 | MS-4006  | Copilot for Microsoft 365 for Administrators                                                                         |[Repo][4006 Repo] <br> [HTML][4006 HTML]|❌|✅|❌|
 | MS-4007  | Copilot for Microsoft 365 User Enablement Specialist                                                                 |Coming <br> soon                        |❌|✅|❌|
 | MS-4008  | Copilot for Microsoft 365 Interactive Experience for Executives                                                      |Coming <br> soon                        |❌|✅|❌|
@@ -145,15 +145,15 @@
 
 [4004 LP]:   ./
 [4004 Repo]: https://github.com/MicrosoftLearning/MS-4004-Empower-workforce-copilot-use-cases
-[4004 HTML]: ./
+[4004 HTML]: https://github.com/MicrosoftLearning/MS-4004-Empower-workforce-copilot-use-cases/tree/master/Instructions
 
 [4005 LP]:   ./
 [4005 Repo]: https://github.com/MicrosoftLearning/MS-4005-Craft-effective-prompts-for-Microsoft-Copilot-for-Microsoft-365/
-[4005 HTML]: ./
+[4005 HTML]: https://github.com/MicrosoftLearning/MS-4005-Craft-effective-prompts-for-Microsoft-Copilot-for-Microsoft-365/tree/master/Instructions
 
 [4006 LP]:   https://learn.microsoft.com/en-us/training/courses/ms-4006
 [4006 Repo]: https://github.com/MicrosoftLearning/MS-4006-Copilot-for-Microsoft-365-for-Administrators
-[4006 HTML]: ./
+[4006 HTML]: https://github.com/MicrosoftLearning/MS-4006-Copilot-for-Microsoft-365-for-Administrators/tree/master/Instructions
 
 [4007 LP]:   ./
 [4007 Repo]: ./
