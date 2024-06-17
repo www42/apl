@@ -24,7 +24,7 @@
 | AI-3004 [Build an Azure AI Vision solution][3004 APL]                                                                         | [LP][3004 LP] | [Repo][3004 Repo] <br> [HTML][3004 HTML] |❌|✅|✅|
 | AI-3016 Develop copilots with Azure AI Studio                                                                                 | [LP][3016 LP] | -                                        |❌|❌|❌|
 | AI-3017 Microsoft AI for business leaders                                                                                     | [LP][3017 LP] | -                                        |❌|❌|❌|
-| AI-3018 Copilot Foundations                                                                                                   | [LP][3018 LP] | -                                        |❌|❌|❌|
+| AI-3018 Copilot Foundations                                                                                                   | [LP][3018 LP] | -                                        |❌|✅|❌|
 | AZ-1001 [Deploy containers by using Azure Kubernetes Service][1001 APL]                                                       | [LP][1001 LP] | [Repo][1001 Repo] <br> [HTML][1001 HTML] |❌|✅|✅|
 | AZ-1002 [Configure secure access to your workloads using Azure networking][1002 APL]                                          | [LP][1002 LP] | [Repo][1002 Repo] <br> [HTML][1002 HTML] |✅|✅|✅|
 | AZ-1003 [Secure storage for Azure Files and Azure Blob Storage][1003 APL]                                                     | [LP][1003 LP] | [Repo][1003 Repo] <br> [HTML][1003 HTML] |✅|✅|✅|
