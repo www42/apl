@@ -16,6 +16,15 @@
 <br>
 <p align="right">updated on May 30, 2024</p>
 
+
+|                                      |   |         |                                                                       | LP            | Labs                                     |
+| ------------------------------------ | - | ------- | --------------------------------------------------------------------- | ------------- |------------------------------------------|
+| <img src="media/apl.png" width="30"> | ✅ | AI-050  | [Develop generative AI solutions with Azure OpenAI Service][050 APL] | [LP][050 LP]  | [Repo][050 Repo]  <br> [HTML][050 HTML]  |
+
+<br>
+<br>
+<br>
+
 | Applied Skills                                                                                                                | LP            | Labs                                     |A|I|S|
 | ----------------------------------------------------------------------------------------------------------------------------- | ------------- |------------------------------------------|-|-|-|
 | AI-050  [Develop generative AI solutions with Azure OpenAI Service][050 APL]                                                  | [LP][050 LP]  | [Repo][050 Repo]  <br> [HTML][050 HTML]  |✅|✅|✅|
