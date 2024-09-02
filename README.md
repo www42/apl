@@ -54,7 +54,7 @@ updated on July 4, 2024
 |                                     |<img src="media/copilot.png" width="50">| MS-4006 | [Copilot for Microsoft 365 for Administrators][4006 LP]                                                               |                 | [Repo][4006 Repo] <br> [HTML][4006 HTML] |
 |                                     |<img src="media/copilot.png" width="50">| MS-4007 | [Copilot for Microsoft 365 User Enablement Specialist][4007 LP]                                                       |                 |                                          |
 |                                     |<img src="media/copilot.png" width="50">| MS-4008 | [Copilot for Microsoft 365 Interactive Experience for Executives][4008 LP]                                            |                 |                                          |
-|                                     |<img src="media/copilot.png" width="50">| MS-4010 | [Build Plugins and Connectors for Microsoft Copilot for Microsoft 365][4010 LP]                                       |                 |                                          |
+|                                     |<img src="media/copilot.png" width="50">| MS-4010 | [Build Plugins and Connectors for Microsoft Copilot for Microsoft 365][4010 LP]                                       |                 | [Repo][4010 Repo]                        |
 |                                     |<img src="media/copilot.png" width="50">| MS-4012 | Microsoft Copilot Web Based Interactive experience for Executives                                                     |                 |                                          |
 | <img src="media/apl.png" width="30">❌|                                        | PL-7001 | [Create and manage canvas apps with Power Apps][7001 LP]                                                              | [APL][7001 APL] | [Repo][7001 Repo] <br> [HTML][7001 HTML] |
 | <img src="media/apl.png" width="30">❌|                                        | PL-7002 | [Create and manage automated processes by using Power Automate][7002 LP]                                              | [APL][7002 APL] | [Repo][7002 Repo] <br> [HTML][7002 HTML] |
@@ -204,6 +204,7 @@ updated on July 4, 2024
 [4008 LP]:   https://learn.microsoft.com/en-us/training/paths/microsoft-copilot-for-microsoft-365-executive-challenge/
 
 [4010 LP]:   https://learn.microsoft.com/en-us/training/paths/build-plugins-connectors-microsoft-copilot-microsoft-365/
+[4010 Repo]: https://github.com/MicrosoftLearning/MS-4010-Build-Plugins-Connectors-Microsoft-Copilot-M365
 
 [5001 LP]:   https://learn.microsoft.com/en-us/training/paths/configure-security-information-event-management-operations-using-microsoft-sentinel/
 [5001 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/configure-siem-security-operations-using-microsoft-sentinel/
