@@ -4,7 +4,7 @@
 |   |   |   |
 | - | - | - |
 | <img src="media/apl.png" width="30"> |   | This Training has an Applied Skill [Browse the full list of Applied Skills.](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)  |
-| <img src="media/gpl.png" width="30"> |   | This Training will have an Applied Skill in the near future |
+| <img src="media/gpl.png" width="30"> |   |Coming soon |
 | ✅ |   | This assessment is available |
 | ❌ |   | This assessment is currently undergoing maintenance |
 | [APL]() |  | Prepare for the assessment / take the assessment |
@@ -14,37 +14,39 @@
 <br>
 updated on July 4, 2024
 
-|                                                      |                                        |         | Learning Path                                                                                        | Labs                                    |
-| -----------------------------------------------------| -------------------------------------- | ------- | --------------------------------------------------------------------------------------------------- |------------------------------------------|
-| <img src="media/apl.png" width="30">✅[APL][050 APL] |                                        | AI-050  | [Develop generative AI solutions with Azure OpenAI Service][050 LP]                                 | [Repo][050 Repo]  <br> [HTML][050 HTML]  |
-| <img src="media/apl.png" width="30">✅[APL][3002 APL]|                                        | AI-3002 | [Create an intelligent document processing solution with Azure AI Document Intelligence][3002 LP]   | [Repo][3002 Repo] <br> [HTML][3002 HTML] |
-| <img src="media/apl.png" width="30">✅[APL][3003 APL]|                                        | AI-3003 | [Build a natural language processing solution with Azure AI Language][3003 LP]                      | [Repo][3003 Repo] <br> [HTML][3003 HTML] |
-| <img src="media/apl.png" width="30">❌[APL][3004 APL]|                                        | AI-3004 | [Build an Azure AI Vision solution][3004 LP]                                                        | [Repo][3004 Repo] <br> [HTML][3004 HTML] |
+|                                                      |                                   |         | Learning Path                                                                                        | Labs                                    |
+| -----------------------------------------------------| --------------------------------- | ------- | --------------------------------------------------------------------------------------------------- |------------------------------------------|
+| <img src="media/apl.png" width="30">✅[APL][050 APL] |                                   | AI-050  | [Develop generative AI solutions with Azure OpenAI Service][050 LP]                                 | [Repo][050 Repo]  <br> [HTML][050 HTML]  |
+| <img src="media/apl.png" width="30">✅[APL][3002 APL]|                                   | AI-3002 | [Create an intelligent document processing solution with Azure AI Document Intelligence][3002 LP]   | [Repo][3002 Repo] <br> [HTML][3002 HTML] |
+| <img src="media/apl.png" width="30">✅[APL][3003 APL]|                                   | AI-3003 | [Build a natural language processing solution with Azure AI Language][3003 LP]                      | [Repo][3003 Repo] <br> [HTML][3003 HTML] |
+| <img src="media/apl.png" width="30">❌[APL][3004 APL]|                                   | AI-3004 | [Build an Azure AI Vision solution][3004 LP]                                                        | [Repo][3004 Repo] <br> [HTML][3004 HTML] |
 | <img src="media/gpl.png" width="30">                 |<img src="media/co.png" width="50">| AI-3016 | [Develop copilots with Azure AI Studio][3016 LP]                                                    |                                          |
-|                                                      |                                        | AI-3017 | [Microsoft AI for business leaders][3017 LP]                                                        |                                          |
+|                                                      |                                   | AI-3017 | [Microsoft AI for business leaders][3017 LP]                                                        |                                          |
 |                                                      |<img src="media/co.png" width="50">| AI-3018 | [Copilot Foundations][3018 LP]                                                                      |                                          |
-| <img src="media/gpl.png" width="30">                 |                                        | AI-3019 | [AI-3019: Build AI Apps with Azure Database for PostgreSQL][3019 LP]                                |                                          |
-| **Retired!**                          [APL][1001 APL]|                                        | AZ-1001 | [Deploy containers by using Azure Kubernetes Service][1001 LP]                                      | [Repo][1001 Repo] <br> [HTML][1001 HTML] |
-| <img src="media/apl.png" width="30">✅[APL][1002 APL]|                                        | AZ-1002 | [Configure secure access to your workloads using Azure networking][1002 LP]                         | [Repo][1002 Repo] <br> [HTML][1002 HTML] |
-| <img src="media/apl.png" width="30">✅[APL][1003 APL]|                                        | AZ-1003 | [Secure storage for Azure Files and Azure Blob Storage][1003 LP]                                    | [Repo][1003 Repo] <br> [HTML][1003 HTML] |
-| <img src="media/apl.png" width="30">❌[APL][1004 APL]|                                        | AZ-1004 | [Deploy and configure Azure Monitor][1004 LP]                                                       | [Repo][1004 Repo] <br> [HTML][1004 HTML] |
-|                                                      |                                        | AZ-1005 | [Configuring Azure Virtual Desktop for the Enterprise][1005 LP]                                     |                                          |
-|                                                      |                                        | AZ-1006 | [Migrate and modernize SAP in the Microsoft Cloud][1006 LP]                                         |                                          |
-| <img src="media/apl.png" width="30">✅[APL][1007 APL]|                                        | AZ-1007 | [Deploy and administer Linux virtual machines on Azure][1007 LP]                                   | [Repo][1007 Repo] <br> [HTML][1007 HTML]|
-| <img src="media/apl.png" width="30">✅[APL][1008 APL]|                                        | AZ-1008 | [Administer Active Directory Domain Services][1008 LP]                                             | [Repo][1008 Repo] <br> [HTML][1008 HTML] |
-| <img src="media/apl.png" width="30">✅[APL][1010 APL]|                                        | AZ-1010 | [Deploy and manage Microsoft Azure Arc-enabled servers][1010 LP]                                   | [Repo][1010 Repo]                                          |
-| <img src="media/apl.png" width="30">✅[APL][2001 APL]|                                        | AZ-2001 | [Implement security through a pipeline using Azure DevOps][2001 LP]                                | [Repo][2001 Repo] <br> [HTML][2001 HTML] |
-| <img src="media/apl.png" width="30">✅[APL][2002 APL]|                                        | AZ-2002 | [Develop an ASP.NET Core web app that consumes an API][2002 LP]                                    | [Repo][2002 Repo] <br> [HTML][2002 HTML] |
-| <img src="media/apl.png" width="30">✅[APL][2003 APL]|                                        | AZ-2003 | [Deploy cloud-native applications using Azure Container Apps][2003 LP]                             | [Repo][2003 Repo] <br> [HTML][2003 HTML] |
-| <img src="media/apl.png" width="30">✅[APL][2005 APL]|                                        | AZ-2005 | [Develop AI agents using Azure OpenAI and the Semantic Kernel SDK][2005 LP]                        | [Repo][2005 Repo] <br> [HTML][2005 HTML] |
-| <img src="media/gpl.png" width="30">                 |                                        | AZ-2007 | [Accelerate app development by using GitHub Copilot][2007 LP]                                       |                                          |
-|                                     |                                        | AZ-2008 | [DevOps Foundations: The Core Principles and Practices][2008 LP]                                                     | [Repo][2008 Repo] <br> [HTML][2008 HTML] |
-| <img src="media/apl.png" width="30">✅[APL][3001 APL]|                                        | DP-3001 | [Migrate SQL Server workloads to Azure SQL Database][3001 LP]                                       | [Repo][3001 Repo] <br> [HTML][3001 HTML] |
-| <img src="media/apl.png" width="30">❌[APL][3007 APL]|                                        | DP-3007 | [Train and deploy a machine learning model with Azure Machine Learning][3007 LP]                    | [Repo][3007 Repo] <br> [HTML][3007 HTML] |
-|                                     |                                        | DP-3011 | [Implementing a Data Analytics Solution with Azure Databricks][3011 LP]                                               |                                          |
-|                                     |                                        | DP-3012 | [Implementing a Data Analytics Solution with Synapse Analytics][3012 LP]                                              |                                          |
-|                                     |                                        | DP-3014 | [Implementing a Machine Learning Solution with Azure Databricks][3014 LP]                                             |                                          |
-|                                     |                                        | DP-3015 | [Getting Started with Cosmos DB NoSQL Development][3015 LP]                                                           |                                          |
+| <img src="media/gpl.png" width="30">                 |                                   | AI-3019 | [AI-3019: Build AI Apps with Azure Database for PostgreSQL][3019 LP]                                |                                          |
+| **Retired!**                          [APL][1001 APL]|                                   | AZ-1001 | [Deploy containers by using Azure Kubernetes Service][1001 LP]                                      | [Repo][1001 Repo] <br> [HTML][1001 HTML] |
+| <img src="media/apl.png" width="30">✅[APL][1002 APL]|                                   | AZ-1002 | [Configure secure access to your workloads using Azure networking][1002 LP]                         | [Repo][1002 Repo] <br> [HTML][1002 HTML] |
+| <img src="media/apl.png" width="30">✅[APL][1003 APL]|                                   | AZ-1003 | [Secure storage for Azure Files and Azure Blob Storage][1003 LP]                                    | [Repo][1003 Repo] <br> [HTML][1003 HTML] |
+| <img src="media/apl.png" width="30">❌[APL][1004 APL]|                                   | AZ-1004 | [Deploy and configure Azure Monitor][1004 LP]                                                       | [Repo][1004 Repo] <br> [HTML][1004 HTML] |
+|                                                      |                                   | AZ-1005 | [Configuring Azure Virtual Desktop for the Enterprise][1005 LP]                                     |                                          |
+|                                                      |                                   | AZ-1006 | [Migrate and modernize SAP in the Microsoft Cloud][1006 LP]                                         |                                          |
+| <img src="media/apl.png" width="30">✅[APL][1007 APL]|                                   | AZ-1007 | [Deploy and administer Linux virtual machines on Azure][1007 LP]                                   | [Repo][1007 Repo] <br> [HTML][1007 HTML]|
+| <img src="media/apl.png" width="30">✅[APL][1008 APL]|                                   | AZ-1008 | [Administer Active Directory Domain Services][1008 LP]                                             | [Repo][1008 Repo] <br> [HTML][1008 HTML] |
+| <img src="media/apl.png" width="30">✅[APL][1010 APL]|                                   | AZ-1010 | [Deploy and manage Microsoft Azure Arc-enabled servers][1010 LP]                                   | [Repo][1010 Repo]                                          |
+| <img src="media/apl.png" width="30">✅[APL][2001 APL]|                                   | AZ-2001 | [Implement security through a pipeline using Azure DevOps][2001 LP]                                | [Repo][2001 Repo] <br> [HTML][2001 HTML] |
+| <img src="media/apl.png" width="30">✅[APL][2002 APL]|                                   | AZ-2002 | [Develop an ASP.NET Core web app that consumes an API][2002 LP]                                    | [Repo][2002 Repo] <br> [HTML][2002 HTML] |
+| <img src="media/apl.png" width="30">✅[APL][2003 APL]|                                   | AZ-2003 | [Deploy cloud-native applications using Azure Container Apps][2003 LP]                             | [Repo][2003 Repo] <br> [HTML][2003 HTML] |
+| <img src="media/apl.png" width="30">✅[APL][2005 APL]|                                   | AZ-2005 | [Develop AI agents using Azure OpenAI and the Semantic Kernel SDK][2005 LP]                        | [Repo][2005 Repo] <br> [HTML][2005 HTML] |
+| <img src="media/gpl.png" width="30">                 |                                    | AZ-2007 | [Accelerate app development by using GitHub Copilot][2007 LP]                                      |                                          |
+|                                                      |                                    | AZ-2008 | [DevOps Foundations: The Core Principles and Practices][2008 LP]                                   | [Repo][2008 Repo] <br> [HTML][2008 HTML] |
+| <img src="media/apl.png" width="30">✅[APL][3001 APL]|                                    | DP-3001 | [Migrate SQL Server workloads to Azure SQL Database][3001 LP]                                      | [Repo][3001 Repo] <br> [HTML][3001 HTML] |
+| <img src="media/apl.png" width="30">❌[APL][3007 APL]|                                    | DP-3007 | [Train and deploy a machine learning model with Azure Machine Learning][3007 LP]                   | [Repo][3007 Repo] <br> [HTML][3007 HTML] |
+|                                                      |                                    | DP-3011 | [Implementing a Data Analytics Solution with Azure Databricks][3011 LP]                            |                                          |
+|                                                      |                                    | DP-3012 | [Implementing a Data Analytics Solution with Synapse Analytics][3012 LP]                           |                                          |
+|                                                      |                                    | DP-3014 | [Implementing a Machine Learning Solution with Azure Databricks][3014 LP]                          |                                          |
+|                                                      |                                    | DP-3015 | [Getting Started with Cosmos DB NoSQL Development][3015 LP]                                        |                                          |
+| <img src="media/gpl.png" width="30">                 |                                    | DP-3020 | [Develop data-driven applications with Azure SQL Database][3020 LP]                                           |                                          |
+| <img src="media/gpl.png" width="30">                 |                                    | DP-3021 | [Configure and migrate to Azure Database for PostgreSQL][3021 LP]                                  |                                          |
 | <img src="media/apl.png" width="30">✅[APL][601 APL]|                                        | DP-601  | [Implement a lakehouse in Microsoft Fabric][601 LP]                                                                   |                                          |
 | <img src="media/apl.png" width="30">✅[APL][602 APL]|                                        | DP-602  | [Implement a data warehouse in Microsoft Fabric][602 LP]                                                              |                                          |
 | <img src="media/apl.png" width="30">✅[APL][603 APL]|                                        | DP-603  | [Implementing Real-Time Intelligence with Microsoft Fabric][603 LP]                                                   |                                          |
@@ -185,6 +187,10 @@ updated on July 4, 2024
 [3018 LP]:   https://learn.microsoft.com/training/paths/copilot-foundations/
 
 [3019 LP]:   https://learn.microsoft.com/training/paths/build-ai-apps-azure-database-postgresql/
+
+[3020 LP]:
+
+[3021 LP]:   https://learn.microsoft.com/training/paths/microsoft-learn-azure-database-for-postgresql/
 
 [601 LP]:    https://learn.microsoft.com/en-us/training/paths/implement-lakehouse-microsoft-fabric/
 [601 APL]:   https://learn.microsoft.com/en-us/credentials/applied-skills/implement-lakehouse-microsoft-fabric/
