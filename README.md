@@ -4,7 +4,7 @@
 |   |   |   |
 | - | - | - |
 | <img src="media/apl.png" width="30"> |   | This Training has an Applied Skill [Browse the full list of Applied Skills.](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)  |
-| <img src="media/swl.png" width="30"> |   | This Training will have an Applied Skill in the near future |
+| <img src="media/apl-grey.png" width="30"> |   | This Training will have an Applied Skill in the near future |
 | ✅ |   | This assessment is available |
 | ❌ |   | This assessment is currently undergoing maintenance |
 | [APL]() |  | Prepare for the assessment / take the assessment |
@@ -22,7 +22,7 @@ updated on July 4, 2024
 | <img src="media/apl.png" width="30">✅[APL][3002 APL]|                                        | AI-3002 | [Create an intelligent document processing solution with Azure AI Document Intelligence][3002 LP]                     | [Repo][3002 Repo] <br> [HTML][3002 HTML] |
 | <img src="media/apl.png" width="30">✅[APL][3003 APL]|                                        | AI-3003 | [Build a natural language processing solution with Azure AI Language][3003 LP]                                        | [Repo][3003 Repo] <br> [HTML][3003 HTML] |
 | <img src="media/apl.png" width="30">❌[APL][3004 APL]|                                        | AI-3004 | [Build an Azure AI Vision solution][3004 LP]                                                                          | [Repo][3004 Repo] <br> [HTML][3004 HTML] |
-| <img src="media/swl.png" width="30">|<img src="media/copilot.png" width="50">| AI-3016 | [Develop copilots with Azure AI Studio][3016 LP]                                                                      |                                          |
+| <img src="media/apl-grey.png" width="30">|<img src="media/copilot.png" width="50">| AI-3016 | [Develop copilots with Azure AI Studio][3016 LP]                                                                      |                                          |
 |                                      |                                        | AI-3017 | [Microsoft AI for business leaders][3017 LP]                                                                          |                                          |
 |                                      |<img src="media/copilot.png" width="50">| AI-3018 | [Copilot Foundations][3018 LP]                                                                                        |                                          |
 | **Retired!** [APL][1001 APL]|                                        | AZ-1001 | [Deploy containers by using Azure Kubernetes Service][1001 LP]                                           | [Repo][1001 Repo] <br> [HTML][1001 HTML] |
