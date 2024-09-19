@@ -12,7 +12,7 @@
 
 <br>
 <br>
-updated on July 4, 2024
+updated on September 19, 2024
 
 |                                                      |                                   |         | Learning Path                                                                                        | Labs                                    |
 | -----------------------------------------------------| --------------------------------- | ------- | --------------------------------------------------------------------------------------------------- |------------------------------------------|
@@ -45,33 +45,36 @@ updated on July 4, 2024
 |                                                      |                                    | DP-3012 | [Implementing a Data Analytics Solution with Synapse Analytics][3012 LP]                           |                                          |
 |                                                      |                                    | DP-3014 | [Implementing a Machine Learning Solution with Azure Databricks][3014 LP]                          |                                          |
 |                                                      |                                    | DP-3015 | [Getting Started with Cosmos DB NoSQL Development][3015 LP]                                        |                                          |
-| <img src="media/gpl.png" width="30">                 |                                    | DP-3020 | [Develop data-driven applications with Azure SQL Database][3020 LP]                                           |                                          |
+| <img src="media/gpl.png" width="30">                 |                                    | DP-3020 | Develop data-driven applications with Azure SQL Database                                           |                                          |
 | <img src="media/gpl.png" width="30">                 |                                    | DP-3021 | [Configure and migrate to Azure Database for PostgreSQL][3021 LP]                                  |                                          |
-| <img src="media/apl.png" width="30">✅[APL][601 APL]|                                        | DP-601  | [Implement a lakehouse in Microsoft Fabric][601 LP]                                                                   |                                          |
-| <img src="media/apl.png" width="30">✅[APL][602 APL]|                                        | DP-602  | [Implement a data warehouse in Microsoft Fabric][602 LP]                                                              |                                          |
-| <img src="media/apl.png" width="30">✅[APL][603 APL]|                                        | DP-603  | [Implementing Real-Time Intelligence with Microsoft Fabric][603 LP]                                                   |                                          |
-| <img src="media/apl.png" width="30">✅[APL][604 APL]|                                        | DP-604  | [Implement a data science and machine learning solution with Microsoft Fabric][604 LP]                                |                                          |
-|                                     |                                        | MD-4011 | Enhance Endpoint Security with Microsoft Intune and Microsoft Copilot for Security                                    |                                          |
-| **Retired!** [APL][4001 APL]|                                        | MS-4001 | [Build collaborative apps for Microsoft Teams][4001 LP]                                                               | [Repo][4001 Repo] <br> [HTML][4001 HTML] |
-|                                     |<img src="media/co.png" width="50">| MS-4004 | [Empower your workforce with Copilot for Microsoft 365 Use Cases][4004 LP]                                            | [Repo][4004 Repo] <br> [HTML][4004 HTML] |
-|                                     |<img src="media/co.png" width="50">| MS-4005 | [Craft effective prompts for Microsoft Copilot for Microsoft 365][4005 LP]                                            | [Repo][4005 Repo] <br> [HTML][4005 HTML] |
-|                                     |<img src="media/co.png" width="50">| MS-4006 | [Copilot for Microsoft 365 for Administrators][4006 LP]                                                               | [Repo][4006 Repo] <br> [HTML][4006 HTML] |
-|                                     |<img src="media/co.png" width="50">| MS-4007 | [Copilot for Microsoft 365 User Enablement Specialist][4007 LP]                                                       |                                          |
-|                                     |<img src="media/co.png" width="50">| MS-4008 | [Copilot for Microsoft 365 Interactive Experience for Executives][4008 LP]                                            |                                          |
-|                                     |<img src="media/co.png" width="50">| MS-4010 | [Build Plugins and Connectors for Microsoft Copilot for Microsoft 365][4010 LP]                                       | [Repo][4010 Repo]                        |
-|                                     |<img src="media/co.png" width="50">| MS-4011 |                                       | [Repo][4010 Repo]                        |
-|                                     |<img src="media/co.png" width="50">| MS-4012 | Microsoft Copilot Web Based Interactive experience for Executives                                                     |                                          |
-|                                     |<img src="media/co.png" width="50">| MS-4014 | Microsoft Copilot Web Based Interactive experience for Executives                                                     |                                          |
-| <img src="media/apl.png" width="30">✅[APL][7001 APL]|                                        | PL-7001 | [Create and manage canvas apps with Power Apps][7001 LP]                                                              | [Repo][7001 Repo] <br> [HTML][7001 HTML] |
-| <img src="media/apl.png" width="30">✅[APL][7002 APL]|                                        | PL-7002 | [Create and manage automated processes by using Power Automate][7002 LP]                                              | [Repo][7002 Repo] <br> [HTML][7002 HTML] |
-| <img src="media/apl.png" width="30">✅[APL][7003 APL]|                                        | PL-7003 | [Create and manage model-driven apps with PowerApps and Dataverse][7003 LP]                                           | [Repo][7003 Repo] <br> [HTML][7003 HTML] |
-| <img src="media/apl.png" width="30">|<img src="media/co.png" width="50">| PL-7008 | Create custom copilots with Copilot Studio                                                                            |                                          |
-| <img src="media/apl.png" width="30">✅[APL][5001 APL]|                                        | SC-5001 | [Configure SIEM security operations using Microsoft Sentinel][5001 LP]                                                | [Repo][5001 Repo] <br> [HTML][5001 HTML] |
-| <img src="media/apl.png" width="30">✅[APL][5002 APL]|                                        | SC-5002 | [Secure Azure services and workloads with Microsoft Defender for Cloud regulatory compliance controls][5002 LP]       | [Repo][5002 Repo] <br> [HTML][5002 HTML] |
-| <img src="media/apl.png" width="30">|                                        | SC-5003 | [Implement information protection and data loss prevention by using Microsoft Purview][5003 LP]                       | [Repo][5003 Repo] <br> [HTML][5003 HTML] |
-|                                     |                                        | SC-5006 | [Get started with Microsoft Copilot for Security][5006 LP]                                                            |                                          |
-| <img src="media/apl.png" width="30">|                                        | SC-5007 | Implement retention, eDiscovery, and Communication compliance in Microsoft Purview                                    |                                          |
-|                                     |                                        | SC-5008 | [Configure and manage entitlement with Microsoft Entra ID][5008 LP]                                                   |                                          |
+| <img src="media/apl.png" width="30">✅[APL][601 APL]|                                     | DP-601  | [Implement a lakehouse in Microsoft Fabric][601 LP]                                                |                                          |
+| <img src="media/apl.png" width="30">✅[APL][602 APL]|                                     | DP-602  | [Implement a data warehouse in Microsoft Fabric][602 LP]                                           |                                          |
+| <img src="media/apl.png" width="30">✅[APL][603 APL]|                                     | DP-603  | [Implementing Real-Time Intelligence with Microsoft Fabric][603 LP]                                |                                          |
+| <img src="media/apl.png" width="30">✅[APL][604 APL]|                                     | DP-604  | [Implement a data science and machine learning solution with Microsoft Fabric][604 LP]             |                                          |
+| <img src="media/apl.png" width="30">✅[APL][605 APL]|                                     | DP-605  | [Develop dynamic reports with Microsoft Power BI][605 LP]                                          |                                          |
+|                                                     |                                     | MD-4011 | [Enhance Endpoint Security with Microsoft Intune and Microsoft Copilot for Security][4011 LP]       |                                          |
+| **Retired!**                         [APL][4001 APL]|                                     | MS-4001 | [Build collaborative apps for Microsoft Teams][4001 LP]                                             | [Repo][4001 Repo] <br> [HTML][4001 HTML] |
+|                                                      |<img src="media/co.png" width="50">| MS-4004 | [Empower your workforce with Copilot for Microsoft 365 Use Cases][4004 LP]                           | [Repo][4004 Repo] <br> [HTML][4004 HTML] |
+|                                                      |<img src="media/co.png" width="50">| MS-4005 | [Craft effective prompts for Microsoft Copilot for Microsoft 365][4005 LP]                           | [Repo][4005 Repo] <br> [HTML][4005 HTML] |
+|                                                      |<img src="media/co.png" width="50">| MS-4006 | [Copilot for Microsoft 365 for Administrators][4006 LP]                                              | [Repo][4006 Repo] <br> [HTML][4006 HTML] |
+|                                                      |<img src="media/co.png" width="50">| MS-4007 | [Copilot for Microsoft 365 User Enablement Specialist][4007 LP]                                      |                                          |
+|                                                      |<img src="media/co.png" width="50">| MS-4008 | [Copilot for Microsoft 365 Interactive Experience for Executives][4008 LP]                           |                                          |
+|                                                      |<img src="media/co.png" width="50">| MS-4009 | [Extend Microsoft Copilot for Microsoft 365 with Copilot Studio][4009 LP]                            |                                          |
+|                                                      |<img src="media/co.png" width="50">| MS-4010 | [Build Plugins and Connectors for Microsoft Copilot for Microsoft 365][4010 LP]                      | [Repo][4010 Repo]                        |
+|                                                      |<img src="media/co.png" width="50">| MS-4012 | [Microsoft Copilot Interactive Experience for Executives][4012 LP]                                   |                                          |
+|                                                      |<img src="media/co.png" width="50">| MS-4014 | Build a foundation to extend Microsoft 365 Copilot                                                   |                                          |
+| <img src="media/gpl.png" width="30">                 |<img src="media/co.png" width="50">| MS-4015 | Build custom engine copilots for Microsoft Teams                                                     |                                          |
+|                                                      |<img src="media/co.png" width="50">| MS-4017 | [Manage and extend Microsoft 365 Copilot][4017 LP]                                                   |                                          |
+| <img src="media/apl.png" width="30">✅[APL][7001 APL]|                                   | PL-7001 | [Create and manage canvas apps with Power Apps][7001 LP]                                             | [Repo][7001 Repo] <br> [HTML][7001 HTML] |
+| <img src="media/apl.png" width="30">✅[APL][7002 APL]|                                   | PL-7002 | [Create and manage automated processes by using Power Automate][7002 LP]                             | [Repo][7002 Repo] <br> [HTML][7002 HTML] |
+| <img src="media/apl.png" width="30">✅[APL][7003 APL]|                                   | PL-7003 | [Create and manage model-driven apps with PowerApps and Dataverse][7003 LP]                          | [Repo][7003 Repo] <br> [HTML][7003 HTML] |
+| <img src="media/gpl.png" width="30">                 |<img src="media/co.png" width="50">| PL-7008 | [Create custom copilots with Copilot Studio][7008 LP]                                                |                                          |
+| <img src="media/apl.png" width="30">✅[APL][5001 APL]|                                   | SC-5001 | [Configure SIEM security operations using Microsoft Sentinel][5001 LP]                                          | [Repo][5001 Repo] <br> [HTML][5001 HTML] |
+| <img src="media/apl.png" width="30">✅[APL][5002 APL]|                                   | SC-5002 | [Secure Azure services and workloads with Microsoft Defender for Cloud regulatory compliance controls][5002 LP] | [Repo][5002 Repo] <br> [HTML][5002 HTML] |
+| <img src="media/gpl.png" width="30">                 |                                   | SC-5003 | [Implement information protection and data loss prevention by using Microsoft Purview][5003 LP]                 | [Repo][5003 Repo] <br> [HTML][5003 HTML] |
+|                                                      |                                   | SC-5006 | [Get started with Microsoft Copilot for Security][5006 LP]                                            |                                          |
+| <img src="media/gpl.png" width="30">                 |                                   | SC-5007 | [Implement retention, eDiscovery, and Communication compliance in Microsoft Purview][5007 LP]         |                                          |
+|                                                      |                                   | SC-5008 | [Configure and manage entitlement with Microsoft Entra ID][5008 LP]                                   |                                          |
 
 
 
@@ -188,8 +191,6 @@ updated on July 4, 2024
 
 [3019 LP]:   https://learn.microsoft.com/training/paths/build-ai-apps-azure-database-postgresql/
 
-[3020 LP]:   ./
-
 [3021 LP]:   https://learn.microsoft.com/training/paths/microsoft-learn-azure-database-for-postgresql/
 
 [601 LP]:    https://learn.microsoft.com/en-us/training/paths/implement-lakehouse-microsoft-fabric/
@@ -203,6 +204,8 @@ updated on July 4, 2024
 
 [604 LP]:    https://learn.microsoft.com/en-us/training/paths/implement-data-science-machine-learning-fabric/
 [604 APL]:   https://learn.microsoft.com/en-us/credentials/applied-skills/implement-a-data-science-and-machine-learning-solution-with-microsoft-fabric/
+
+[605 LP]:    https://learn.microsoft.com/training/paths/develop-dynamic-reports-microsoft-power-bi
 
 [4001 LP]:   https://learn.microsoft.com/en-us/training/paths/build-collaborative-apps-microsoft-teams/
 [4001 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/build-collaborative-apps-microsoft-teams/
@@ -225,8 +228,16 @@ updated on July 4, 2024
 
 [4008 LP]:   https://learn.microsoft.com/en-us/training/paths/microsoft-copilot-for-microsoft-365-executive-challenge/
 
+[4009 LP]:   https://learn.microsoft.com/training/paths/extend-microsoft-copilot-microsoft-365-copilot-studio/
+
 [4010 LP]:   https://learn.microsoft.com/en-us/training/paths/build-plugins-connectors-microsoft-copilot-microsoft-365/
 [4010 Repo]: https://github.com/MicrosoftLearning/MS-4010-Build-Plugins-Connectors-Microsoft-Copilot-M365
+
+[4011 LP]:   https://learn.microsoft.com/training/paths/enhance-endpoint-security-microsoft-intune-copilot/
+
+[4012 LP]:   https://learn.microsoft.com/training/paths/microsoft-copilot-web-based-interactive-experience-executives/
+
+[4017 LP]:   https://learn.microsoft.com/training/courses/MS-4017
 
 [5001 LP]:   https://learn.microsoft.com/en-us/training/paths/configure-security-information-event-management-operations-using-microsoft-sentinel/
 [5001 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/configure-siem-security-operations-using-microsoft-sentinel/
@@ -244,6 +255,8 @@ updated on July 4, 2024
 
 [5006 LP]:   https://learn.microsoft.com/en-us/training/paths/security-copilot-and-ai/
 
+[5007 LP]:   https://learn.microsoft.com/training/paths/purview-implement-retention-ediscovery-communication-compliance/
+
 [5008 LP]:   https://learn.microsoft.com/en-us/training/paths/configure-manage-entitlement-microsoft-entra-id/
 
 [7001 LP]:   https://learn.microsoft.com/en-us/training/paths/create-manage-canvas-apps-power-apps/
@@ -260,3 +273,5 @@ updated on July 4, 2024
 [7003 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/create-and-manage-model-driven-apps-with-power-apps-and-dataverse/   
 [7003 Repo]: https://github.com/MicrosoftLearning/PL-7003-Create-and-manage-model-driven-apps-with-Power-Apps-and-Dataverse
 [7003 HTML]: https://github.com/MicrosoftLearning/PL-7003-Create-and-manage-model-driven-apps-with-Power-Apps-and-Dataverse/tree/master/Instructions
+
+[7008 LP]:   https://learn.microsoft.com/training/paths/create-extend-custom-copilots-microsoft-copilot-studio/
