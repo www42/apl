@@ -188,7 +188,7 @@ updated on July 4, 2024
 
 [3019 LP]:   https://learn.microsoft.com/training/paths/build-ai-apps-azure-database-postgresql/
 
-[3020 LP]:
+[3020 LP]:   ./
 
 [3021 LP]:   https://learn.microsoft.com/training/paths/microsoft-learn-azure-database-for-postgresql/
 
