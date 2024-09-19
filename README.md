@@ -16,7 +16,7 @@ updated on September 19, 2024
 
 |                                                      |                                   |         | Learning Path                                                                                        | Labs                                    |
 | -----------------------------------------------------| --------------------------------- | ------- | --------------------------------------------------------------------------------------------------- |------------------------------------------|
-| <img src="media/apl.png" width="30">[APL][050 APL] ✅|                                   | AI-050  | [Develop generative AI solutions with Azure OpenAI Service][050 LP]                                 | [Repo][050 Repo]  <br> [HTML][050 HTML]  |
+| <img src="media/apl.png" width="30">[APL][050 APL]✅|                                   | AI-050  | [Develop generative AI solutions with Azure OpenAI Service][050 LP]                                 | [Repo][050 Repo]  <br> [HTML][050 HTML]  |
 | <img src="media/apl.png" width="30">[APL][3002 APL]✅|                                   | AI-3002 | [Create an intelligent document processing solution with Azure AI Document Intelligence][3002 LP]   | [Repo][3002 Repo] <br> [HTML][3002 HTML] |
 | <img src="media/apl.png" width="30">[APL][3003 APL]✅|                                   | AI-3003 | [Build a natural language processing solution with Azure AI Language][3003 LP]                      | [Repo][3003 Repo] <br> [HTML][3003 HTML] |
 | <img src="media/apl.png" width="30">[APL][3004 APL]❌|                                   | AI-3004 | [Build an Azure AI Vision solution][3004 LP]                                                        | [Repo][3004 Repo] <br> [HTML][3004 HTML] |
