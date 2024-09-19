@@ -3,9 +3,10 @@
 
 |   |   |   |
 | - | - | - |
-| <img src="media/apl.png" width="30"> |   | Applied Skill (APL) [Browse the full list of Microsoft Applied Skills.](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)  |
+| <img src="media/apl.png" width="30"> |   | This Training has an Applied Skill [Browse the full list of Microsoft Applied Skills.](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)  |
 | ✅ |   | Assessment available |
 | ❌ |   | This assessment is currently undergoing maintenance |
+| [APL]()  | Prepare for the assessment / take the assessment  |   |
 |   | <img src="media/copilot.png" width="30"> | M365 Copilot related |
 
 <br>
