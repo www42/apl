@@ -23,11 +23,11 @@ updated on September 19, 2024
 | <img src="media/gpl.png" width="30">                 | AI-3016 |<img src="media/co.png" width="30"> [Develop copilots with Azure AI Studio][3016 LP]                 |                                          |
 |                                                      | AI-3017 | [Microsoft AI for business leaders][3017 LP]                                                        |                                          |
 |                                                      | AI-3018 |<img src="media/co.png" width="30"> [Copilot Foundations][3018 LP]                                   |                                          |
-| <img src="media/gpl.png" width="30">                 | AI-3019 | [Build AI Apps with Azure Database for PostgreSQL][3019 LP]                                         |                                          |
+| <img src="media/apl.png" width="30">[APL][3019 APL]✅| AI-3019 | [Build AI Apps with Azure Database for PostgreSQL][3019 LP]                                         | [Repo][3019 Repo] <br> [HTML][3019 HTML] |
 | **Retired!**                        [APL][1001 APL]  | AZ-1001 | [Deploy containers by using Azure Kubernetes Service][1001 LP]                                      | [Repo][1001 Repo] <br> [HTML][1001 HTML] |
 | <img src="media/apl.png" width="30">[APL][1002 APL]✅| AZ-1002 | [Configure secure access to your workloads using Azure networking][1002 LP]                         | [Repo][1002 Repo] <br> [HTML][1002 HTML] |
 | <img src="media/apl.png" width="30">[APL][1003 APL]✅| AZ-1003 | [Secure storage for Azure Files and Azure Blob Storage][1003 LP]                                    | [Repo][1003 Repo] <br> [HTML][1003 HTML] |
-| <img src="media/apl.png" width="30">[APL][1004 APL]❌| AZ-1004 | [Deploy and configure Azure Monitor][1004 LP]                                                       | [Repo][1004 Repo] <br> [HTML][1004 HTML] |
+| <img src="media/apl.png" width="30">[APL][1004 APL]✅| AZ-1004 | [Deploy and configure Azure Monitor][1004 LP]                                                       | [Repo][1004 Repo] <br> [HTML][1004 HTML] |
 |                                                      | AZ-1005 | [Configuring Azure Virtual Desktop for the Enterprise][1005 LP]                                     |                                          |
 |                                                      | AZ-1006 | [Migrate and modernize SAP in the Microsoft Cloud][1006 LP]                                         |                                          |
 | <img src="media/apl.png" width="30">[APL][1007 APL]✅| AZ-1007 | [Deploy and administer Linux virtual machines on Azure][1007 LP]                                   | [Repo][1007 Repo] <br> [HTML][1007 HTML]|
@@ -51,7 +51,7 @@ updated on September 19, 2024
 | <img src="media/apl.png" width="30">[APL][602 APL]✅| DP-602  | [Implement a data warehouse in Microsoft Fabric][602 LP]                                           |                                          |
 | <img src="media/apl.png" width="30">[APL][603 APL]✅| DP-603  | [Implementing Real-Time Intelligence with Microsoft Fabric][603 LP]                                |                                          |
 | <img src="media/apl.png" width="30">[APL][604 APL]✅| DP-604  | [Implement a data science and machine learning solution with Microsoft Fabric][604 LP]             |                                          |
-| <img src="media/apl.png" width="30">                | DP-605  | [Develop dynamic reports with Microsoft Power BI][605 LP]                                          |                                          |
+| <img src="media/gpl.png" width="30">                | DP-605  | [Develop dynamic reports with Microsoft Power BI][605 LP]                                          |                                          |
 |                                                     | MD-4011 | [Enhance Endpoint Security with Microsoft Intune and Microsoft Copilot for Security][4011 LP]       |                                          |
 | **Retired!**                        [APL][4001 APL] | MS-4001 | [Build collaborative apps for Microsoft Teams][4001 LP]                                             | [Repo][4001 Repo] <br> [HTML][4001 HTML] |
 |                                                      | MS-4004 |<img src="media/co.png" width="30"> [Empower your workforce with Copilot for Microsoft 365 Use Cases][4004 LP]      | [Repo][4004 Repo] <br> [HTML][4004 HTML] |
@@ -71,27 +71,20 @@ updated on September 19, 2024
 | <img src="media/gpl.png" width="30">                 | PL-7008 |<img src="media/co.png" width="30"> [Create custom copilots with Copilot Studio][7008 LP]             |                                          |
 | <img src="media/apl.png" width="30">[APL][5001 APL]✅| SC-5001 | [Configure SIEM security operations using Microsoft Sentinel][5001 LP]                                          | [Repo][5001 Repo] <br> [HTML][5001 HTML] |
 | <img src="media/apl.png" width="30">[APL][5002 APL]✅| SC-5002 | [Secure Azure services and workloads with Microsoft Defender for Cloud regulatory compliance controls][5002 LP] | [Repo][5002 Repo] <br> [HTML][5002 HTML] |
-| <img src="media/gpl.png" width="30">                 | SC-5003 | [Implement information protection and data loss prevention by using Microsoft Purview][5003 LP]                 | [Repo][5003 Repo] <br> [HTML][5003 HTML] |
+| <img src="media/gpl.png" width="30">[APL][5003 APL]✅| SC-5003 | [Implement information protection and data loss prevention by using Microsoft Purview][5003 LP]                 | [Repo][5003 Repo] <br> [HTML][5003 HTML] |
 |                                                      | SC-5006 | [Get started with Microsoft Copilot for Security][5006 LP]                                            |                                          |
 | <img src="media/gpl.png" width="30">                 | SC-5007 | [Implement retention, eDiscovery, and Communication compliance in Microsoft Purview][5007 LP]         |                                          |
 |                                                      | SC-5008 | [Configure and manage entitlement with Microsoft Entra ID][5008 LP]                                   |                                          |
 
 
 
-[1008 LP]:   https://learn.microsoft.com/en-us/training/paths/administer-active-directory-domain-services/
-[1008 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/administer-active-directory-domain-services/
-
-[1010 LP]:    https://learn.microsoft.com/en-us/training/paths/deploy-manage-azure-arc-enabled-servers/
-[1010 APL]:   https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-and-manage-microsoft-azure-arc-enabled-servers/
-[1010 Repo]:  https://github.com/MicrosoftLearning/Deploy-and-manage-Azure-Arc-enabled-Servers
-
 [050 LP]:   https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/
 [050 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/develop-generative-ai-solutions-with-azure-openai-service/
 [050 Repo]: https://github.com/MicrosoftLearning/mslearn-openai/tree/main
 [050 HTML]: https://microsoftlearning.github.io/mslearn-openai/
 
-[1001 LP]:   https://learn.microsoft.com/en-us/training/paths/deploy-manage-containers-azure-kubernetes-service/
-[1001 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-containers-by-using-azure-kubernetes-service/
+[1001 LP]:   https://learn.microsoft.com/training/paths/deploy-manage-containers-azure-kubernetes-service/
+[1001 APL]:  https://learn.microsoft.com/credentials/applied-skills/deploy-containers-by-using-azure-kubernetes-service/
 [1001 Repo]: https://github.com/MicrosoftLearning/deploy-and-manage-containers-with-azure-kubernetes-service
 [1001 HTML]: https://github.com/MicrosoftLearning/deploy-and-manage-containers-with-azure-kubernetes-service/blob/master/Instructions/Labs/Complete%20Guided%20Exercise-Deploy%20Applications%20to%20AKS.md
 
@@ -123,6 +116,10 @@ updated on September 19, 2024
 [1008 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/administer-active-directory-domain-services/#applied-skill-take-the-assessment
 [1008 Repo]: https://github.com/MicrosoftLearning/AZ-1008-Administer-Active-Directory-Domain-Services
 [1008 HTML]: https://microsoftlearning.github.io/AZ-1008-Administer-Active-Directory-Domain-Services/
+
+[1010 LP]:    https://learn.microsoft.com/training/paths/deploy-manage-azure-arc-enabled-servers/
+[1010 APL]:   https://learn.microsoft.com/credentials/applied-skills/deploy-and-manage-microsoft-azure-arc-enabled-servers/
+[1010 Repo]:  https://github.com/MicrosoftLearning/Deploy-and-manage-Azure-Arc-enabled-Servers
 
 [2001 LP]:   https://learn.microsoft.com/en-us/training/paths/implement-security-through-pipeline-using-devops/
 [2001 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/implement-security-through-pipeline-using-devops/
@@ -190,6 +187,9 @@ updated on September 19, 2024
 [3018 LP]:   https://learn.microsoft.com/training/paths/copilot-foundations/
 
 [3019 LP]:   https://learn.microsoft.com/training/paths/build-ai-apps-azure-database-postgresql/
+[3019 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/build-ai-powered-solutions-by-using-microsoft-azure-database-for-postgresql/
+[3019 Repo]: https://github.com/MicrosoftLearning/mslearn-postgresql/
+[3019 HTML]: https://microsoftlearning.github.io/mslearn-postgresql/
 
 [3021 LP]:   https://learn.microsoft.com/training/paths/microsoft-learn-azure-database-for-postgresql/
 
@@ -250,6 +250,7 @@ updated on September 19, 2024
 [5002 HTML]: https://microsoftlearning.github.io/Secure-Azure-with-Microsoft-Defender-Cloud-Compliance-Controls/
 
 [5003 LP]:   https://learn.microsoft.com/en-us/training/paths/purview-implement-information-protection-data-loss-prevention/
+[5003 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/implement-information-protection-and-data-loss-prevention-by-using-microsoft-purview/
 [5003 Repo]: https://github.com/MicrosoftLearning/SC-5003_Information-protection-and-Data-Loss-Prevention
 [5003 HTML]: https://microsoftlearning.github.io/SC-5003_Information-protection-and-Data-Loss-Prevention/
 
