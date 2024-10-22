@@ -36,6 +36,7 @@ updated on September 19, 2024
 | <img src="media/apl.png" width="30">[APL][1010 APL]✅| AZ-1010 | [Deploy and manage Microsoft Azure Arc-enabled servers][1010 LP]                                   | [Repo][1010 Repo]                        |
 | <img src="media/apl.png" width="30">[APL][2001 APL]✅| AZ-2001 | [Implement security through a pipeline using Azure DevOps][2001 LP]                                | [Repo][2001 Repo] <br> [HTML][2001 HTML] |
 | <img src="media/apl.png" width="30">[APL][2002 APL]✅| AZ-2002 | [Develop an ASP.NET Core web app that consumes an API][2002 LP]                                    | [Repo][2002 Repo] <br> [HTML][2002 HTML] |
+| <img src="media/apl.png" width="30">[APL][xxxx APL]✅| AZ-xxxx | [Build distributed apps with .NET Aspire][xxxx LP]                                                 |                                          |
 | <img src="media/apl.png" width="30">[APL][2003 APL]✅| AZ-2003 | [Deploy cloud-native applications using Azure Container Apps][2003 LP]                             | [Repo][2003 Repo] <br> [HTML][2003 HTML] |
 | <img src="media/apl.png" width="30">[APL][2005 APL]✅| AZ-2005 | [Develop AI agents using Azure OpenAI and the Semantic Kernel SDK][2005 LP]                        | [Repo][2005 Repo] <br> [HTML][2005 HTML] |
 | <img src="media/gpl.png" width="30">                 | AZ-2006 | [Automate Azure Load Testing by using GitHub][2006 LP]                                             |                                          |
@@ -47,18 +48,19 @@ updated on September 19, 2024
 |                                                      | DP-3012 | [Implementing a Data Analytics Solution with Synapse Analytics][3012 LP]                           |                                          |
 |                                                      | DP-3014 | [Implementing a Machine Learning Solution with Azure Databricks][3014 LP]                          |                                          |
 |                                                      | DP-3015 | [Getting Started with Cosmos DB NoSQL Development][3015 LP]                                        |                                          |
-| <img src="media/gpl.png" width="30">                 | DP-3020 | [Develop data-driven applications with Azure SQL Database][3020 LP]                                |                                          |
+| <img src="media/gpl.png" width="30">[APL][3020 APL]✅| DP-3020 | [Develop data-driven applications with Azure SQL Database][3020 LP]                                |                                          |
 | <img src="media/gpl.png" width="30">                 | DP-3021 | [Configure and migrate to Azure Database for PostgreSQL][3021 LP]                                  |                                          |
 | <img src="media/apl.png" width="30">[APL][601 APL]✅| DP-601  | [Implement a lakehouse in Microsoft Fabric][601 LP]                                                |                                          |
 | <img src="media/apl.png" width="30">[APL][602 APL]✅| DP-602  | [Implement a data warehouse in Microsoft Fabric][602 LP]                                           |                                          |
 | <img src="media/apl.png" width="30">[APL][603 APL]✅| DP-603  | [Implementing Real-Time Intelligence with Microsoft Fabric][603 LP]                                |                                          |
 | <img src="media/apl.png" width="30">[APL][604 APL]✅| DP-604  | [Implement a data science and machine learning solution with Microsoft Fabric][604 LP]             |                                          |
 | <img src="media/gpl.png" width="30">                | DP-605  | [Develop dynamic reports with Microsoft Power BI][605 LP]                                          |                                          |
+| <img src="media/apl.png" width="30">[APL][yyyy APL]✅| DP-yyyy | [Implement a Real-Time Intelligence solution with Microsoft Fabric][yyyy LP]                      |                                          |
 | <img src="media/gpl.png" width="30">                | MB-7005 | Create and manage journeys with Dynamics 365 Customer Insights                                      |                                          |
 | <img src="media/gpl.png" width="30">                | MB-7006 | Create and manage segments in Customer Insights - Data                                              |                                          |
 |                                                     | MD-4011 | [Enhance Endpoint Security with Microsoft Intune and Microsoft Copilot for Security][4011 LP]       |                                          |
 | **Retired!**                        [APL][4001 APL] | MS-4001 | [Build collaborative apps for Microsoft Teams][4001 LP]                                             | [Repo][4001 Repo] <br> [HTML][4001 HTML] |
-| <img src="media/gpl.png" width="30">                 | MS-4002 |<img src="media/co.png" width="30"> [Prepare security and compliance to support Microsoft 365 Copilot][4002 LP]     |                                          |
+| <img src="media/apl.png" width="30">[APL][4002 APL]✅| MS-4002 |<img src="media/co.png" width="30"> [Prepare security and compliance to support Microsoft 365 Copilot][4002 LP]     |                                          |
 |                                                      | MS-4004 |<img src="media/co.png" width="30"> [Empower your workforce with Copilot for Microsoft 365 Use Cases][4004 LP]      | [Repo][4004 Repo] <br> [HTML][4004 HTML] |
 |                                                      | MS-4005 |<img src="media/co.png" width="30"> [Craft effective prompts for Microsoft Copilot for Microsoft 365][4005 LP]      | [Repo][4005 Repo] <br> [HTML][4005 HTML] |
 |                                                      | MS-4006 |<img src="media/co.png" width="30"> [Copilot for Microsoft 365 for Administrators][4006 LP]                         | [Repo][4006 Repo] <br> [HTML][4006 HTML] |
@@ -73,13 +75,13 @@ updated on September 19, 2024
 | <img src="media/apl.png" width="30">[APL][7001 APL]✅| PL-7001 | [Create and manage canvas apps with Power Apps][7001 LP]                                             | [Repo][7001 Repo] <br> [HTML][7001 HTML] |
 | <img src="media/apl.png" width="30">[APL][7002 APL]✅| PL-7002 | [Create and manage automated processes by using Power Automate][7002 LP]                             | [Repo][7002 Repo] <br> [HTML][7002 HTML] |
 | <img src="media/apl.png" width="30">[APL][7003 APL]✅| PL-7003 | [Create and manage model-driven apps with PowerApps and Dataverse][7003 LP]                          | [Repo][7003 Repo] <br> [HTML][7003 HTML] |
-| <img src="media/gpl.png" width="30">                 | PL-7004 | Implement AI models with Microsoft Power Platform AI Builder                                         |                                          |
+| <img src="media/gpl.png" width="30">[APL][7004 APL]✅| PL-7004 | [Implement AI models with Microsoft Power Platform AI Builder][7004 LP]                              |                                          |
 | <img src="media/gpl.png" width="30">                 | PL-7008 |<img src="media/co.png" width="30"> [Create custom copilots with Copilot Studio][7008 LP]             |                                          |
 | <img src="media/apl.png" width="30">[APL][5001 APL]✅| SC-5001 | [Configure SIEM security operations using Microsoft Sentinel][5001 LP]                                          | [Repo][5001 Repo] <br> [HTML][5001 HTML] |
 | <img src="media/apl.png" width="30">[APL][5002 APL]✅| SC-5002 | [Secure Azure services and workloads with Microsoft Defender for Cloud regulatory compliance controls][5002 LP] | [Repo][5002 Repo] <br> [HTML][5002 HTML] |
 | <img src="media/apl.png" width="30">[APL][5003 APL]✅| SC-5003 | [Implement information protection and data loss prevention by using Microsoft Purview][5003 LP]                 | [Repo][5003 Repo] <br> [HTML][5003 HTML] |
 |                                                      | SC-5006 | [Get started with Microsoft Copilot for Security][5006 LP]                                            |                                          |
-| <img src="media/gpl.png" width="30">                 | SC-5007 | [Implement retention, eDiscovery, and Communication compliance in Microsoft Purview][5007 LP]         |                                          |
+| <img src="media/apl.png" width="30">[APL][5007 APL]✅| SC-5007 | [Implement retention, eDiscovery, and Communication compliance in Microsoft Purview][5007 LP]         |                                          |
 |                                                      | SC-5008 | [Configure and manage entitlement with Microsoft Entra ID][5008 LP]                                   |                                          |
 
 
@@ -136,6 +138,9 @@ updated on September 19, 2024
 [2002 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/develop-an-aspnet-core-web-app-that-consumes-an-api/
 [2002 Repo]: https://github.com/MicrosoftLearning/APL-2002-develop-aspnet-core-consumes-api
 [2002 HTML]: https://microsoftlearning.github.io/APL-2002-develop-aspnet-core-consumes-api/
+
+[xxxx LP]:   https://learn.microsoft.com/en-us/training/paths/dotnet-aspire/
+[xxxx APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/build-distributed-apps-with-dotnet-aspire/
 
 [2003 LP]:   https://learn.microsoft.com/en-us/training/paths/deploy-cloud-native-applications-to-azure-container-apps/
 [2003 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-cloud-native-apps-using-azure-container-apps/
@@ -200,6 +205,7 @@ updated on September 19, 2024
 [3019 HTML]: https://microsoftlearning.github.io/mslearn-postgresql/
 
 [3020 LP]:   https://learn.microsoft.com/en-us/training/paths/develop-data-driven-app-sql-db/
+[3020 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/develop-data-driven-applications-by-using-microsoft-azure-sql-database/
 
 [3021 LP]:   https://learn.microsoft.com/training/paths/microsoft-learn-azure-database-for-postgresql/
 
@@ -219,12 +225,16 @@ updated on September 19, 2024
 
 [605 LP]:    https://learn.microsoft.com/training/paths/develop-dynamic-reports-microsoft-power-bi
 
+[yyyy LP]:   https://learn.microsoft.com/en-us/training/paths/explore-real-time-analytics-microsoft-fabric/
+[yyyy APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/implement-a-real-time-intelligence-solution-with-microsoft-fabric/
+
 [4001 LP]:   https://learn.microsoft.com/en-us/training/paths/build-collaborative-apps-microsoft-teams/
 [4001 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/build-collaborative-apps-microsoft-teams/
 [4001 Repo]: https://github.com/MicrosoftLearning/MS-4001-Build-collaborative-apps-for-Microsoft-Teams
 [4001 HTML]: https://microsoftlearning.github.io/MS-4001-Build-collaborative-apps-for-Microsoft-Teams/
 
 [4002 LP]:   https://learn.microsoft.com/training/paths/prepare-security-compliance-support-microsoft-365-copilot/
+[4002 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/prepare-security-and-compliance-to-support-microsoft-365-copilot/
 
 [4004 LP]:   https://learn.microsoft.com/en-us/training/paths/empower-workforce-copilot-use-cases/
 [4004 Repo]: https://github.com/MicrosoftLearning/MS-4004-Empower-workforce-copilot-use-cases
@@ -271,6 +281,7 @@ updated on September 19, 2024
 [5006 LP]:   https://learn.microsoft.com/en-us/training/paths/security-copilot-and-ai/
 
 [5007 LP]:   https://learn.microsoft.com/training/paths/purview-implement-retention-ediscovery-communication-compliance/
+[5007 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/implement-retention-ediscovery-and-communication-compliance-in-microsoft-purview/ 
 
 [5008 LP]:   https://learn.microsoft.com/en-us/training/paths/configure-manage-entitlement-microsoft-entra-id/
 
@@ -288,5 +299,8 @@ updated on September 19, 2024
 [7003 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/create-and-manage-model-driven-apps-with-power-apps-and-dataverse/   
 [7003 Repo]: https://github.com/MicrosoftLearning/PL-7003-Create-and-manage-model-driven-apps-with-Power-Apps-and-Dataverse
 [7003 HTML]: https://github.com/MicrosoftLearning/PL-7003-Create-and-manage-model-driven-apps-with-Power-Apps-and-Dataverse/tree/master/Instructions
+
+[7004 LP]:   https://learn.microsoft.com/en-us/training/paths/implement-ai-models-microsoft-power-platform-ai-builder/
+[7004 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/implement-ai-models-with-microsoft-power-platform-ai-builder/
 
 [7008 LP]:   https://learn.microsoft.com/training/paths/create-extend-custom-copilots-microsoft-copilot-studio/
