@@ -24,7 +24,7 @@ updated on September 19, 2024
 |                                                      | AI-3018 |<img src="media/co.png" width="30"> [Copilot Foundations][3018 LP]                                   |                                          |
 | <img src="media/apl.png" width="30">[APL][3019 APL]  | AI-3019 | [Build AI Apps with Azure Database for PostgreSQL][3019 LP]                                         | [Repo][3019 Repo] <br> [HTML][3019 HTML] |
 | <img src="media/gpl.png" width="30">                 | AI-3022 | [ Implement AI Skills in Azure AI Search][3022 LP]                                                  |                                          |
-| **Retired!**                        [APL][1001 APL]  | AZ-1001 | [Deploy containers by using Azure Kubernetes Service][1001 LP]                                      | [Repo][1001 Repo] <br> [HTML][1001 HTML] |
+| **Retired!**                                         | AZ-1001 | [Deploy containers by using Azure Kubernetes Service][1001 LP]                                      | [Repo][1001 Repo] <br> [HTML][1001 HTML] |
 | <img src="media/apl.png" width="30">[APL][1002 APL]  | AZ-1002 | [Configure secure access to your workloads using Azure networking][1002 LP]                         | [Repo][1002 Repo] <br> [HTML][1002 HTML] |
 | <img src="media/apl.png" width="30">[APL][1003 APL]  | AZ-1003 | [Secure storage for Azure Files and Azure Blob Storage][1003 LP]                                    | [Repo][1003 Repo] <br> [HTML][1003 HTML] |
 | <img src="media/apl.png" width="30">[APL][1004 APL]  | AZ-1004 | [Deploy and configure Azure Monitor][1004 LP]                                                       | [Repo][1004 Repo] <br> [HTML][1004 HTML] |
@@ -58,7 +58,7 @@ updated on September 19, 2024
 | <img src="media/gpl.png" width="30">                 | MB-7005 | Create and manage journeys with Dynamics 365 Customer Insights                                     |                                          |
 | <img src="media/gpl.png" width="30">                 | MB-7006 | Create and manage segments in Customer Insights - Data                                             |                                          |
 |                                                      | MD-4011 | [Enhance Endpoint Security with Microsoft Intune and Microsoft Copilot for Security][4011 LP]      |                                          |
-| **Retired!**                        [APL][4001 APL]  | MS-4001 | [Build collaborative apps for Microsoft Teams][4001 LP]                                            | [Repo][4001 Repo] <br> [HTML][4001 HTML] |
+| **Retired!**                                         | MS-4001 | [Build collaborative apps for Microsoft Teams][4001 LP]                                            | [Repo][4001 Repo] <br> [HTML][4001 HTML] |
 | <img src="media/apl.png" width="30">[APL][4002 APL]  | MS-4002 |<img src="media/co.png" width="30"> [Prepare security and compliance to support Microsoft 365 Copilot][4002 LP]     |                                          |
 |                                                      | MS-4004 |<img src="media/co.png" width="30"> [Empower your workforce with Copilot for Microsoft 365 Use Cases][4004 LP]      | [Repo][4004 Repo] <br> [HTML][4004 HTML] |
 |                                                      | MS-4005 |<img src="media/co.png" width="30"> [Craft effective prompts for Microsoft Copilot for Microsoft 365][4005 LP]      | [Repo][4005 Repo] <br> [HTML][4005 HTML] |
