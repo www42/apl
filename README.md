@@ -5,10 +5,9 @@
 | - | - | - |
 | <img src="media/apl.png" width="30"> |   | This Training has an Applied Skill [Browse the full list of Applied Skills.](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)  |
 | <img src="media/gpl.png" width="30"> |   |Coming soon |
-| [APL]() |  | Prepare for the assessment / take the assessment |
-| ✅ |   | This assessment is available |
-| ❌ |   | This assessment is currently undergoing maintenance |
-|   | <img src="media/co.png" width="30"> | M365 Copilot related |
+| [APL]() |                                | Prepare for the assessment / take the assessment |
+| ❌ |                                    | This assessment is currently undergoing maintenance |
+|   | <img src="media/co.png" width="30">  | M365 Copilot related |
 
 <br>
 <br>
@@ -16,51 +15,51 @@ updated on September 19, 2024
 
 |                                                      |         | Learning Path                                                                                        | Labs                                    |
 | -----------------------------------------------------| ------- | --------------------------------------------------------------------------------------------------- |------------------------------------------|
-| <img src="media/apl.png" width="30">[APL][050 APL]✅|  AI-050  | [Develop generative AI solutions with Azure OpenAI Service][050 LP]                                 | [Repo][050 Repo]  <br> [HTML][050 HTML]  |
-| <img src="media/apl.png" width="30">[APL][3002 APL]✅| AI-3002 | [Create an intelligent document processing solution with Azure AI Document Intelligence][3002 LP]   | [Repo][3002 Repo] <br> [HTML][3002 HTML] |
-| <img src="media/apl.png" width="30">[APL][3003 APL]✅| AI-3003 | [Build a natural language processing solution with Azure AI Language][3003 LP]                      | [Repo][3003 Repo] <br> [HTML][3003 HTML] |
+| <img src="media/apl.png" width="30">[APL][050 APL]   |  AI-050 | [Develop generative AI solutions with Azure OpenAI Service][050 LP]                                 | [Repo][050 Repo]  <br> [HTML][050 HTML]  |
+| <img src="media/apl.png" width="30">[APL][3002 APL]  | AI-3002 | [Create an intelligent document processing solution with Azure AI Document Intelligence][3002 LP]   | [Repo][3002 Repo] <br> [HTML][3002 HTML] |
+| <img src="media/apl.png" width="30">[APL][3003 APL]  | AI-3003 | [Build a natural language processing solution with Azure AI Language][3003 LP]                      | [Repo][3003 Repo] <br> [HTML][3003 HTML] |
 | <img src="media/apl.png" width="30">[APL][3004 APL]❌| AI-3004 | [Build an Azure AI Vision solution][3004 LP]                                                        | [Repo][3004 Repo] <br> [HTML][3004 HTML] |
 | <img src="media/gpl.png" width="30">                 | AI-3016 |<img src="media/co.png" width="30"> [Develop copilots with Azure AI Studio][3016 LP]                 |                                          |
 |                                                      | AI-3017 | [Microsoft AI for business leaders][3017 LP]                                                        |                                          |
 |                                                      | AI-3018 |<img src="media/co.png" width="30"> [Copilot Foundations][3018 LP]                                   |                                          |
-| <img src="media/apl.png" width="30">[APL][3019 APL]✅| AI-3019 | [Build AI Apps with Azure Database for PostgreSQL][3019 LP]                                         | [Repo][3019 Repo] <br> [HTML][3019 HTML] |
+| <img src="media/apl.png" width="30">[APL][3019 APL]  | AI-3019 | [Build AI Apps with Azure Database for PostgreSQL][3019 LP]                                         | [Repo][3019 Repo] <br> [HTML][3019 HTML] |
 | <img src="media/gpl.png" width="30">                 | AI-3022 | [ Implement AI Skills in Azure AI Search][3022 LP]                                                  |                                          |
 | **Retired!**                        [APL][1001 APL]  | AZ-1001 | [Deploy containers by using Azure Kubernetes Service][1001 LP]                                      | [Repo][1001 Repo] <br> [HTML][1001 HTML] |
-| <img src="media/apl.png" width="30">[APL][1002 APL]✅| AZ-1002 | [Configure secure access to your workloads using Azure networking][1002 LP]                         | [Repo][1002 Repo] <br> [HTML][1002 HTML] |
-| <img src="media/apl.png" width="30">[APL][1003 APL]✅| AZ-1003 | [Secure storage for Azure Files and Azure Blob Storage][1003 LP]                                    | [Repo][1003 Repo] <br> [HTML][1003 HTML] |
-| <img src="media/apl.png" width="30">[APL][1004 APL]✅| AZ-1004 | [Deploy and configure Azure Monitor][1004 LP]                                                       | [Repo][1004 Repo] <br> [HTML][1004 HTML] |
+| <img src="media/apl.png" width="30">[APL][1002 APL]  | AZ-1002 | [Configure secure access to your workloads using Azure networking][1002 LP]                         | [Repo][1002 Repo] <br> [HTML][1002 HTML] |
+| <img src="media/apl.png" width="30">[APL][1003 APL]  | AZ-1003 | [Secure storage for Azure Files and Azure Blob Storage][1003 LP]                                    | [Repo][1003 Repo] <br> [HTML][1003 HTML] |
+| <img src="media/apl.png" width="30">[APL][1004 APL]  | AZ-1004 | [Deploy and configure Azure Monitor][1004 LP]                                                       | [Repo][1004 Repo] <br> [HTML][1004 HTML] |
 | **Retired!**                                         | AZ-1005 | [Configuring Azure Virtual Desktop for the Enterprise][1005 LP]                                     |                                          |
 |                                                      | AZ-1006 | [Migrate and modernize SAP in the Microsoft Cloud][1006 LP]                                         |                                          |
-| <img src="media/apl.png" width="30">[APL][1007 APL]✅| AZ-1007 | [Deploy and administer Linux virtual machines on Azure][1007 LP]                                   | [Repo][1007 Repo] <br> [HTML][1007 HTML]|
-| <img src="media/apl.png" width="30">[APL][1008 APL]✅| AZ-1008 | [Administer Active Directory Domain Services][1008 LP]                                             | [Repo][1008 Repo] <br> [HTML][1008 HTML] |
-| <img src="media/apl.png" width="30">[APL][1010 APL]✅| AZ-1010 | [Deploy and manage Microsoft Azure Arc-enabled servers][1010 LP]                                   | [Repo][1010 Repo]                        |
-| <img src="media/apl.png" width="30">[APL][2001 APL]✅| AZ-2001 | [Implement security through a pipeline using Azure DevOps][2001 LP]                                | [Repo][2001 Repo] <br> [HTML][2001 HTML] |
-| <img src="media/apl.png" width="30">[APL][2002 APL]✅| AZ-2002 | [Develop an ASP.NET Core web app that consumes an API][2002 LP]                                    | [Repo][2002 Repo] <br> [HTML][2002 HTML] |
-| <img src="media/apl.png" width="30">[APL][xxxx APL]✅| AZ-xxxx | [Build distributed apps with .NET Aspire][xxxx LP]                                                 |                                          |
-| <img src="media/apl.png" width="30">[APL][2003 APL]✅| AZ-2003 | [Deploy cloud-native applications using Azure Container Apps][2003 LP]                             | [Repo][2003 Repo] <br> [HTML][2003 HTML] |
-| <img src="media/apl.png" width="30">[APL][2005 APL]✅| AZ-2005 | [Develop AI agents using Azure OpenAI and the Semantic Kernel SDK][2005 LP]                        | [Repo][2005 Repo] <br> [HTML][2005 HTML] |
+| <img src="media/apl.png" width="30">[APL][1007 APL]  | AZ-1007 | [Deploy and administer Linux virtual machines on Azure][1007 LP]                                   | [Repo][1007 Repo] <br> [HTML][1007 HTML]|
+| <img src="media/apl.png" width="30">[APL][1008 APL]  | AZ-1008 | [Administer Active Directory Domain Services][1008 LP]                                             | [Repo][1008 Repo] <br> [HTML][1008 HTML] |
+| <img src="media/apl.png" width="30">[APL][1010 APL]  | AZ-1010 | [Deploy and manage Microsoft Azure Arc-enabled servers][1010 LP]                                   | [Repo][1010 Repo]                        |
+| <img src="media/apl.png" width="30">[APL][2001 APL]  | AZ-2001 | [Implement security through a pipeline using Azure DevOps][2001 LP]                                | [Repo][2001 Repo] <br> [HTML][2001 HTML] |
+| <img src="media/apl.png" width="30">[APL][2002 APL]  | AZ-2002 | [Develop an ASP.NET Core web app that consumes an API][2002 LP]                                    | [Repo][2002 Repo] <br> [HTML][2002 HTML] |
+| <img src="media/apl.png" width="30">[APL][xxxx APL]  | AZ-xxxx | [Build distributed apps with .NET Aspire][xxxx LP]                                                 |                                          |
+| <img src="media/apl.png" width="30">[APL][2003 APL]  | AZ-2003 | [Deploy cloud-native applications using Azure Container Apps][2003 LP]                             | [Repo][2003 Repo] <br> [HTML][2003 HTML] |
+| <img src="media/apl.png" width="30">[APL][2005 APL]  | AZ-2005 | [Develop AI agents using Azure OpenAI and the Semantic Kernel SDK][2005 LP]                        | [Repo][2005 Repo] <br> [HTML][2005 HTML] |
 | <img src="media/gpl.png" width="30">                 | AZ-2006 | [Automate Azure Load Testing by using GitHub][2006 LP]                                             | [Repo][2006 Repo] <br> [HTML][2006 HTML] |
 | <img src="media/gpl.png" width="30">                 | AZ-2007 | [Accelerate app development by using GitHub Copilot][2007 LP]                                      |                                          |
 |                                                      | AZ-2008 | [DevOps Foundations: The Core Principles and Practices][2008 LP]                                   | [Repo][2008 Repo] <br> [HTML][2008 HTML] |
-| <img src="media/apl.png" width="30">[APL][3001 APL]✅| DP-3001 | [Migrate SQL Server workloads to Azure SQL Database][3001 LP]                                      | [Repo][3001 Repo] <br> [HTML][3001 HTML] |
+| <img src="media/apl.png" width="30">[APL][3001 APL]  | DP-3001 | [Migrate SQL Server workloads to Azure SQL Database][3001 LP]                                      | [Repo][3001 Repo] <br> [HTML][3001 HTML] |
 | <img src="media/apl.png" width="30">[APL][3007 APL]❌| DP-3007 | [Train and deploy a machine learning model with Azure Machine Learning][3007 LP]                   | [Repo][3007 Repo] <br> [HTML][3007 HTML] |
 |                                                      | DP-3011 | [Implementing a Data Analytics Solution with Azure Databricks][3011 LP]                            |                                          |
 |                                                      | DP-3012 | [Implementing a Data Analytics Solution with Synapse Analytics][3012 LP]                           |                                          |
 |                                                      | DP-3014 | [Implementing a Machine Learning Solution with Azure Databricks][3014 LP]                          |                                          |
 |                                                      | DP-3015 | [Getting Started with Cosmos DB NoSQL Development][3015 LP]                                        |                                          |
-| <img src="media/gpl.png" width="30">[APL][3020 APL]✅| DP-3020 | [Develop data-driven applications with Azure SQL Database][3020 LP]                                |                                          |
+| <img src="media/gpl.png" width="30">[APL][3020 APL]  | DP-3020 | [Develop data-driven applications with Azure SQL Database][3020 LP]                                |                                          |
 | <img src="media/gpl.png" width="30">                 | DP-3021 | [Configure and migrate to Azure Database for PostgreSQL][3021 LP]                                  |                                          |
-| <img src="media/apl.png" width="30">[APL][601 APL]✅| DP-601  | [Implement a lakehouse in Microsoft Fabric][601 LP]                                                |                                          |
-| <img src="media/apl.png" width="30">[APL][602 APL]✅| DP-602  | [Implement a data warehouse in Microsoft Fabric][602 LP]                                           |                                          |
-| <img src="media/apl.png" width="30">[APL][603 APL]✅| DP-603  | [Implementing Real-Time Intelligence with Microsoft Fabric][603 LP]                                |                                          |
-| <img src="media/apl.png" width="30">[APL][604 APL]✅| DP-604  | [Implement a data science and machine learning solution with Microsoft Fabric][604 LP]             |                                          |
-| <img src="media/gpl.png" width="30">                | DP-605  | [Develop dynamic reports with Microsoft Power BI][605 LP]                                          |                                          |
-| <img src="media/apl.png" width="30">[APL][yyyy APL]✅| DP-yyyy | [Implement a Real-Time Intelligence solution with Microsoft Fabric][yyyy LP]                      |                                          |
-| <img src="media/gpl.png" width="30">                | MB-7005 | Create and manage journeys with Dynamics 365 Customer Insights                                      |                                          |
-| <img src="media/gpl.png" width="30">                | MB-7006 | Create and manage segments in Customer Insights - Data                                              |                                          |
-|                                                     | MD-4011 | [Enhance Endpoint Security with Microsoft Intune and Microsoft Copilot for Security][4011 LP]       |                                          |
-| **Retired!**                        [APL][4001 APL] | MS-4001 | [Build collaborative apps for Microsoft Teams][4001 LP]                                             | [Repo][4001 Repo] <br> [HTML][4001 HTML] |
-| <img src="media/apl.png" width="30">[APL][4002 APL]✅| MS-4002 |<img src="media/co.png" width="30"> [Prepare security and compliance to support Microsoft 365 Copilot][4002 LP]     |                                          |
+| <img src="media/apl.png" width="30">[APL][601 APL]   | DP-601  | [Implement a lakehouse in Microsoft Fabric][601 LP]                                                |                                          |
+| <img src="media/apl.png" width="30">[APL][602 APL]   | DP-602  | [Implement a data warehouse in Microsoft Fabric][602 LP]                                           |                                          |
+| <img src="media/apl.png" width="30">[APL][603 APL]   | DP-603  | [Implementing Real-Time Intelligence with Microsoft Fabric][603 LP]                                |                                          |
+| <img src="media/apl.png" width="30">[APL][604 APL]   | DP-604  | [Implement a data science and machine learning solution with Microsoft Fabric][604 LP]             |                                          |
+| <img src="media/gpl.png" width="30">                 | DP-605  | [Develop dynamic reports with Microsoft Power BI][605 LP]                                          |                                          |
+| <img src="media/apl.png" width="30">[APL][yyyy APL]  | DP-yyyy | [Implement a Real-Time Intelligence solution with Microsoft Fabric][yyyy LP]                       |                                          |
+| <img src="media/gpl.png" width="30">                 | MB-7005 | Create and manage journeys with Dynamics 365 Customer Insights                                     |                                          |
+| <img src="media/gpl.png" width="30">                 | MB-7006 | Create and manage segments in Customer Insights - Data                                             |                                          |
+|                                                      | MD-4011 | [Enhance Endpoint Security with Microsoft Intune and Microsoft Copilot for Security][4011 LP]      |                                          |
+| **Retired!**                        [APL][4001 APL]  | MS-4001 | [Build collaborative apps for Microsoft Teams][4001 LP]                                            | [Repo][4001 Repo] <br> [HTML][4001 HTML] |
+| <img src="media/apl.png" width="30">[APL][4002 APL]  | MS-4002 |<img src="media/co.png" width="30"> [Prepare security and compliance to support Microsoft 365 Copilot][4002 LP]     |                                          |
 |                                                      | MS-4004 |<img src="media/co.png" width="30"> [Empower your workforce with Copilot for Microsoft 365 Use Cases][4004 LP]      | [Repo][4004 Repo] <br> [HTML][4004 HTML] |
 |                                                      | MS-4005 |<img src="media/co.png" width="30"> [Craft effective prompts for Microsoft Copilot for Microsoft 365][4005 LP]      | [Repo][4005 Repo] <br> [HTML][4005 HTML] |
 |                                                      | MS-4006 |<img src="media/co.png" width="30"> [Copilot for Microsoft 365 for Administrators][4006 LP]                         | [Repo][4006 Repo] <br> [HTML][4006 HTML] |
@@ -72,17 +71,17 @@ updated on September 19, 2024
 |                                                      | MS-4014 |<img src="media/co.png" width="30"> Build a foundation to extend Microsoft 365 Copilot                              |                                          |
 | <img src="media/gpl.png" width="30">                 | MS-4015 |<img src="media/co.png" width="30"> Build custom engine copilots for Microsoft Teams                                |                                          |
 |                                                      | MS-4017 |<img src="media/co.png" width="30"> [Manage and extend Microsoft 365 Copilot][4017 LP]                              |                                          |
-| <img src="media/apl.png" width="30">[APL][7001 APL]✅| PL-7001 | [Create and manage canvas apps with Power Apps][7001 LP]                                             | [Repo][7001 Repo] <br> [HTML][7001 HTML] |
-| <img src="media/apl.png" width="30">[APL][7002 APL]✅| PL-7002 | [Create and manage automated processes by using Power Automate][7002 LP]                             | [Repo][7002 Repo] <br> [HTML][7002 HTML] |
-| <img src="media/apl.png" width="30">[APL][7003 APL]✅| PL-7003 | [Create and manage model-driven apps with PowerApps and Dataverse][7003 LP]                          | [Repo][7003 Repo] <br> [HTML][7003 HTML] |
-| <img src="media/apl.png" width="30">[APL][7004 APL]✅| PL-7004 | [Implement AI models with Microsoft Power Platform AI Builder][7004 LP]                              |                                          |
+| <img src="media/apl.png" width="30">[APL][7001 APL]  | PL-7001 | [Create and manage canvas apps with Power Apps][7001 LP]                                             | [Repo][7001 Repo] <br> [HTML][7001 HTML] |
+| <img src="media/apl.png" width="30">[APL][7002 APL]  | PL-7002 | [Create and manage automated processes by using Power Automate][7002 LP]                             | [Repo][7002 Repo] <br> [HTML][7002 HTML] |
+| <img src="media/apl.png" width="30">[APL][7003 APL]  | PL-7003 | [Create and manage model-driven apps with PowerApps and Dataverse][7003 LP]                          | [Repo][7003 Repo] <br> [HTML][7003 HTML] |
+| <img src="media/apl.png" width="30">[APL][7004 APL]  | PL-7004 | [Implement AI models with Microsoft Power Platform AI Builder][7004 LP]                              |                                          |
 | <img src="media/gpl.png" width="30">                 | PL-7008 |<img src="media/co.png" width="30"> [Create custom copilots with Copilot Studio][7008 LP]             |                                          |
-| <img src="media/apl.png" width="30">[APL][5001 APL]✅| SC-5001 | [Configure SIEM security operations using Microsoft Sentinel][5001 LP]                                          | [Repo][5001 Repo] <br> [HTML][5001 HTML] |
-| <img src="media/apl.png" width="30">[APL][5002 APL]✅| SC-5002 | [Secure Azure services and workloads with Microsoft Defender for Cloud regulatory compliance controls][5002 LP] | [Repo][5002 Repo] <br> [HTML][5002 HTML] |
-| <img src="media/apl.png" width="30">[APL][5003 APL]✅| SC-5003 | [Implement information protection and data loss prevention by using Microsoft Purview][5003 LP]                 | [Repo][5003 Repo] <br> [HTML][5003 HTML] |
-|                                                      | SC-5006 | [Get started with Microsoft Copilot for Security][5006 LP]                                            |                                          |
-| <img src="media/apl.png" width="30">[APL][5007 APL]✅| SC-5007 | [Implement retention, eDiscovery, and Communication compliance in Microsoft Purview][5007 LP]         |                                          |
-|                                                      | SC-5008 | [Configure and manage entitlement with Microsoft Entra ID][5008 LP]                                   |                                          |
+| <img src="media/apl.png" width="30">[APL][5001 APL]  | SC-5001 | [Configure SIEM security operations using Microsoft Sentinel][5001 LP]                                             | [Repo][5001 Repo] <br> [HTML][5001 HTML] |
+| <img src="media/apl.png" width="30">[APL][5002 APL]  | SC-5002 | [Secure Azure services and workloads with Microsoft Defender for Cloud regulatory compliance controls][5002 LP]    | [Repo][5002 Repo] <br> [HTML][5002 HTML] |
+| <img src="media/apl.png" width="30">[APL][5003 APL]  | SC-5003 | [Implement information protection and data loss prevention by using Microsoft Purview][5003 LP]                    | [Repo][5003 Repo] <br> [HTML][5003 HTML] |
+|                                                      | SC-5006 | [Get started with Microsoft Copilot for Security][5006 LP]                                           |                                          |
+| <img src="media/apl.png" width="30">[APL][5007 APL]  | SC-5007 | [Implement retention, eDiscovery, and Communication compliance in Microsoft Purview][5007 LP]        |                                          |
+|                                                      | SC-5008 | [Configure and manage entitlement with Microsoft Entra ID][5008 LP]                                  |                                          |
 
 
 
