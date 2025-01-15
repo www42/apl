@@ -47,14 +47,13 @@ updated on September 19, 2024
 |                                                      | DP-3012 | [Implementing a Data Analytics Solution with Synapse Analytics][3012 LP]                           |                                          |
 |                                                      | DP-3014 | [Implementing a Machine Learning Solution with Azure Databricks][3014 LP]                          |                                          |
 |                                                      | DP-3015 | [Getting Started with Cosmos DB NoSQL Development][3015 LP]                                        |                                          |
-| <img src="media/gpl.png" width="30">[APL][3020 APL]  | DP-3020 | [Develop data-driven applications with Azure SQL Database][3020 LP]                                |                                          |
+| <img src="media/apl.png" width="30">[APL][3020 APL]❌| DP-3020 | [Develop data-driven applications with Azure SQL Database][3020 LP]                                |                                          |
 | <img src="media/gpl.png" width="30">                 | DP-3021 | [Configure and migrate to Azure Database for PostgreSQL][3021 LP]                                  |                                          |
 | <img src="media/apl.png" width="30">[APL][601 APL]   | DP-601  | [Implement a lakehouse in Microsoft Fabric][601 LP]                                                |                                          |
 | <img src="media/apl.png" width="30">[APL][602 APL]   | DP-602  | [Implement a data warehouse in Microsoft Fabric][602 LP]                                           |                                          |
-| <img src="media/apl.png" width="30">[APL][603 APL]   | DP-603  | [Implementing Real-Time Intelligence with Microsoft Fabric][603 LP]                                |                                          |
+| <img src="media/apl.png" width="30">[APL][603 APL]   | DP-603  | [Implement a Real-Time Intelligence solution with Microsoft Fabric][603 LP]                        |                                          |
 | <img src="media/apl.png" width="30">[APL][604 APL]   | DP-604  | [Implement a data science and machine learning solution with Microsoft Fabric][604 LP]             |                                          |
 | <img src="media/gpl.png" width="30">                 | DP-605  | [Develop dynamic reports with Microsoft Power BI][605 LP]                                          |                                          |
-| <img src="media/apl.png" width="30">[APL][yyyy APL]  | DP-yyyy | [Implement a Real-Time Intelligence solution with Microsoft Fabric][yyyy LP]                       |                                          |
 | <img src="media/gpl.png" width="30">                 | MB-7005 | Create and manage journeys with Dynamics 365 Customer Insights                                     |                                          |
 | <img src="media/gpl.png" width="30">                 | MB-7006 | Create and manage segments in Customer Insights - Data                                             |                                          |
 |                                                      | MD-4011 | [Enhance Endpoint Security with Microsoft Intune and Microsoft Copilot for Security][4011 LP]      |                                          |
@@ -225,9 +224,6 @@ updated on September 19, 2024
 [604 APL]:   https://learn.microsoft.com/en-us/credentials/applied-skills/implement-a-data-science-and-machine-learning-solution-with-microsoft-fabric/
 
 [605 LP]:    https://learn.microsoft.com/training/paths/develop-dynamic-reports-microsoft-power-bi
-
-[yyyy LP]:   https://learn.microsoft.com/en-us/training/paths/explore-real-time-analytics-microsoft-fabric/
-[yyyy APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/implement-a-real-time-intelligence-solution-with-microsoft-fabric/
 
 [4001 LP]:   https://learn.microsoft.com/en-us/training/paths/build-collaborative-apps-microsoft-teams/
 [4001 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/build-collaborative-apps-microsoft-teams/
