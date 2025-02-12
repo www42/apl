@@ -19,7 +19,7 @@ updated on September 19, 2024
 | <img src="media/apl.png" width="30">[APL][3002 APL]❌| AI-3002 | [Create an intelligent document processing solution with Azure AI Document Intelligence][3002 LP]   | [Repo][3002 Repo] <br> [HTML][3002 HTML] |
 | <img src="media/apl.png" width="30">[APL][3003 APL]❌| AI-3003 | [Build a natural language processing solution with Azure AI Language][3003 LP]                      | [Repo][3003 Repo] <br> [HTML][3003 HTML] |
 | <img src="media/apl.png" width="30">[APL][3004 APL]❌| AI-3004 | [Build an Azure AI Vision solution][3004 LP]                                                        | [Repo][3004 Repo] <br> [HTML][3004 HTML] |
-| <img src="media/gpl.png" width="30">                 | AI-3016 |<img src="media/co.png" width="30"> [Develop generative AI apps in Azure AI Foundry][3016 LP] (Previous: Develop copilots with Azure AI Studio) |                                          |
+| <img src="media/gpl.png" width="30">                 | AI-3016 |<img src="media/co.png" width="30"> [Develop generative AI apps in Azure AI Foundry][3016 LP] (Previous: Develop copilots with Azure AI Studio) | [Repo][3016 Repo] <br> [HTML][3016 HTML] |
 |                                                      | AI-3017 | [Microsoft AI for business leaders][3017 LP]                                                        |                                          |
 |                                                      | AI-3018 |<img src="media/co.png" width="30"> [Copilot Foundations][3018 LP]                                   |                                          |
 | <img src="media/apl.png" width="30">[APL][3019 APL]❌| AI-3019 | [Build AI Apps with Azure Database for PostgreSQL][3019 LP]                                         | [Repo][3019 Repo] <br> [HTML][3019 HTML] |
@@ -194,6 +194,8 @@ updated on September 19, 2024
 [3015 LP]:   https://learn.microsoft.com/en-us/training/courses/dp-3015
 
 [3016 LP]:   https://learn.microsoft.com/training/paths/create-custom-copilots-ai-studio/
+[3016 Repo]: https://github.com/MicrosoftLearning/mslearn-ai-studio/tree/main
+[3016 HTML]: https://microsoftlearning.github.io/mslearn-ai-studio/
 
 [3017 LP]:   https://learn.microsoft.com/training/paths/transform-your-business-with-microsoft-ai/
 
