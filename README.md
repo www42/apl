@@ -35,12 +35,12 @@ updated on September 19, 2024
 | <img src="media/apl.png" width="30">[APL][1010 APL]❌| AZ-1010 | [Deploy and manage Microsoft Azure Arc-enabled servers][1010 LP]                                   | [Repo][1010 Repo]                        |
 | <img src="media/apl.png" width="30">[APL][2001 APL]❌| AZ-2001 | [Implement security through a pipeline using Azure DevOps][2001 LP]                                | [Repo][2001 Repo] <br> [HTML][2001 HTML] |
 | <img src="media/apl.png" width="30">[APL][2002 APL]❌| AZ-2002 | [Develop an ASP.NET Core web app that consumes an API][2002 LP]                                    | [Repo][2002 Repo] <br> [HTML][2002 HTML] |
-| <img src="media/apl.png" width="30">[APL][xxxx APL]  | AZ-xxxx | [Build distributed apps with .NET Aspire][xxxx LP]                                                 |                                          |
 | <img src="media/apl.png" width="30">[APL][2003 APL]❌| AZ-2003 | [Deploy cloud-native applications using Azure Container Apps][2003 LP]                             | [Repo][2003 Repo] <br> [HTML][2003 HTML] |
 | <img src="media/apl.png" width="30">[APL][2005 APL]❌| AZ-2005 | [Develop AI agents using Azure OpenAI and the Semantic Kernel SDK][2005 LP]                        | [Repo][2005 Repo] <br> [HTML][2005 HTML] |
 | <img src="media/gpl.png" width="30">                 | AZ-2006 | [Automate Azure Load Testing by using GitHub][2006 LP]                                             | [Repo][2006 Repo] <br> [HTML][2006 HTML] |
 | <img src="media/gpl.png" width="30">                 | AZ-2007 | [Accelerate app development by using GitHub Copilot][2007 LP]                                      |                                          |
 |                                                      | AZ-2008 | [DevOps Foundations: The Core Principles and Practices][2008 LP]                                   | [Repo][2008 Repo] <br> [HTML][2008 HTML] |
+| <img src="media/apl.png" width="30">[APL][2009 APL]  | AZ-2009 | [Build distributed apps with .NET Aspire][2009 LP]                                                 |                                          |
 | <img src="media/apl.png" width="30">[APL][3001 APL]❌| DP-3001 | [Migrate SQL Server workloads to Azure SQL Database][3001 LP]                                      | [Repo][3001 Repo] <br> [HTML][3001 HTML] |
 | <img src="media/apl.png" width="30">[APL][3007 APL]❌| DP-3007 | [Train and deploy a machine learning model with Azure Machine Learning][3007 LP]                   | [Repo][3007 Repo] <br> [HTML][3007 HTML] |
 |                                                      | DP-3011 | [Implementing a Data Analytics Solution with Azure Databricks][3011 LP]                            |                                          |
@@ -135,8 +135,8 @@ updated on September 19, 2024
 [2002 Repo]: https://github.com/MicrosoftLearning/APL-2002-develop-aspnet-core-consumes-api
 [2002 HTML]: https://microsoftlearning.github.io/APL-2002-develop-aspnet-core-consumes-api/
 
-[xxxx LP]:   https://learn.microsoft.com/en-us/training/paths/dotnet-aspire/
-[xxxx APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/build-distributed-apps-with-dotnet-aspire/
+[2009 LP]:   https://learn.microsoft.com/en-us/training/paths/dotnet-aspire/
+[2009 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/build-distributed-apps-with-dotnet-aspire/
 
 [2003 LP]:   https://learn.microsoft.com/en-us/training/paths/deploy-cloud-native-applications-to-azure-container-apps/
 [2003 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-cloud-native-apps-using-azure-container-apps/
