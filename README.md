@@ -64,7 +64,7 @@ updated on September 19, 2024
 | **Retired!**                                         | MS-4006 |<img src="media/co.png" width="30"> Copilot for Microsoft 365 for Administrators  (replaced by xxxxx)               |                          |
 |                                                      | MS-4007 |<img src="media/co.png" width="30"> [Copilot for Microsoft 365 User Enablement Specialist][4007 LP]                 |                          |
 |                                                      | MS-4008 |<img src="media/co.png" width="30"> [Copilot for Microsoft 365 Interactive Experience for Executives (M365 Copilot subscription)][4008 LP]     |                   |
-|                                                      | MS-4009 |<img src="media/co.png" width="30"> [Extend Microsoft Copilot for Microsoft 365 with Copilot Studio][4009 LP]                                  |                   |
+|                                                      | MS-4009 |<img src="media/co.png" width="30"> [Extend Microsoft Copilot for Microsoft 365 with Copilot Studio][4009 LP]                                  | [Repo][4009 Repo] |
 |                                                      | MS-4010 |<img src="media/co.png" width="30"> [Build Plugins and Connectors for Microsoft Copilot for Microsoft 365][4010 LP]                            | [Repo][4010 Repo] |
 |                                                      | MS-4012 |<img src="media/co.png" width="30"> [Microsoft Copilot Interactive Experience for Executives (Free product)][4012 LP]                          |                   |
 |                                                      | MS-4014 |<img src="media/co.png" width="30"> Build a foundation to extend Microsoft 365 Copilot                |                                          |
@@ -245,6 +245,7 @@ updated on September 19, 2024
 [4008 LP]:   https://learn.microsoft.com/en-us/training/paths/microsoft-copilot-for-microsoft-365-executive-challenge/
 
 [4009 LP]:   https://learn.microsoft.com/training/paths/extend-microsoft-copilot-microsoft-365-copilot-studio/
+[4009 Repo]: https://github.com/MicrosoftLearning/MS-4009-Extend-Microsoft-Copilot-for-Microsoft-365-with-Copilot-Studio
 
 [4010 LP]:   https://learn.microsoft.com/en-us/training/paths/build-plugins-connectors-microsoft-copilot-microsoft-365/
 [4010 Repo]: https://github.com/MicrosoftLearning/MS-4010-Build-Plugins-Connectors-Microsoft-Copilot-M365
