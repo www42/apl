@@ -58,7 +58,7 @@ updated on September 19, 2024
 | <img src="media/gpl.png" width="30">                 | MB-7006 | Create and manage segments in Customer Insights - Data                                             |                                          |
 |                                                      | MD-4011 | [Enhance Endpoint Security with Microsoft Intune and Microsoft Copilot for Security][4011 LP]      |                                          |
 | **Retired!**                                         | MS-4001 | [Build collaborative apps for Microsoft Teams][4001 LP]                                            | [Repo][4001 Repo] <br> [HTML][4001 HTML] |
-| <img src="media/apl.png" width="30">[APL][4002 APL]  | MS-4002 |<img src="media/co.png" width="30"> [Prepare security and compliance to support Microsoft 365 Copilot][4002 LP]     |                                          |
+| <img src="media/apl.png" width="30">[APL][4002 APL]  | MS-4002 |<img src="media/co.png" width="30"> [Prepare security and compliance to support Microsoft 365 Copilot][4002 LP]     | [Repo][4002 Repo]                                         |
 |                                                      | MS-4004 |<img src="media/co.png" width="30"> [Empower your workforce with Copilot for Microsoft 365 Use Cases][4004 LP]      | [Repo][4004 Repo] <br> [HTML][4004 HTML] |
 |                                                      | MS-4005 |<img src="media/co.png" width="30"> [Craft effective prompts for Microsoft Copilot for Microsoft 365][4005 LP]      | [Repo][4005 Repo] <br> [HTML][4005 HTML] |
 |                                                      | MS-4006 |<img src="media/co.png" width="30"> [Copilot for Microsoft 365 for Administrators][4006 LP]                         | [Repo][4006 Repo] <br> [HTML][4006 HTML] |
@@ -232,6 +232,7 @@ updated on September 19, 2024
 
 [4002 LP]:   https://learn.microsoft.com/training/paths/prepare-security-compliance-support-microsoft-365-copilot/
 [4002 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/prepare-security-and-compliance-to-support-microsoft-365-copilot/
+[4002 Repo]: https://github.com/MicrosoftLearning/MS-4002-Prepare-security-and-compliance-to-support-Microsoft-365-Copilot
 
 [4004 LP]:   https://learn.microsoft.com/en-us/training/paths/empower-workforce-copilot-use-cases/
 [4004 Repo]: https://github.com/MicrosoftLearning/MS-4004-Empower-workforce-copilot-use-cases
