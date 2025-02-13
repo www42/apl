@@ -70,9 +70,9 @@ updated on September 19, 2024
 |                                                      | MS-4014 |<img src="media/co.png" width="30"> [Build a foundation to extend Microsoft 365 Copilot][4014 LP]     | [Repo][4014 Repo]                      |
 | <img src="media/gpl.png" width="30">                 | MS-4015 |<img src="media/co.png" width="30"> [Build custom engine copilots for Microsoft Teams][4015 LP]       | [Repo][4015 Repo]                      |
 |                                                      | MS-4017 |<img src="media/co.png" width="30"> [Manage and extend Microsoft 365 Copilot][4017 LP]                |                                          |
-| <img src="media/apl.png" width="30">[APL][7001 APL]  | PL-7001 | [Create and manage canvas apps with Power Apps][7001 LP]                                             | [Repo][7001 Repo] <br> [HTML][7001 HTML] |
-| <img src="media/apl.png" width="30">[APL][7002 APL]  | PL-7002 | [Create and manage automated processes by using Power Automate][7002 LP]                             | [Repo][7002 Repo] <br> [HTML][7002 HTML] |
-| <img src="media/apl.png" width="30">[APL][7003 APL]  | PL-7003 | [Create and manage model-driven apps with PowerApps and Dataverse][7003 LP]                          | [Repo][7003 Repo] <br> [HTML][7003 HTML] |
+| <img src="media/apl.png" width="30">[APL][7001 APL]  | PL-7001 | [Create and manage canvas apps with Power Apps][7001 LP]                                             | [Repo][7001 Repo]                        |
+| <img src="media/apl.png" width="30">[APL][7002 APL]  | PL-7002 | [Create and manage automated processes by using Power Automate][7002 LP]                             | [Repo][7002 Repo]                        |
+| <img src="media/apl.png" width="30">[APL][7003 APL]  | PL-7003 | [Create and manage model-driven apps with PowerApps and Dataverse][7003 LP]                          | [Repo][7003 Repo]                        |
 | <img src="media/apl.png" width="30">[APL][7004 APL]  | PL-7004 | [Implement AI models with Microsoft Power Platform AI Builder][7004 LP]                              |                                          |
 | <img src="media/gpl.png" width="30">                 | PL-7008 |<img src="media/co.png" width="30"> [Create custom copilots with Copilot Studio][7008 LP]             |                                          |
 | <img src="media/apl.png" width="30">[APL][5001 APL]❌| SC-5001 | [Configure SIEM security operations using Microsoft Sentinel][5001 LP]                                             | [Repo][5001 Repo] <br> [HTML][5001 HTML] |
@@ -289,17 +289,14 @@ updated on September 19, 2024
 [7001 LP]:   https://learn.microsoft.com/en-us/training/paths/create-manage-canvas-apps-power-apps/
 [7001 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/create-manage-canvas-apps-power-apps/
 [7001 Repo]: https://github.com/MicrosoftLearning/PL-7001-Create-and-manage-canvas-apps-with-Power-Apps
-[7001 HTML]: https://github.com/MicrosoftLearning/PL-7001-Create-and-manage-canvas-apps-with-Power-Apps/tree/master/Instructions
 
 [7002 LP]:   https://learn.microsoft.com/en-us/training/paths/create-manage-automated-processes-by-using-power-automate/
 [7002 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/create-and-manage-automated-processes-with-power-automate/
 [7002 Repo]: https://github.com/MicrosoftLearning/PL-7002-Create-and-Manage-Automated-Processes-by-using-Power-Automate
-[7002 HTML]: https://github.com/MicrosoftLearning/PL-7002-Create-and-Manage-Automated-Processes-by-using-Power-Automate/tree/master/Instructions
 
 [7003 LP]:   https://learn.microsoft.com/en-us/training/paths/create-manage-model-driven-apps/   
 [7003 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/create-and-manage-model-driven-apps-with-power-apps-and-dataverse/   
 [7003 Repo]: https://github.com/MicrosoftLearning/PL-7003-Create-and-manage-model-driven-apps-with-Power-Apps-and-Dataverse
-[7003 HTML]: https://github.com/MicrosoftLearning/PL-7003-Create-and-manage-model-driven-apps-with-Power-Apps-and-Dataverse/tree/master/Instructions
 
 [7004 LP]:   https://learn.microsoft.com/en-us/training/paths/implement-ai-models-microsoft-power-platform-ai-builder/
 [7004 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/implement-ai-models-with-microsoft-power-platform-ai-builder/
