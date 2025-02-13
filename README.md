@@ -58,18 +58,18 @@ updated on September 19, 2024
 | <img src="media/gpl.png" width="30">                 | MB-7006 | Create and manage segments in Customer Insights - Data                                             |                                          |
 |                                                      | MD-4011 | [Enhance Endpoint Security with Microsoft Intune and Microsoft Copilot for Security][4011 LP]      |                                          |
 | **Retired!**                                         | MS-4001 | [Build collaborative apps for Microsoft Teams][4001 LP]                                            | [Repo][4001 Repo] <br> [HTML][4001 HTML] |
-| <img src="media/apl.png" width="30">[APL][4002 APL]  | MS-4002 |<img src="media/co.png" width="30"> [Prepare security and compliance to support Microsoft 365 Copilot][4002 LP]     | [Repo][4002 Repo]                                         |
-|                                                      | MS-4004 |<img src="media/co.png" width="30"> [Empower your workforce with Copilot for Microsoft 365 Use Cases][4004 LP]      | [Repo][4004 Repo] <br> [HTML][4004 HTML] |
-|                                                      | MS-4005 |<img src="media/co.png" width="30"> [Craft effective prompts for Microsoft Copilot for Microsoft 365][4005 LP]      | [Repo][4005 Repo] <br> [HTML][4005 HTML] |
-|                                                      | MS-4006 |<img src="media/co.png" width="30"> [Copilot for Microsoft 365 for Administrators][4006 LP]                         | [Repo][4006 Repo] <br> [HTML][4006 HTML] |
-|                                                      | MS-4007 |<img src="media/co.png" width="30"> [Copilot for Microsoft 365 User Enablement Specialist][4007 LP]                 |                                          |
-|                                                      | MS-4008 |<img src="media/co.png" width="30"> [Copilot for Microsoft 365 Interactive Experience for Executives][4008 LP]      |                                          |
-|                                                      | MS-4009 |<img src="media/co.png" width="30"> [Extend Microsoft Copilot for Microsoft 365 with Copilot Studio][4009 LP]       |                                          |
-|                                                      | MS-4010 |<img src="media/co.png" width="30"> [Build Plugins and Connectors for Microsoft Copilot for Microsoft 365][4010 LP] | [Repo][4010 Repo]                        |
-|                                                      | MS-4012 |<img src="media/co.png" width="30"> [Microsoft Copilot Interactive Experience for Executives][4012 LP]              |                                          |
-|                                                      | MS-4014 |<img src="media/co.png" width="30"> Build a foundation to extend Microsoft 365 Copilot                              |                                          |
-| <img src="media/gpl.png" width="30">                 | MS-4015 |<img src="media/co.png" width="30"> Build custom engine copilots for Microsoft Teams                                |                                          |
-|                                                      | MS-4017 |<img src="media/co.png" width="30"> [Manage and extend Microsoft 365 Copilot][4017 LP]                              |                                          |
+| <img src="media/apl.png" width="30">[APL][4002 APL]  | MS-4002 |<img src="media/co.png" width="30"> [Prepare security and compliance to support Microsoft 365 Copilot][4002 LP]     | [Repo][4002 Repo]        |
+|                                                      | MS-4004 |<img src="media/co.png" width="30"> [Empower your workforce with Copilot for Microsoft 365 Use Cases][4004 LP]      | [Repo][4004 Repo]        |
+|                                                      | MS-4005 |<img src="media/co.png" width="30"> [Craft effective prompts for Microsoft Copilot for Microsoft 365][4005 LP]      | [Repo][4005 Repo]        |
+| **Retired!**                                         | MS-4006 |<img src="media/co.png" width="30"> Copilot for Microsoft 365 for Administrators  (replaced by xxxxx)               |                          |
+|                                                      | MS-4007 |<img src="media/co.png" width="30"> [Copilot for Microsoft 365 User Enablement Specialist][4007 LP]                 |                          |
+|                                                      | MS-4008 |<img src="media/co.png" width="30"> [Copilot for Microsoft 365 Interactive Experience for Executives (M365 Copilot subscription)][4008 LP]     |                   |
+|                                                      | MS-4009 |<img src="media/co.png" width="30"> [Extend Microsoft Copilot for Microsoft 365 with Copilot Studio][4009 LP]                                  |                   |
+|                                                      | MS-4010 |<img src="media/co.png" width="30"> [Build Plugins and Connectors for Microsoft Copilot for Microsoft 365][4010 LP]                            | [Repo][4010 Repo] |
+|                                                      | MS-4012 |<img src="media/co.png" width="30"> [Microsoft Copilot Interactive Experience for Executives (Free product)][4012 LP]                          |                   |
+|                                                      | MS-4014 |<img src="media/co.png" width="30"> Build a foundation to extend Microsoft 365 Copilot                |                                          |
+| <img src="media/gpl.png" width="30">                 | MS-4015 |<img src="media/co.png" width="30"> Build custom engine copilots for Microsoft Teams                  |                                          |
+|                                                      | MS-4017 |<img src="media/co.png" width="30"> [Manage and extend Microsoft 365 Copilot][4017 LP]                |                                          |
 | <img src="media/apl.png" width="30">[APL][7001 APL]  | PL-7001 | [Create and manage canvas apps with Power Apps][7001 LP]                                             | [Repo][7001 Repo] <br> [HTML][7001 HTML] |
 | <img src="media/apl.png" width="30">[APL][7002 APL]  | PL-7002 | [Create and manage automated processes by using Power Automate][7002 LP]                             | [Repo][7002 Repo] <br> [HTML][7002 HTML] |
 | <img src="media/apl.png" width="30">[APL][7003 APL]  | PL-7003 | [Create and manage model-driven apps with PowerApps and Dataverse][7003 LP]                          | [Repo][7003 Repo] <br> [HTML][7003 HTML] |
@@ -236,15 +236,9 @@ updated on September 19, 2024
 
 [4004 LP]:   https://learn.microsoft.com/en-us/training/paths/empower-workforce-copilot-use-cases/
 [4004 Repo]: https://github.com/MicrosoftLearning/MS-4004-Empower-workforce-copilot-use-cases
-[4004 HTML]: https://github.com/MicrosoftLearning/MS-4004-Empower-workforce-copilot-use-cases/tree/master/Instructions
 
 [4005 LP]:   https://learn.microsoft.com/en-us/training/paths/craft-effective-prompts-copilot-microsoft-365/
 [4005 Repo]: https://github.com/MicrosoftLearning/MS-4005-Craft-effective-prompts-for-Microsoft-Copilot-for-Microsoft-365/
-[4005 HTML]: https://github.com/MicrosoftLearning/MS-4005-Craft-effective-prompts-for-Microsoft-Copilot-for-Microsoft-365/tree/master/Instructions
-
-[4006 LP]:   https://learn.microsoft.com/en-us/training/courses/ms-4006
-[4006 Repo]: https://github.com/MicrosoftLearning/MS-4006-Copilot-for-Microsoft-365-for-Administrators
-[4006 HTML]: https://github.com/MicrosoftLearning/MS-4006-Copilot-for-Microsoft-365-for-Administrators/tree/master/Instructions
 
 [4007 LP]:   https://learn.microsoft.com/en-us/training/paths/explore-how-drive-adoption-microsoft-copilot-m365/
 
