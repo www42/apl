@@ -80,7 +80,7 @@ updated on September 19, 2024
 | <img src="media/apl.png" width="30">[APL][5003 APL]  | SC-5003 | [Implement information protection and data loss prevention by using Microsoft Purview][5003 LP]                    | [Repo][5003 Repo] <br> [HTML][5003 HTML] |
 |                                                      | SC-5006 | [Get started with Microsoft Copilot for Security][5006 LP]                                           | [Repo][5006 Repo]                        |
 | <img src="media/apl.png" width="30">[APL][5007 APL]  | SC-5007 | [Implement retention, eDiscovery, and Communication compliance in Microsoft Purview][5007 LP]        | [Repo][5007 Repo]                        |
-|                                                      | SC-5008 | [Configure and manage entitlement with Microsoft Entra ID][5008 LP]                                  |                                          |
+|                                                      | SC-5008 | [Configure and manage entitlement with Microsoft Entra ID][5008 LP]                                  | [Repo][5008 Repo]                        |
 
 
 
@@ -287,6 +287,7 @@ updated on September 19, 2024
 [5007 Repo]: https://github.com/MicrosoftLearning/SC-5007-Implement-retention-eDiscovery-and-Communication-compliance-in-Microsoft-Purview
 
 [5008 LP]:   https://learn.microsoft.com/en-us/training/paths/configure-manage-entitlement-microsoft-entra-id/
+[5008 Repo]: https://github.com/MicrosoftLearning/SC-5008-Configure-and-manage-entitlement-with-Microsoft-Entra-ID
 
 [7001 LP]:   https://learn.microsoft.com/en-us/training/paths/create-manage-canvas-apps-power-apps/
 [7001 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/create-manage-canvas-apps-power-apps/
