@@ -67,7 +67,7 @@ updated on September 19, 2024
 |                                                      | MS-4009 |<img src="media/co.png" width="30"> [Extend Microsoft Copilot for Microsoft 365 with Copilot Studio][4009 LP]                                  | [Repo][4009 Repo] |
 |                                                      | MS-4010 |<img src="media/co.png" width="30"> [Build Plugins and Connectors for Microsoft Copilot for Microsoft 365][4010 LP]                            | [Repo][4010 Repo] |
 |                                                      | MS-4012 |<img src="media/co.png" width="30"> [Microsoft Copilot Interactive Experience for Executives (free)][4012 LP]                                  | [Repo][4012 Repo] |
-|                                                      | MS-4014 |<img src="media/co.png" width="30"> Build a foundation to extend Microsoft 365 Copilot                |                                          |
+|                                                      | MS-4014 |<img src="media/co.png" width="30"> [Build a foundation to extend Microsoft 365 Copilot][4014 LP]     | [Repo][4014 Repo]                      |
 | <img src="media/gpl.png" width="30">                 | MS-4015 |<img src="media/co.png" width="30"> Build custom engine copilots for Microsoft Teams                  |                                          |
 |                                                      | MS-4017 |<img src="media/co.png" width="30"> [Manage and extend Microsoft 365 Copilot][4017 LP]                |                                          |
 | <img src="media/apl.png" width="30">[APL][7001 APL]  | PL-7001 | [Create and manage canvas apps with Power Apps][7001 LP]                                             | [Repo][7001 Repo] <br> [HTML][7001 HTML] |
@@ -255,6 +255,9 @@ updated on September 19, 2024
 
 [4012 LP]:   https://learn.microsoft.com/training/paths/microsoft-copilot-web-based-interactive-experience-executives/
 [4012 Repo]: https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives
+
+[4014 LP]:   https://learn.microsoft.com/en-us/training/paths/build-foundation-extend-microsoft-365-copilot/
+[4014 Repo]: https://github.com/MicrosoftLearning/MS-4014-Build-a-foundation-to-extend-Microsoft-365-Copilot
 
 [4017 LP]:   https://learn.microsoft.com/training/courses/MS-4017
 
