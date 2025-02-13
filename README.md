@@ -61,14 +61,14 @@ updated on September 19, 2024
 | <img src="media/apl.png" width="30">[APL][4002 APL]  | MS-4002 |<img src="media/co.png" width="30"> [Prepare security and compliance to support Microsoft 365 Copilot][4002 LP]     | [Repo][4002 Repo]        |
 |                                                      | MS-4004 |<img src="media/co.png" width="30"> [Empower your workforce with Copilot for Microsoft 365 Use Cases][4004 LP]      | [Repo][4004 Repo]        |
 |                                                      | MS-4005 |<img src="media/co.png" width="30"> [Craft effective prompts for Microsoft Copilot for Microsoft 365][4005 LP]      | [Repo][4005 Repo]        |
-| **Retired!**                                         | MS-4006 |<img src="media/co.png" width="30"> Copilot for Microsoft 365 for Administrators  (replaced by xxxxx)               |                          |
+| **Retired!**                                         | MS-4006 |<img src="media/co.png" width="30"> Copilot for Microsoft 365 for Administrators (replaced by MS4017)               |                          |
 |                                                      | MS-4007 |<img src="media/co.png" width="30"> [Copilot for Microsoft 365 User Enablement Specialist][4007 LP]                 |                          |
 |                                                      | MS-4008 |<img src="media/co.png" width="30"> [Copilot for Microsoft 365 Interactive Experience for Executives (paid)][4008 LP]                          | [Repo][4008 Repo] |
 |                                                      | MS-4009 |<img src="media/co.png" width="30"> [Extend Microsoft Copilot for Microsoft 365 with Copilot Studio][4009 LP]                                  | [Repo][4009 Repo] |
 |                                                      | MS-4010 |<img src="media/co.png" width="30"> [Build Plugins and Connectors for Microsoft Copilot for Microsoft 365][4010 LP]                            | [Repo][4010 Repo] |
 |                                                      | MS-4012 |<img src="media/co.png" width="30"> [Microsoft Copilot Interactive Experience for Executives (free)][4012 LP]                                  | [Repo][4012 Repo] |
 |                                                      | MS-4014 |<img src="media/co.png" width="30"> [Build a foundation to extend Microsoft 365 Copilot][4014 LP]     | [Repo][4014 Repo]                      |
-| <img src="media/gpl.png" width="30">                 | MS-4015 |<img src="media/co.png" width="30"> Build custom engine copilots for Microsoft Teams                  |                                          |
+| <img src="media/gpl.png" width="30">                 | MS-4015 |<img src="media/co.png" width="30"> [Build custom engine copilots for Microsoft Teams][4015 LP]       | [Repo][4015 Repo]                      |
 |                                                      | MS-4017 |<img src="media/co.png" width="30"> [Manage and extend Microsoft 365 Copilot][4017 LP]                |                                          |
 | <img src="media/apl.png" width="30">[APL][7001 APL]  | PL-7001 | [Create and manage canvas apps with Power Apps][7001 LP]                                             | [Repo][7001 Repo] <br> [HTML][7001 HTML] |
 | <img src="media/apl.png" width="30">[APL][7002 APL]  | PL-7002 | [Create and manage automated processes by using Power Automate][7002 LP]                             | [Repo][7002 Repo] <br> [HTML][7002 HTML] |
@@ -258,6 +258,9 @@ updated on September 19, 2024
 
 [4014 LP]:   https://learn.microsoft.com/en-us/training/paths/build-foundation-extend-microsoft-365-copilot/
 [4014 Repo]: https://github.com/MicrosoftLearning/MS-4014-Build-a-foundation-to-extend-Microsoft-365-Copilot
+
+[4015 LP]:   https://learn.microsoft.com/en-us/training/paths/build-custom-copilots-microsoft-teams/
+[4015 Repo]: https://github.com/MicrosoftLearning/MS-4015-Build-Custom-Agent-for-Microsoft-Teams
 
 [4017 LP]:   https://learn.microsoft.com/training/courses/MS-4017
 
