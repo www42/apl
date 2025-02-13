@@ -73,12 +73,12 @@ updated on September 19, 2024
 | <img src="media/apl.png" width="30">[APL][7001 APL]  | PL-7001 | [Create and manage canvas apps with Power Apps][7001 LP]                                             | [Repo][7001 Repo]                        |
 | <img src="media/apl.png" width="30">[APL][7002 APL]  | PL-7002 | [Create and manage automated processes by using Power Automate][7002 LP]                             | [Repo][7002 Repo]                        |
 | <img src="media/apl.png" width="30">[APL][7003 APL]  | PL-7003 | [Create and manage model-driven apps with PowerApps and Dataverse][7003 LP]                          | [Repo][7003 Repo]                        |
-| <img src="media/apl.png" width="30">[APL][7004 APL]  | PL-7004 | [Implement AI models with Microsoft Power Platform AI Builder][7004 LP]                              |                                          |
+| <img src="media/apl.png" width="30">[APL][7004 APL]  | PL-7004 | [Implement AI models with Microsoft Power Platform AI Builder][7004 LP]                              | [Repo][7004 Repo]                        |
 | <img src="media/gpl.png" width="30">                 | PL-7008 |<img src="media/co.png" width="30"> [Create custom copilots with Copilot Studio][7008 LP]             |                                          |
 | <img src="media/apl.png" width="30">[APL][5001 APL]❌| SC-5001 | [Configure SIEM security operations using Microsoft Sentinel][5001 LP]                                             | [Repo][5001 Repo] <br> [HTML][5001 HTML] |
 | <img src="media/apl.png" width="30">[APL][5002 APL]❌| SC-5002 | [Secure Azure services and workloads with Microsoft Defender for Cloud regulatory compliance controls][5002 LP]    | [Repo][5002 Repo] <br> [HTML][5002 HTML] |
 | <img src="media/apl.png" width="30">[APL][5003 APL]  | SC-5003 | [Implement information protection and data loss prevention by using Microsoft Purview][5003 LP]                    | [Repo][5003 Repo] <br> [HTML][5003 HTML] |
-|                                                      | SC-5006 | [Get started with Microsoft Copilot for Security][5006 LP]                                           |                                          |
+|                                                      | SC-5006 | [Get started with Microsoft Copilot for Security][5006 LP]                                           | [Repo][5006 Repo]                        |
 | <img src="media/apl.png" width="30">[APL][5007 APL]  | SC-5007 | [Implement retention, eDiscovery, and Communication compliance in Microsoft Purview][5007 LP]        |                                          |
 |                                                      | SC-5008 | [Configure and manage entitlement with Microsoft Entra ID][5008 LP]                                  |                                          |
 
@@ -280,6 +280,7 @@ updated on September 19, 2024
 [5003 HTML]: https://microsoftlearning.github.io/SC-5003_Information-protection-and-Data-Loss-Prevention/
 
 [5006 LP]:   https://learn.microsoft.com/en-us/training/paths/security-copilot-and-ai/
+[5006 Repo]: https://github.com/MicrosoftLearning/SC-5006-Enhance-security-by-Microsoft-Security-Copilot
 
 [5007 LP]:   https://learn.microsoft.com/training/paths/purview-implement-retention-ediscovery-communication-compliance/
 [5007 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/implement-retention-ediscovery-and-communication-compliance-in-microsoft-purview/ 
@@ -300,5 +301,6 @@ updated on September 19, 2024
 
 [7004 LP]:   https://learn.microsoft.com/en-us/training/paths/implement-ai-models-microsoft-power-platform-ai-builder/
 [7004 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/implement-ai-models-with-microsoft-power-platform-ai-builder/
+[7004 Repo]: https://github.com/MicrosoftLearning/PL-7004-Implement-AI-models-with-Platform-AI-Builder
 
 [7008 LP]:   https://learn.microsoft.com/training/paths/create-extend-custom-copilots-microsoft-copilot-studio/
