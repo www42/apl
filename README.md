@@ -79,7 +79,7 @@ updated on September 19, 2024
 | <img src="media/apl.png" width="30">[APL][5002 APL]❌| SC-5002 | [Secure Azure services and workloads with Microsoft Defender for Cloud regulatory compliance controls][5002 LP]    | [Repo][5002 Repo] <br> [HTML][5002 HTML] |
 | <img src="media/apl.png" width="30">[APL][5003 APL]  | SC-5003 | [Implement information protection and data loss prevention by using Microsoft Purview][5003 LP]                    | [Repo][5003 Repo] <br> [HTML][5003 HTML] |
 |                                                      | SC-5006 | [Get started with Microsoft Copilot for Security][5006 LP]                                           | [Repo][5006 Repo]                        |
-| <img src="media/apl.png" width="30">[APL][5007 APL]  | SC-5007 | [Implement retention, eDiscovery, and Communication compliance in Microsoft Purview][5007 LP]        |                                          |
+| <img src="media/apl.png" width="30">[APL][5007 APL]  | SC-5007 | [Implement retention, eDiscovery, and Communication compliance in Microsoft Purview][5007 LP]        | [Repo][5007 Repo]                        |
 |                                                      | SC-5008 | [Configure and manage entitlement with Microsoft Entra ID][5008 LP]                                  |                                          |
 
 
@@ -283,7 +283,8 @@ updated on September 19, 2024
 [5006 Repo]: https://github.com/MicrosoftLearning/SC-5006-Enhance-security-by-Microsoft-Security-Copilot
 
 [5007 LP]:   https://learn.microsoft.com/training/paths/purview-implement-retention-ediscovery-communication-compliance/
-[5007 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/implement-retention-ediscovery-and-communication-compliance-in-microsoft-purview/ 
+[5007 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/implement-retention-ediscovery-and-communication-compliance-in-microsoft-purview/
+[5007 Repo]: https://github.com/MicrosoftLearning/SC-5007-Implement-retention-eDiscovery-and-Communication-compliance-in-Microsoft-Purview
 
 [5008 LP]:   https://learn.microsoft.com/en-us/training/paths/configure-manage-entitlement-microsoft-entra-id/
 
