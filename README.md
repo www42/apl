@@ -28,7 +28,7 @@ updated on September 19, 2024
 | <img src="media/apl.png" width="30">[APL][1002 APL]❌| AZ-1002 | [Configure secure access to your workloads using Azure networking][1002 LP]                         | [Repo][1002 Repo] <br> [HTML][1002 HTML] |
 | <img src="media/apl.png" width="30">[APL][1003 APL]❌| AZ-1003 | [Secure storage for Azure Files and Azure Blob Storage][1003 LP]                                    | [Repo][1003 Repo] <br> [HTML][1003 HTML] |
 | <img src="media/apl.png" width="30">[APL][1004 APL]❌| AZ-1004 | [Deploy and configure Azure Monitor][1004 LP]                                                       | [Repo][1004 Repo] <br> [HTML][1004 HTML] |
-| **Retired!**                                         | AZ-1005 | [Configuring Azure Virtual Desktop for the Enterprise][1005 LP]                                     |                                          |
+| **Retired!**                                         | AZ-1005 | Configuring Azure Virtual Desktop for the Enterprise (See course [AZ-140](https://learn.microsoft.com/en-us/training/courses/az-140t00)) |     |
 |                                                      | AZ-1006 | [Migrate and modernize SAP in the Microsoft Cloud][1006 LP]                                         |                                          |
 | <img src="media/apl.png" width="30">[APL][1007 APL]❌| AZ-1007 | [Deploy and administer Linux virtual machines on Azure][1007 LP]                                   | [Repo][1007 Repo] <br> [HTML][1007 HTML]|
 | <img src="media/apl.png" width="30">[APL][1008 APL]  | AZ-1008 | [Administer Active Directory Domain Services][1008 LP]                                             | [Repo][1008 Repo] <br> [HTML][1008 HTML] |
@@ -108,8 +108,6 @@ updated on September 19, 2024
 [1004 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-and-configure-azure-monitor/
 [1004 Repo]: https://github.com/MicrosoftLearning/APL-1004-deploy-configure-azure-monitor
 [1004 HTML]: https://microsoftlearning.github.io/APL-1004-deploy-configure-azure-monitor/
-
-[1005 LP]:   https://learn.microsoft.com/en-us/training/courses/az-1005
 
 [1006 LP]:   https://learn.microsoft.com/en-us/training/courses/az-1006
 
