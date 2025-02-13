@@ -38,7 +38,7 @@ updated on September 19, 2024
 | <img src="media/apl.png" width="30">[APL][2003 APL]❌| AZ-2003 | [Deploy cloud-native applications using Azure Container Apps][2003 LP]                             | [Repo][2003 Repo] <br> [HTML][2003 HTML] |
 | <img src="media/apl.png" width="30">[APL][2005 APL]❌| AZ-2005 | [Develop AI agents using Azure OpenAI and the Semantic Kernel SDK][2005 LP]                        | [Repo][2005 Repo]                        |
 | <img src="media/gpl.png" width="30">                 | AZ-2006 | [Automate Azure Load Testing by using GitHub][2006 LP]                                             | [Repo][2006 Repo] <br> [HTML][2006 HTML] |
-| <img src="media/gpl.png" width="30">                 | AZ-2007 | [Accelerate app development by using GitHub Copilot][2007 LP]                                      | [Repo][2007 Repo]                        |
+|                                                      | AZ-2007 | [Accelerate app development by using GitHub Copilot][2007 LP]                                      | [Repo][2007 Repo]                        |
 |                                                      | AZ-2008 | [DevOps Foundations: The Core Principles and Practices][2008 LP]                                   | [Repo][2008 Repo] <br> [HTML][2008 HTML] |
 | <img src="media/apl.png" width="30">[APL][2009 APL]  | AZ-2009 | [Build distributed apps with .NET Aspire][2009 LP]                                                 |                                          |
 | <img src="media/apl.png" width="30">[APL][3001 APL]❌| DP-3001 | [Migrate SQL Server workloads to Azure SQL Database][3001 LP]                                      | [Repo][3001 Repo] <br> [HTML][3001 HTML] |
@@ -53,9 +53,10 @@ updated on September 19, 2024
 | <img src="media/apl.png" width="30">[APL][602 APL]   | DP-602  | [Implement a data warehouse in Microsoft Fabric][602 LP]                                           |                                          |
 | <img src="media/apl.png" width="30">[APL][603 APL]   | DP-603  | [Implement a Real-Time Intelligence solution with Microsoft Fabric][603 LP]                        |                                          |
 | <img src="media/apl.png" width="30">[APL][604 APL]   | DP-604  | [Implement a data science and machine learning solution with Microsoft Fabric][604 LP]             |                                          |
-| <img src="media/gpl.png" width="30">                 | DP-605  | [Develop dynamic reports with Microsoft Power BI][605 LP]                                          |                                          |
-| <img src="media/gpl.png" width="30">                 | MB-7005 | Create and manage journeys with Dynamics 365 Customer Insights                                     |                                          |
-| <img src="media/gpl.png" width="30">                 | MB-7006 | Create and manage segments in Customer Insights - Data                                             |                                          |
+|                                                      | DP-605  | [Develop dynamic reports with Microsoft Power BI][605 LP]                                          |                                          |
+|                                                      | MB-7005 | Create and manage journeys with Dynamics 365 Customer Insights                                     |                                          |
+|                                                      | MB-7006 | Create and manage segments in Customer Insights - Data                                             |                                          |
+| <img src="media/gpl.png" width="30">                 | MB-7007 | Deploy and configure Microsoft 365 Copilot for Sales                                               |                                          |
 |                                                      | MD-4011 | [Enhance Endpoint Security with Microsoft Intune and Microsoft Copilot for Security][4011 LP]      |                                          |
 | **Retired!**                                         | MS-4001 | [Build collaborative apps for Microsoft Teams][4001 LP]                                            | [Repo][4001 Repo] <br> [HTML][4001 HTML] |
 | <img src="media/apl.png" width="30">[APL][4002 APL]  | MS-4002 |<img src="media/co.png" width="30"> [Prepare security and compliance to support Microsoft 365 Copilot][4002 LP]     | [Repo][4002 Repo]        |
