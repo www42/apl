@@ -43,6 +43,7 @@ updated on September 19, 2024
 |                                                      | AZ-2007 | [Accelerate app development by using GitHub Copilot][2007 LP]                                      | [Repo][2007 Repo]                        |
 |                                                      | AZ-2008 | [DevOps Foundations: The Core Principles and Practices][2008 LP]                                   | [Repo][2008 Repo] <br> [HTML][2008 HTML] |
 | <img src="media/apl.png" width="30">[APL][2009 APL]  | AZ-2009 | [Build distributed apps with .NET Aspire][2009 LP]                                                 |                                          |
+|                                                      | AZ-2010 | Designing and Implementing Platform Engineering                                                    |                                          |
 | <img src="media/apl.png" width="30">[APL][3001 APL]❌| DP-3001 | [Migrate SQL Server workloads to Azure SQL Database][3001 LP]                                      | [Repo][3001 Repo] <br> [HTML][3001 HTML] |
 | <img src="media/apl.png" width="30">[APL][3007 APL]❌| DP-3007 | [Train and deploy a machine learning model with Azure Machine Learning][3007 LP]                   | [Repo][3007 Repo] <br> [HTML][3007 HTML] |
 |                                                      | DP-3011 | [Implementing a Data Analytics Solution with Azure Databricks][3011 LP]                            |                                          |
@@ -139,9 +140,6 @@ updated on September 19, 2024
 [2002 Repo]: https://github.com/MicrosoftLearning/APL-2002-develop-aspnet-core-consumes-api
 [2002 HTML]: https://microsoftlearning.github.io/APL-2002-develop-aspnet-core-consumes-api/
 
-[2009 LP]:   https://learn.microsoft.com/en-us/training/paths/dotnet-aspire/
-[2009 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/build-distributed-apps-with-dotnet-aspire/
-
 [2003 LP]:   https://learn.microsoft.com/en-us/training/paths/deploy-cloud-native-applications-to-azure-container-apps/
 [2003 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-cloud-native-apps-using-azure-container-apps/
 [2003 Repo]: https://github.com/MicrosoftLearning/az-2003-deploy-cloud-native-applications-using-azure-container-apps
@@ -161,6 +159,9 @@ updated on September 19, 2024
 [2008 LP]:   https://learn.microsoft.com/en-us/training/paths/devops-foundations-core-principles-practices/
 [2008 Repo]: https://github.com/MicrosoftLearning/AZ-2008_DevOps_Foundations_Core_Principles_Practices
 [2008 HTML]: https://microsoftlearning.github.io/AZ-2008_DevOps_Foundations_Core_Principles_Practices/
+
+[2009 LP]:   https://learn.microsoft.com/en-us/training/paths/dotnet-aspire/
+[2009 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/build-distributed-apps-with-dotnet-aspire/
 
 [3001 LP]:   https://learn.microsoft.com/en-us/training/paths/migrate-sql-workloads-azure/
 [3001 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/migrate-sql-workloads-azure-sql-database/
