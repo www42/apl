@@ -24,6 +24,8 @@ updated on September 19, 2024
 |                                                      | AI-3018 |<img src="media/co.png" width="30"> [Copilot Foundations][3018 LP]                                   |                                          |
 | <img src="media/apl.png" width="30">[APL][3019 APL]❌| AI-3019 | [Build AI Apps with Azure Database for PostgreSQL][3019 LP]                                         | [Repo][3019 Repo] <br> [HTML][3019 HTML] |
 | <img src="media/gpl.png" width="30">                 | AI-3022 | [ Implement AI Skills in Azure AI Search][3022 LP]                                                  |                                          |
+|                                                      | AI-3024 |<img src="media/co.png" width="30"> [Design a dream destination with AI][3024 LP]                    |                                          |
+|                                                      | AI-3025 |<img src="media/co.png" width="30"> [Work smarter with AI][3025 LP]                                  |                                          |
 | **Retired!**                                         | AZ-1001 | [Deploy containers by using Azure Kubernetes Service][1001 LP]                                      | [Repo][1001 Repo] <br> [HTML][1001 HTML] |
 | <img src="media/apl.png" width="30">[APL][1002 APL]❌| AZ-1002 | [Configure secure access to your workloads using Azure networking][1002 LP]                         | [Repo][1002 Repo] <br> [HTML][1002 HTML] |
 | <img src="media/apl.png" width="30">[APL][1003 APL]❌| AZ-1003 | [Secure storage for Azure Files and Azure Blob Storage][1003 LP]                                    | [Repo][1003 Repo] <br> [HTML][1003 HTML] |
@@ -212,6 +214,10 @@ updated on September 19, 2024
 [3021 LP]:   https://learn.microsoft.com/training/paths/microsoft-learn-azure-database-for-postgresql/
 
 [3022 LP]:   https://learn.microsoft.com/en-us/training/paths/implement-knowledge-mining-azure-cognitive-search/
+
+[3024 LP]:   https://learn.microsoft.com/training/paths/design-dream-destination-ai
+
+[3025 LP]:   https://learn.microsoft.com/training/paths/work-smarter-with-ai/
 
 [601 LP]:    https://learn.microsoft.com/en-us/training/paths/implement-lakehouse-microsoft-fabric/
 [601 APL]:   https://learn.microsoft.com/en-us/credentials/applied-skills/implement-lakehouse-microsoft-fabric/
