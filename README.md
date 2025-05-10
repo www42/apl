@@ -1,12 +1,12 @@
 # New Microsoft One Day Trainings
 
 
-|   |   |   |
-| - | - | - |
-| <img src="media/apl.png" width="30"> |   | Assessment available   |
-| <img src="media/gpl.png" width="30"> |   | Assessment coming soon |
-| ❌ |                                    | Assessment offline |
-| [APL]() |                                | Prepare for the assessment / take the assessment |
+|                                      |                        |
+| ------------------------------------ | ---------------------- |
+| <img src="media/apl.png" width="30"> | Assessment available   |
+| <img src="media/gpl.png" width="30"> | Assessment coming soon |
+| <img src="media/off.png" width="30"> | Assessment offline     |
+| [APL]()                              | Prepare for the assessment / take the assessment |
 
 <br>
 
@@ -57,7 +57,7 @@ updated on February 14, 2025 (Courseware titleplan 01/31/25)
 | <img src="media/apl.png" width="30">[APL][601 APL]❌| DP-601  | [Implement a lakehouse in Microsoft Fabric][601 LP]                                                |                                          |
 | <img src="media/apl.png" width="30">[APL][602 APL]   | DP-602  | [Implement a data warehouse in Microsoft Fabric][602 LP]                                           |                                          |
 | <img src="media/apl.png" width="30">[APL][603 APL]   | DP-603  | [Implement a Real-Time Intelligence solution with Microsoft Fabric][603 LP]                        |                                          |
-| <img src="media/apl.png" width="30">[APL][604 APL]❌| DP-604  | [Implement a data science and machine learning solution with Microsoft Fabric][604 LP]             |                                          |
+| <img src="media/off.png" width="30">[APL][604 APL]   | DP-604  | [Implement a data science and machine learning solution with Microsoft Fabric][604 LP]             |                                          |
 |                                                      | DP-605  | [Develop dynamic reports with Microsoft Power BI][605 LP]                                          |                                          |
 |                                                      | MB-7005 | Create and manage journeys with Dynamics 365 Customer Insights                                     |                                          |
 |                                                      | MB-7006 | Create and manage segments in Customer Insights - Data                                             |                                          |
