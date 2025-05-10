@@ -13,7 +13,7 @@
 [Browse the full list of Applied Skills.](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
 <br>
 <br>
-updated on February 14, 2025 (Courseware titleplan 01/31/25)
+updated on May 10, 2025 (Courseware titleplan 04 v2)
 
 |                                                      |         | Learning Path                                                                                        | Labs                                    |
 | -----------------------------------------------------| ------- | --------------------------------------------------------------------------------------------------- |------------------------------------------|
