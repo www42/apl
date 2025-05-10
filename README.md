@@ -355,7 +355,6 @@ updated on May 10, 2025 (Courseware titleplan April v2)
 [7008 LP]:   https://learn.microsoft.com/training/paths/create-extend-custom-copilots-microsoft-copilot-studio/
 
 [GH-100 LP]: https://learn.microsoft.com/en-us/training/courses/gh-100t00
-[GH-200 LP]: 
 [GH-300 LP]: https://learn.microsoft.com/en-us/training/courses/gh-300t00
 [GH-500 LP]: https://learn.microsoft.com/en-us/training/courses/gh-500t00
 [GH-900 LP]: https://learn.microsoft.com/en-us/training/courses/gh-900t00
