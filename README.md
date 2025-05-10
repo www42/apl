@@ -13,7 +13,6 @@
 ➡️ [Browse the full list of Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills) ⬅️
 <br>
 <br>
-updated on May 10, 2025 (Courseware titleplan April v2)
 
 |                                                      |         | Learning Path                                                                                      | Labs                                     |
 | -----------------------------------------------------| ------- | -------------------------------------------------------------------------------------------------- |------------------------------------------|
@@ -92,6 +91,10 @@ updated on May 10, 2025 (Courseware titleplan April v2)
 | <img src="media/apl.png" width="30">[APL][5007 APL]  | SC-5007 | [Implement retention, eDiscovery, and Communication compliance in Microsoft Purview][5007 LP]      | [Repo][5007 Repo]                        |
 |                                                      | SC-5008 | [Configure and manage entitlement with Microsoft Entra ID][5008 LP]                                | [Repo][5008 Repo]                        |
 
+
+
+
+updated on May 10, 2025 (Courseware titleplan April v2)
 
 
 [050 LP]:   https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/
