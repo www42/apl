@@ -47,7 +47,7 @@ updated on May 10, 2025 (Courseware titleplan 04 v2)
 | **Retired!**                                         | AZ-2009 | [Build distributed apps with .NET Aspire][2009 LP]                                                 |                                          |
 |                                                      | AZ-2010 | Designing and Implementing Platform Engineering                                                    |                                          |
 | <img src="media/apl.png" width="30">[APL][3001 APL]  | DP-3001 | [Migrate SQL Server workloads to Azure SQL Database][3001 LP]                                      | [Repo][3001 Repo] <br> [HTML][3001 HTML] |
-| <img src="media/off.png" width="30">[APL][3007 APL]  | DP-3007 | [Train and deploy a machine learning model with Azure Machine Learning][3007 LP]                   | [Repo][3007 Repo] <br> [HTML][3007 HTML] |
+| **Retired!**                                         | DP-3007 | [Train and deploy a machine learning model with Azure Machine Learning][3007 LP]                   | [Repo][3007 Repo] <br> [HTML][3007 HTML] |
 |                                                      | DP-3011 | [Implementing a Data Analytics Solution with Azure Databricks][3011 LP]                            |                                          |
 |                                                      | DP-3012 | [Implementing a Data Analytics Solution with Synapse Analytics][3012 LP]                           |                                          |
 |                                                      | DP-3014 | [Implementing a Machine Learning Solution with Azure Databricks][3014 LP]                          |                                          |
@@ -84,7 +84,7 @@ updated on May 10, 2025 (Courseware titleplan 04 v2)
 | <img src="media/apl.png" width="30">[APL][7003 APL]  | PL-7003 | [Create and manage model-driven apps with PowerApps and Dataverse][7003 LP]                        | [Repo][7003 Repo]                        |
 | <img src="media/apl.png" width="30">[APL][7004 APL]  | PL-7004 | [Implement AI models with Microsoft Power Platform AI Builder][7004 LP]                            | [Repo][7004 Repo]                        |
 | <img src="media/gpl.png" width="30">                 | PL-7008 | [Create custom copilots with Copilot Studio][7008 LP]                                              |                                          |
-| <img src="media/off.png" width="30">[APL][5001 APL]  | SC-5001 | [Configure SIEM security operations using Microsoft Sentinel][5001 LP]                                             | [Repo][5001 Repo] <br> [HTML][5001 HTML] |
+| **Retired!**                                         | SC-5001 | [Configure SIEM security operations using Microsoft Sentinel][5001 LP]                                             | [Repo][5001 Repo] <br> [HTML][5001 HTML] |
 | <img src="media/apl.png" width="30">[APL][5002 APL]  | SC-5002 | [Secure Azure services and workloads with Microsoft Defender for Cloud regulatory compliance controls][5002 LP]    | [Repo][5002 Repo] <br> [HTML][5002 HTML] |
 | <img src="media/apl.png" width="30">[APL][5003 APL]  | SC-5003 | [Implement information protection and data loss prevention by using Microsoft Purview][5003 LP]                    | [Repo][5003 Repo] <br> [HTML][5003 HTML] |
 | <img src="media/apl.png" width="30">[APL][5004 APL]  | SC-5004 | [Defend against threats with Microsoft Defender (XDR)][5004 LP]                                    | [Repo][5004 Repo] <br> [HTML][5004 HTML] |
