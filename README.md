@@ -10,7 +10,7 @@
 
 <br>
 
-[**Browse the full list of Applied Skills**](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
+➡️ [Browse the full list of Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills) ⬅️
 <br>
 <br>
 updated on May 10, 2025 (Courseware titleplan April v2)
