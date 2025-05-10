@@ -60,7 +60,7 @@
 | <img src="media/off.png" width="30">[APL][604 APL]   | DP-604  | [Implement a data science and machine learning solution with Microsoft Fabric][604 LP]             |                                          |
 |                                                      | DP-605  | [Develop dynamic reports with Microsoft Power BI][605 LP]                                          |                                          |
 |                                                      | GH-100  | [GitHub fundamentals - Administration basics and product features][GH-100 LP]                      |                                          |
-|                                                      | GH-200  | [Automate your workflow with GitHub Actions][GH-200 LP]                                            |                                          |
+|                                                      | GH-200  | Automate your workflow with GitHub Actions                                                         |                                          |
 |                                                      | GH-300  | [GitHub Copilot][GH-300 LP]                                                                        |                                          |
 |                                                      | GH-500  | [GitHub Advanced Security][GH-500 LP]                                                              |                                          |
 |                                                      | GH-900  | [GitHub Foundations][GH-900 LP]                                                                    |                                          |
