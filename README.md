@@ -1,5 +1,7 @@
 # New Microsoft One Day Trainings
 
+Recordings of Microsoft Trainings on YouTube see below.
+
 
 |                                      |                        |
 | ------------------------------------ | ---------------------- |
@@ -358,3 +360,203 @@ updated on May 10, 2025 (Courseware titleplan April v2)
 [GH-300 LP]: https://learn.microsoft.com/en-us/training/courses/gh-300t00
 [GH-500 LP]: https://learn.microsoft.com/en-us/training/courses/gh-500t00
 [GH-900 LP]: https://learn.microsoft.com/en-us/training/courses/gh-900t00
+
+
+
+
+# Recordings of Microsoft Trainings on YouTube
+
+## AZ-2007 Accelerate app development by using GitHub Copilot ([LP](https://learn.microsoft.com/en-us/training/paths/accelerate-app-development-using-github-copilot/))
+
+[Module 1 Get started with GitHub Copilot](https://www.youtube.com/watch?v=7FDrdrGQ1Oc) [29:46]
+
+[Module 2 Generate documentation using GitHub Copilot tools](https://www.youtube.com/watch?v=ZBuRK-64JeI) [42:17]
+
+[Module 3 Develop code features using GitHub Copilot tools](https://www.youtube.com/watch?v=hYbG7quFAfY) [48:38]
+
+[Module 4 Develop unit tests using GitHub Copilot tools](https://www.youtube.com/watch?v=CbssDK-1BXM) [34:41]
+
+[Module 5 Implement code improvements using GitHub Copilot tools](https://www.youtube.com/watch?v=4-zs2g2XcNU) [41:45]
+
+
+
+
+## MD-4011 Enhance endpoint security with Microsoft Intune and Microsoft Copilot for Security ([LP](https://learn.microsoft.com/en-us/training/paths/enhance-endpoint-security-microsoft-intune-copilot/))
+
+[Course Introduction](https://www.youtube.com/watch?v=qk5UWS29pgw) [3:09]
+
+[Module 1 Discover Microsoft Intune essentials](https://www.youtube.com/watch?v=e-moW6rVvik) [18:04]
+
+[Module 2 Unlock Insights with Microsoft Copilot for Security](https://www.youtube.com/watch?v=xKyI4JvmuZw) [29:45]
+
+[Module 3 Optimize Microsoft Intune for Microsoft Copilot for Security Integration](https://www.youtube.com/watch?v=cWeGSHq4leQ) [26:34]
+
+[Course Conclusion](https://www.youtube.com/watch?v=X-J5Ba_TQO8) [2:53]
+
+
+
+
+
+## MS-4010 Build plugins and connectors for Microsoft 365 Copilot ([LP](https://learn.microsoft.com/en-us/training/paths/build-plugins-connectors-microsoft-copilot-microsoft-365/))
+
+This course was renamed and rewritten by April 12, 2025. New title: *Extend Microsoft 365 Copilot with declarative agents by using Visual Studio Code*. The videos are a mix of old and new versions.
+
+[Course Introduction](https://www.youtube.com/watch?v=_pqRyUhyGcU) [2:10]
+
+[Module 1 Copilot extensibility fundamentals](https://www.youtube.com/watch?v=qyUTEhI91Yo) [39:05]
+
+[Module 2 Choose a Microsoft 365 Copilot Extensibility Development Path](https://www.youtube.com/watch?v=ARPj2XpkCpU) [32:27]
+
+[Introduction to declarative agents for Microsoft 365 Copilot](https://www.youtube.com/watch?v=kmZYztekuuQ) [13:32]
+
+[Lab 1 Build a declarative agent for Microsoft 365 Copilot using Visual Studio Code](https://www.youtube.com/watch?v=2VPAPMOfeZc) [17:36]
+
+[Lab 2 Build your first action for declarative agents with API plugin by using Visual Studio Code](https://www.youtube.com/watch?v=692C_5Z6Wtg) [20:19]
+
+[Lab 3 Use Adaptive Cards to show data in API plugins for declarative agents](https://www.youtube.com/watch?v=jrVPfkdNXd4) [8:17]
+
+[Course Summary](https://www.youtube.com/watch?v=vDtsvm1H0q0) [7:46]
+
+
+
+
+
+## MS-4014 Build a foundation to extend Microsoft 365 Copilot ([LP](https://learn.microsoft.com/en-us/training/paths/build-foundation-extend-microsoft-365-copilot/))
+
+[Course Introduction](https://www.youtube.com/watch?v=TqGXJY9rkjQ) [5:41]
+
+[Course Introduction 2](https://www.youtube.com/watch?v=aDGgykQ7Sbo) [3:13]
+
+[Module 1 Examine the Microsoft 365 Copilot design](https://www.youtube.com/watch?v=DDKgeW8hy1Q) [9:36]
+
+[Module 2 Microsoft 365 Copilot extensibility fundamentals](https://www.youtube.com/watch?v=2Qe7vQ4TuZI) [15:36]
+
+[Module 3 Choose a Microsoft 365 Copilot extensibility development path](https://www.youtube.com/watch?v=yOxLnF4xe2I) [23:12]
+
+[Module 4 Introduction to Graph connectors](https://www.youtube.com/watch?v=EiZAuTKhjbM) [25:12]
+
+[Module 5 Introduction to declarative agents for Microsoft 365 Copilot](https://www.youtube.com/watch?v=fEXxMSwuDpI) [15:14]
+
+[Module 6 Manage agents for Microsoft 365 Copilot](https://www.youtube.com/watch?v=D-AVeZWT8n4) [13:43]
+
+
+
+
+
+## AI-900 Microsoft Azure AI Fundamentals ([Course](https://learn.microsoft.com/en-us/training/courses/ai-900t00))
+
+[Module 1 Fundamentals of Artificial Intelligence](https://www.youtube.com/watch?v=Minz9XZpxzE) [26:32]
+
+[Module 2 Fundamentals of Computer Vision](https://www.youtube.com/watch?v=B_8kKi4vwFE) [10:51]
+
+[Module 3 Fundamentals of Natural Language Processing](https://www.youtube.com/watch?v=jvIMQGX9CmE) [16:47]
+
+[Module 4 Fundamentals of Document Intelligence and Knowledge Mining with Azure AI Search](https://www.youtube.com/watch?v=0x5gVyV7oqo) [14:39]
+
+[Module 5 Fundamentals of Generative AI](https://www.youtube.com/watch?v=eXuttqLKwjo) [39:48]
+
+
+
+
+
+## DP-100 Designing and implementing a data science solution on Azure ([Course](https://learn.microsoft.com/en-us/training/courses/dp-100t01))
+
+[Module 1 Design a machine learning solution](https://www.youtube.com/watch?v=NKY1eEaM7p0) [29:27]
+
+[Module 2 Explore and configure the Azure Machine Learning workspace](https://www.youtube.com/watch?v=_f5dlIvI5LQ) [1:23:43]
+
+[Module 3 Experiment with Azure Machine Learning](https://www.youtube.com/watch?v=6E7FGbyySAQ) [29:51]
+
+[Module 4 Optimize model training with Azure Machine Learning](https://www.youtube.com/watch?v=euxJTlSyv48&t=1117s) [54:07]
+
+[Module 5 Optimize model training with Azure Machine Learning](https://www.youtube.com/watch?v=euxJTlSyv48&t=1117s) [39:22]
+
+[Module 6 Deploy and consume models with Azure Machine Learning](https://www.youtube.com/watch?v=1_Il1CqyF0E&t=23s) [31:45]
+
+
+
+
+## AI-3016 Develop generative AI apps in Azure AI Foundry ([LP](https://learn.microsoft.com/en-us/training/paths/create-custom-copilots-ai-studio/))
+
+[Module 1 Introduction to Azure AI Studio](https://www.youtube.com/watch?v=boEuyJGEHDo) [43:24]
+
+[Module 3 Explore, deploy, and chat with language models](https://www.youtube.com/watch?v=fEpm0FDBu-0) [24:56]
+
+[Compare model optimization strategies](https://www.youtube.com/watch?v=SkGItraTlHc) [48:24]
+
+[Module 4 Identify Prompt Flow components](https://www.youtube.com/watch?v=nKliLByjhgo) [11:55]
+
+[Module 5 Develop a custom copilot with Prompt Flow​](https://www.youtube.com/watch?v=GoMrEgzmU7c) [56:32]
+
+[Module 7 Evaluate a custom copilot](https://www.youtube.com/watch?v=YmovZqh8CdQ) [35:18]
+
+
+
+## SC-900 Microsoft Security, Compliance, and Identity Fundamentals ([Course](https://learn.microsoft.com/en-us/training/courses/sc-900t00))
+
+[Describe Concepts of Security, Compliance, and Identity](https://www.youtube.com/watch?v=F2zPdcbCiNk) [34:48]
+
+[Describe the capabilities of Microsoft Entra](https://www.youtube.com/watch?v=nCsYNXewHc4) [48:33]
+
+[Describe the capabilities of Microsoft security solutions (part 1 of 3)](https://www.youtube.com/watch?v=2qSWOfEkYHw) [35:01]
+
+[Describe the capabilities of Microsoft security solutions (part 2 of 3)](https://www.youtube.com/watch?v=m6fwSxM4z1s) [31:44]
+
+[Describe the capabilities of Microsoft security solutions (part 3 of 3)](https://www.youtube.com/watch?v=BcEwkRNoqA4) [37:19]
+
+[Describe the capabilities of Microsoft Priva and Microsoft Purview](https://www.youtube.com/watch?v=M4Z7t4eoO9s) [51:20]
+
+
+
+## DP-900 Microsoft Azure Data Fundamentals ([Course](https://learn.microsoft.com/en-us/training/courses/dp-900t00))
+
+[Explore data visualization](https://www.youtube.com/watch?v=ZAoS6CwLNwY) [30:32]
+
+[Explore streaming and real-time analytics​](https://www.youtube.com/watch?v=p9yeYfnKv8s) [21:16]
+
+[Explore large-scale data analytics](https://www.youtube.com/watch?v=To-mfKFgopQ) [32:12]
+
+[Explore fundamentals of non-relational data in Azure](https://www.youtube.com/watch?v=Gmv9OSF68NY) [46:02]
+
+[Explore fundamentals of relational data in Azure](https://www.youtube.com/watch?v=cwJSTeKKdl4) [26:58]
+
+[Explore fundamentals of data](https://www.youtube.com/watch?v=R-8YpDZNDc4) [26:45]
+
+
+
+
+## AZ-700 Designing and Implementing Microsoft Azure Networking Solutions ([Course](https://learn.microsoft.com/en-us/training/courses/az-700t00))
+
+[Course Introduction](https://www.youtube.com/watch?v=zy2XL78prN4) [2:27]
+
+[Introduction to Azure Virtual Networks](https://www.youtube.com/watch?v=sP4WYEMZ8aY) [1:02:13]
+
+[Design and implement hybrid networking](https://www.youtube.com/watch?v=VXCMWmeXGtU) [32:49]
+
+[Design and implement Azure ExpressRoute](https://www.youtube.com/watch?v=4FY7weM_1mE) [41:05]
+
+[Load balance HTTP(S) traffic in Azure](https://www.youtube.com/watch?v=IcXWwv4OAek) [31:09]
+
+[Load balance non-HTTP(S) traffic in Azure](https://www.youtube.com/watch?v=VWHAcRjfcxY) [38:02]
+
+[Design and implement network security](https://www.youtube.com/watch?v=KK79eATmfDA) [59:43]
+
+[Design and implement private access to Azure Services](https://www.youtube.com/watch?v=x8THCPKyHkM) [28:34]
+
+[Design and implement network monitoring](https://www.youtube.com/watch?v=-kXKXo5KA9U) [16:55]
+
+[Course Summary](https://www.youtube.com/watch?v=5-Vk4pKLMUI) [1:04]
+
+
+
+## PL-900 Microsoft Power Platform Fundamentals ([Course](https://learn.microsoft.com/en-us/training/courses/pl-900t00))
+
+[Describe the business value of Microsoft Power Platform](https://www.youtube.com/watch?v=7toqarTDRFQ) [27:33]
+
+[Identify foundational components of Power Platform](https://www.youtube.com/watch?v=3nJX85dg7Uo) [29:26]
+
+[Get started with Power Apps](https://www.youtube.com/watch?v=MjBfRBBJvM0) [42:09]
+
+[Get started with Power Automate](https://www.youtube.com/watch?v=FDJHYJuQjWs) [23:50]
+
+[Get started with Other Power Platform Solutions, Including Power BI and Power Pages](https://www.youtube.com/watch?v=GXZOHVMRL4E) [37:35]
