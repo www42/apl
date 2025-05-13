@@ -369,6 +369,36 @@ updated on May 10, 2025 (Courseware titleplan April v2)
 
 # Recordings of Microsoft Trainings on YouTube
 
+
+## MS-4017 Manage and extend Microsoft 365 Copilot ([Course](https://learn.microsoft.com/en-us/training/courses/MS-4017))
+
+### LP1 Prepare your organization for Microsoft 365 Copilot
+
+[LP1 Module 1 Implement Microsoft Copilot](https://www.youtube.com/watch?v=pMWkmqqbXdw)  [11:50]
+
+[LP1 Module 2 Examine data security and compliance in Microsoft 365 Copilot](https://www.youtube.com/watch?v=157VFSwWIbg) [7:48]
+
+
+## LP2 Manage Microsoft 365 Copilot administration
+
+[LP2 Module 1 Apply principles of Zero Trust to Microsoft 365 Copilot](https://www.youtube.com/watch?v=NCp-m4MFu9U) [22:38]
+
+[LP2 Module 2 Manage Microsoft Copilot](https://www.youtube.com/watch?v=XrdKUuMINAs) [9:24]
+
+[LP2 Module 3 Manage Microsoft 365 Copilot](https://www.youtube.com/watch?v=Gbc3OANG0Us) [22:45]
+
+
+## LP3 Prepare for Microsoft 365 Copilot extensibility
+
+[LP3 Module 1 Microsoft Copilot extensibility fundamentals](https://www.youtube.com/watch?v=lEpx-gHwZlo) [28:13]
+
+[LP3 Module 2 Microsoft 365 Copilot Extensibility Development Paths](https://www.youtube.com/watch?v=famR2Hll0J4) [16:04]
+
+[LP3 Module 3 Manage Microsoft 365 Copilot extensibility](https://www.youtube.com/watch?v=PknOS8VsW2U) [10:02]
+
+
+
+
 ## AZ-2007 Accelerate app development by using GitHub Copilot ([LP](https://learn.microsoft.com/en-us/training/paths/accelerate-app-development-using-github-copilot/))
 
 [Module 1 Get started with GitHub Copilot](https://www.youtube.com/watch?v=7FDrdrGQ1Oc) [29:46]
