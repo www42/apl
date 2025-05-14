@@ -379,7 +379,7 @@ updated on May 10, 2025 (Courseware titleplan April v2)
 [LP1 Module 2 Examine data security and compliance in Microsoft 365 Copilot](https://www.youtube.com/watch?v=157VFSwWIbg) [7:48]
 
 
-## LP2 Manage Microsoft 365 Copilot administration
+### LP2 Manage Microsoft 365 Copilot administration
 
 [LP2 Module 1 Apply principles of Zero Trust to Microsoft 365 Copilot](https://www.youtube.com/watch?v=NCp-m4MFu9U) [22:38]
 
@@ -388,7 +388,7 @@ updated on May 10, 2025 (Courseware titleplan April v2)
 [LP2 Module 3 Manage Microsoft 365 Copilot](https://www.youtube.com/watch?v=Gbc3OANG0Us) [22:45]
 
 
-## LP3 Prepare for Microsoft 365 Copilot extensibility
+### LP3 Prepare for Microsoft 365 Copilot extensibility
 
 [LP3 Module 1 Microsoft Copilot extensibility fundamentals](https://www.youtube.com/watch?v=lEpx-gHwZlo) [28:13]
 
@@ -397,6 +397,8 @@ updated on May 10, 2025 (Courseware titleplan April v2)
 [LP3 Module 3 Manage Microsoft 365 Copilot extensibility](https://www.youtube.com/watch?v=PknOS8VsW2U) [10:02]
 
 
+<br>
+<br>
 
 
 ## AZ-2007 Accelerate app development by using GitHub Copilot ([LP](https://learn.microsoft.com/en-us/training/paths/accelerate-app-development-using-github-copilot/))
@@ -411,6 +413,9 @@ updated on May 10, 2025 (Courseware titleplan April v2)
 
 [Module 5 Implement code improvements using GitHub Copilot tools](https://www.youtube.com/watch?v=4-zs2g2XcNU) [41:45]
 
+
+<br>
+<br>
 
 
 
@@ -427,6 +432,9 @@ updated on May 10, 2025 (Courseware titleplan April v2)
 [Course Conclusion](https://www.youtube.com/watch?v=X-J5Ba_TQO8) [2:53]
 
 
+
+<br>
+<br>
 
 
 
@@ -452,6 +460,9 @@ This course was renamed and rewritten by April 12, 2025. New title: *Extend Micr
 
 
 
+<br>
+<br>
+
 
 
 ## MS-4014 Build a foundation to extend Microsoft 365 Copilot ([LP](https://learn.microsoft.com/en-us/training/paths/build-foundation-extend-microsoft-365-copilot/))
@@ -474,6 +485,9 @@ This course was renamed and rewritten by April 12, 2025. New title: *Extend Micr
 
 
 
+<br>
+<br>
+
 
 
 ## AI-900 Microsoft Azure AI Fundamentals ([Course](https://learn.microsoft.com/en-us/training/courses/ai-900t00))
@@ -489,6 +503,9 @@ This course was renamed and rewritten by April 12, 2025. New title: *Extend Micr
 [Module 5 Fundamentals of Generative AI](https://www.youtube.com/watch?v=eXuttqLKwjo) [39:48]
 
 
+
+<br>
+<br>
 
 
 
@@ -508,6 +525,10 @@ This course was renamed and rewritten by April 12, 2025. New title: *Extend Micr
 
 
 
+<br>
+<br>
+
+
 
 ## AI-3016 Develop generative AI apps in Azure AI Foundry ([LP](https://learn.microsoft.com/en-us/training/paths/create-custom-copilots-ai-studio/))
 
@@ -522,6 +543,11 @@ This course was renamed and rewritten by April 12, 2025. New title: *Extend Micr
 [Module 5 Develop a custom copilot with Prompt Flow​](https://www.youtube.com/watch?v=GoMrEgzmU7c) [56:32]
 
 [Module 7 Evaluate a custom copilot](https://www.youtube.com/watch?v=YmovZqh8CdQ) [35:18]
+
+
+
+<br>
+<br>
 
 
 
@@ -541,6 +567,11 @@ This course was renamed and rewritten by April 12, 2025. New title: *Extend Micr
 
 
 
+
+<br>
+<br>
+
+
 ## DP-900 Microsoft Azure Data Fundamentals ([Course](https://learn.microsoft.com/en-us/training/courses/dp-900t00))
 
 [Explore data visualization](https://www.youtube.com/watch?v=ZAoS6CwLNwY) [30:32]
@@ -555,6 +586,10 @@ This course was renamed and rewritten by April 12, 2025. New title: *Extend Micr
 
 [Explore fundamentals of data](https://www.youtube.com/watch?v=R-8YpDZNDc4) [26:45]
 
+
+
+<br>
+<br>
 
 
 
@@ -580,6 +615,11 @@ This course was renamed and rewritten by April 12, 2025. New title: *Extend Micr
 
 [Course Summary](https://www.youtube.com/watch?v=5-Vk4pKLMUI) [1:04]
 
+
+
+
+<br>
+<br>
 
 
 ## PL-900 Microsoft Power Platform Fundamentals ([Course](https://learn.microsoft.com/en-us/training/courses/pl-900t00))
