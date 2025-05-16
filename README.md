@@ -617,7 +617,6 @@ This course was renamed and rewritten by April 12, 2025. New title: *Extend Micr
 
 
 
-
 <br>
 <br>
 
@@ -633,3 +632,33 @@ This course was renamed and rewritten by April 12, 2025. New title: *Extend Micr
 [Get started with Power Automate](https://www.youtube.com/watch?v=FDJHYJuQjWs) [23:50]
 
 [Get started with Other Power Platform Solutions, Including Power BI and Power Pages](https://www.youtube.com/watch?v=GXZOHVMRL4E) [37:35]
+
+<br>
+<br>
+
+## AZ-204 Develop Solutions for Microsoft Azure ([Course](https://learn.microsoft.com/en-us/training/courses/az-204t00))
+
+[Course Introduction](https://www.youtube.com/watch?v=JH2m2QaIf0k) [2:42]
+
+### Learning Path 1 Implement Azure App Service web apps
+
+[LP 1 Module 1 Explore Azure App Service](https://www.youtube.com/watch?v=oRl5aBVj6KY) [20:46]
+
+[LP 1 Module 2 Configure application settings](https://www.youtube.com/watch?v=O88iMPC2Qro) [12:12]
+
+[LP 1 Module 3 Scale apps in Azure App Service AZ-204 - YouTube](https://www.youtube.com/watch?v=df7Alw7tFmM) [12:32]
+
+[LP 1 Module 4 Explore Azure App Service deployment slots](https://www.youtube.com/watch?v=9LPpM5MXEH0) [16:02]
+
+### Learning Path 2 Implement Azure Functions
+### Learning Path 3 Develop solutions that use Blob storage
+### Learning Path 4 Develop solutions that use Azure Cosmos DB
+### Learning Path 5 Implement containerized solutions
+### Learning Path 6 Implement user authentication and authorization
+### Learning Path 7 Implement secure Azure solutions
+### Learning Path 8 Implement API Management
+### Learning Path 9 Develop event-based solutions
+### Learning Path 10 Develop message-based solutions
+### Learning Path 11 Troubleshoot solutions by using Application Insights
+
+[Course Summary](https://www.youtube.com/watch?v=GI1lDyM5ees) [1:33]
