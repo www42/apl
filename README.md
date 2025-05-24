@@ -24,9 +24,9 @@ Recordings of Microsoft Trainings on YouTube see below.
 | <img src="media/off.png" width="30">[APL][3004 APL]  | AI-3004 | [Build an Azure AI Vision solution][3004 LP]                                                       | [Repo][3004 Repo] <br> [HTML][3004 HTML] |
 | <img src="media/gpl.png" width="30">                 | AI-3016 | [Develop generative AI apps in Azure AI Foundry][3016 LP]                                          | [Repo][3016 Repo] <br> [HTML][3016 HTML] |
 |                                                      | AI-3017 | [Microsoft AI for business leaders][3017 LP]                                                       |                                          |
-| **Retired!**                                         | AI-3018 | [Copilot Foundations][3018 LP]                                                                     |                                          |
+| **Retired!**                                         | AI-3018 | Copilot Foundations (replaced by MS-4014)                                                          |                                          |
 | <img src="media/off.png" width="30">[APL][3019 APL]  | AI-3019 | [Build AI Apps with Azure Database for PostgreSQL][3019 LP]                                        | [Repo][3019 Repo] <br> [HTML][3019 HTML] |
-| <img src="media/gpl.png" width="30">                 | AI-3022 | [ Implement AI Skills in Azure AI Search][3022 LP]                                                 |                                          |
+| <img src="media/gpl.png" width="30">                 | AI-3022 | [Implement AI Skills in Azure AI Search][3022 LP]                                                  |                                          |
 |                                                      | AI-3024 | [Design a dream destination with AI][3024 LP]                                                      |                                          |
 |                                                      | AI-3025 | [Work smarter with AI][3025 LP]                                                                    |                                          |
 |                                                      | AI-3026 | [Develop AI agents on Azure][3026 LP]                                                              |                                          |
@@ -46,7 +46,7 @@ Recordings of Microsoft Trainings on YouTube see below.
 | <img src="media/gpl.png" width="30">                 | AZ-2006 | [Automate Azure Load Testing by using GitHub][2006 LP]                                             | [Repo][2006 Repo] <br> [HTML][2006 HTML] |
 |                                                      | AZ-2007 | [Accelerate app development by using GitHub Copilot][2007 LP]                                      | [Repo][2007 Repo]                        |
 |                                                      | AZ-2008 | [DevOps Foundations: The Core Principles and Practices][2008 LP]                                   | [Repo][2008 Repo] <br> [HTML][2008 HTML] |
-| **Retired!**                                         | AZ-2009 | [Build distributed apps with .NET Aspire][2009 LP]                                                 |                                          |
+| **Retired!**                                         | AZ-2009 | Build distributed apps with .NET Aspire                                                            |                                          |
 |                                                      | AZ-2010 | [Designing and Implementing Platform Engineering][2010 LP]                                         |                                          |
 | <img src="media/apl.png" width="30">[APL][3001 APL]  | DP-3001 | [Migrate SQL Server workloads to Azure SQL Database][3001 LP]                                      | [Repo][3001 Repo] <br> [HTML][3001 HTML] |
 | **Retired!**                                         | DP-3007 | [Train and deploy a machine learning model with Azure Machine Learning][3007 LP]                   | [Repo][3007 Repo] <br> [HTML][3007 HTML] |
@@ -56,6 +56,8 @@ Recordings of Microsoft Trainings on YouTube see below.
 |                                                      | DP-3015 | [Getting Started with Cosmos DB NoSQL Development][3015 LP]                                        |                                          |
 | <img src="media/off.png" width="30">[APL][3020 APL]  | DP-3020 | [Develop data-driven applications with Azure SQL Database][3020 LP]                                |                                          |
 | <img src="media/gpl.png" width="30">                 | DP-3021 | [Configure and migrate to Azure Database for PostgreSQL][3021 LP]                                  |                                          |
+|                                                      | DP-3027 | Implement a data engineering solution with Azure Databricks                                        |                                          |
+|                                                      | DP-3028 | Implement Generative AI engineering with Azure Databricks                                          |                                          |
 | <img src="media/off.png" width="30">[APL][601 APL]   | DP-601  | [Implement a lakehouse in Microsoft Fabric][601 LP]                                                |                                          |
 | <img src="media/apl.png" width="30">[APL][602 APL]   | DP-602  | [Implement a data warehouse in Microsoft Fabric][602 LP]                                           |                                          |
 | <img src="media/apl.png" width="30">[APL][603 APL]   | DP-603  | [Implement a Real-Time Intelligence solution with Microsoft Fabric][603 LP]                        |                                          |
