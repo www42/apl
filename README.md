@@ -18,7 +18,7 @@ Recordings of Microsoft Trainings on YouTube see below.
 
 |                                                      |         | Learning Path                                                                                      | Labs                                     |
 | -----------------------------------------------------| ------- | -------------------------------------------------------------------------------------------------- |------------------------------------------|
-| **Retired!**                                         |  AI-050 | [Develop generative AI solutions with Azure OpenAI Service][050 LP]                                | [Repo][050 Repo]  <br> [HTML][050 HTML]  |
+| **Retired!**                                         | AI-050  | Develop generative AI solutions with Azure OpenAI Service                                          |                                          |
 | <img src="media/apl.png" width="30">[APL][3002 APL]  | AI-3002 | [Create an intelligent document processing solution with Azure AI Document Intelligence][3002 LP]  | [Repo][3002 Repo] <br> [HTML][3002 HTML] |
 | <img src="media/apl.png" width="30">[APL][3003 APL]  | AI-3003 | [Build a natural language processing solution with Azure AI Language][3003 LP]                     | [Repo][3003 Repo] <br> [HTML][3003 HTML] |
 | <img src="media/off.png" width="30">[APL][3004 APL]  | AI-3004 | [Build an Azure AI Vision solution][3004 LP]                                                       | [Repo][3004 Repo] <br> [HTML][3004 HTML] |
@@ -34,7 +34,7 @@ Recordings of Microsoft Trainings on YouTube see below.
 | <img src="media/apl.png" width="30">[APL][1002 APL]  | AZ-1002 | [Configure secure access to your workloads using Azure networking][1002 LP]                        | [Repo][1002 Repo] <br> [HTML][1002 HTML] |
 | <img src="media/apl.png" width="30">[APL][1003 APL]  | AZ-1003 | [Secure storage for Azure Files and Azure Blob Storage][1003 LP]                                   | [Repo][1003 Repo] <br> [HTML][1003 HTML] |
 | <img src="media/apl.png" width="30">[APL][1004 APL]  | AZ-1004 | [Deploy and configure Azure Monitor][1004 LP]                                                      | [Repo][1004 Repo] <br> [HTML][1004 HTML] |
-| **Retired!**                                         | AZ-1005 | Configuring Azure Virtual Desktop for the Enterprise (See course [AZ-140](https://learn.microsoft.com/en-us/training/courses/az-140t00)) |    |
+| **Retired!**                                         | AZ-1005 | Configuring Azure Virtual Desktop for the Enterprise (See course [AZ-140][AZ-140])                 |                                          |
 |                                                      | AZ-1006 | [Migrate and modernize SAP in the Microsoft Cloud][1006 LP]                                        |                                          |
 | <img src="media/off.png" width="30">[APL][1007 APL]  | AZ-1007 | [Deploy and administer Linux virtual machines on Azure][1007 LP]                                   | [Repo][1007 Repo] <br> [HTML][1007 HTML] |
 | <img src="media/apl.png" width="30">[APL][1008 APL]  | AZ-1008 | [Administer Active Directory Domain Services][1008 LP]                                             | [Repo][1008 Repo] <br> [HTML][1008 HTML] |
@@ -363,7 +363,7 @@ updated on May 24, 2025 (Courseware titleplan May v1)
 [GH-500 LP]: https://learn.microsoft.com/en-us/training/courses/gh-500t00
 [GH-900 LP]: https://learn.microsoft.com/en-us/training/courses/gh-900t00
 
-
+[AZ-140]: https://learn.microsoft.com/en-us/training/courses/az-140t00
 <br>
 <br>
 <br>
