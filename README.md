@@ -107,7 +107,7 @@ Recordings of Microsoft Trainings on YouTube see below.
 
 
 
-updated on May 10, 2025 (Courseware titleplan April v2)
+updated on May 24, 2025 (Courseware titleplan May v1)
 
 
 [050 LP]:   https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/
