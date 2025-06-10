@@ -308,8 +308,8 @@ updated on May 24, 2025 (Courseware titleplan May v1)
 
 [5001 LP]:   https://learn.microsoft.com/en-us/training/paths/configure-security-information-event-management-operations-using-microsoft-sentinel/
 [5001 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/configure-siem-security-operations-using-microsoft-sentinel/
-[5001 Repo]: https://github.com/MicrosoftLearning/APL-5001-configure-siem-security-operations-using-microsoft-sentinel
-[5001 HTML]: https://microsoftlearning.github.io/APL-5001-configure-siem-security-operations-using-microsoft-sentinel/
+[5001 Repo]: https://github.com/MicrosoftLearning/configure-siem-security-operations-using-microsoft-sentinel
+[5001 HTML]: https://microsoftlearning.github.io/configure-siem-security-operations-using-microsoft-sentinel/
 
 [5002 LP]:   https://learn.microsoft.com/en-us/training/paths/secure-azure-services-workloads-defender-cloud/
 [5002 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/secure-azure-services-and-workloads-with-microsoft-defender-for-cloud-regulatory-compliance-controls/
