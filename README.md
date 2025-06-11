@@ -103,12 +103,17 @@ Recordings of Microsoft Trainings on YouTube see below.
 |                                                      | SC-5006 | [Enhance security operations by using Microsoft Security Copilot][5006 LP]                         | [Repo][5006 Repo]                        |
 | <img src="media/apl.png" width="30">[APL][5007 APL]  | SC-5007 | [Implement retention, eDiscovery, and Communication compliance in Microsoft Purview][5007 LP]      | [Repo][5007 Repo]                        |
 |                                                      | SC-5008 | [Configure and manage entitlement with Microsoft Entra ID][5008 LP]                                | [Repo][5008 Repo]                        |
+| <img src="media/apl.png" width="30">[APL][xxxx APL]  | xx-xxxx | [Get started with identities and access using Microsoft Entra][xxxx LP]                            | [Repo][xxxx Repo] <br> [HTML][xxxx HTML] |
 
 
 
 
 updated on May 24, 2025 (Courseware titleplan May v1)
 
+[xxxx APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-with-identities-and-access-using-microsoft-entra/
+[xxxx LP]:   https://learn.microsoft.com/en-us/training/paths/perform-basic-identity-access-tasks/
+[xxxx Repo]: https://github.com/MicrosoftLearning/Get-started-Microsoft-Entra-Management-Tasks
+[xxxx HTML]: https://microsoftlearning.github.io/Get-started-Microsoft-Entra-Management-Tasks/
 
 [050 LP]:   https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/
 [050 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/develop-generative-ai-solutions-with-azure-openai-service/
