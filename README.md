@@ -13,6 +13,9 @@ Recordings of Microsoft Trainings on YouTube see below.
 <br>
 
 ➡️ [Browse the full list of Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills) ⬅️
+
+[Applied Skills Poster](https://arch-center.azureedge.net/Credentials/microsoft-applied-skills-poster.pdf)
+
 <br>
 <br>
 
