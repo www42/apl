@@ -98,7 +98,7 @@ Recordings of Microsoft Trainings on YouTube see below.
 | <img src="media/apl.png" width="30">[APL][7002 APL]  | PL-7002 | [Create and manage automated processes by using Power Automate][7002 LP]                           | [Repo][7002 Repo]                        |
 | <img src="media/apl.png" width="30">[APL][7003 APL]  | PL-7003 | [Create and manage model-driven apps with PowerApps and Dataverse][7003 LP]                        | [Repo][7003 Repo]                        |
 | <img src="media/apl.png" width="30">[APL][7004 APL]  | PL-7004 | [Implement AI models with Microsoft Power Platform AI Builder][7004 LP]                            | [Repo][7004 Repo]                        |
-| <img src="media/gpl.png" width="30">                 | PL-7008 | [Create agents in Microsoft Copilot Studio][7008 LP]                                               |                                          |
+| <img src="media/apl.png" width="30">[APL][7008 APL]  | PL-7008 | [Create agents in Microsoft Copilot Studio][7008 LP]                                               |                                          |
 | **Retired!**                                         | SC-5001 | [Configure SIEM security operations using Microsoft Sentinel][5001 LP]                             | [Repo][5001 Repo] <br> [HTML][5001 HTML] |
 | <img src="media/apl.png" width="30">[APL][5002 APL]  | SC-5002 | [Secure Azure services and workloads with Microsoft Defender for Cloud regulatory compliance controls][5002 LP] | [Repo][5002 Repo] <br> [HTML][5002 HTML] |
 | <img src="media/apl.png" width="30">[APL][5003 APL]  | SC-5003 | [Implement information protection and data loss prevention by using Microsoft Purview][5003 LP]    | [Repo][5003 Repo] <br> [HTML][5003 HTML] |
@@ -365,6 +365,7 @@ updated on May 24, 2025 (Courseware titleplan May v1)
 [7006 LP]:   https://learn.microsoft.com/en-us/training/paths/create-manage-segments-d365-customer-insights-data/
 
 [7008 LP]:   https://learn.microsoft.com/training/paths/create-extend-custom-copilots-microsoft-copilot-studio/
+[7008 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/create-agents-in-microsoft-copilot-studio
 
 [GH-100 LP]: https://learn.microsoft.com/en-us/training/courses/gh-100t00
 [GH-300 LP]: https://learn.microsoft.com/en-us/training/courses/gh-300t00
