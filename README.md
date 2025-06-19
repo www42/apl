@@ -67,7 +67,7 @@ Recordings of Microsoft Trainings on YouTube see below.
 | <img src="media/off.png" width="30">[APL][604 APL]   | DP-604  | [Implement a data science and machine learning solution with Microsoft Fabric][604 LP]             |                                          |
 |                                                      | DP-605  | [Develop dynamic reports with Microsoft Power BI][605 LP]                                          |                                          |
 |                                                      | GH-100  | [GitHub fundamentals - Administration basics and product features][GH-100 LP]                      |                                          |
-|                                                      | GH-200  | Automate your workflow with GitHub Actions                                                         |                                          |
+|                                                      | GH-200  | [Automate your workflow with GitHub Actions][GH-200 LP]                                                         |                                          |
 |                                                      | GH-300  | [GitHub Copilot][GH-300 LP]                                                                        |                                          |
 |                                                      | GH-500  | [GitHub Advanced Security][GH-500 LP]                                                              |                                          |
 |                                                      | GH-900  | [GitHub Foundations][GH-900 LP]                                                                    |                                          |
@@ -90,8 +90,7 @@ Recordings of Microsoft Trainings on YouTube see below.
 |                                                      | MS-4017 | [Manage and extend Microsoft 365 Copilot][4017 LP]                                                 |                                          |
 |                                                      | MS-4018 | [Draft, analyze, and present with Microsoft 365 Copilot][4018 LP]                                  |                                          |
 |                                                      | MS-4019 | [Transform your everyday business processes with agents][4019 LP]                                  |                                          |
-|                                                      | MS-4020 | Redefine your workflow with Microsoft 365 Copilot                                                  |                                          |
-|                                                      | MS-4021 | Copilot Immersion Experience                                                                       |                                          |
+|                                                      | MS-4021 | [Copilot Immersion Experience][4021LP]                                                             |                                          |
 |                                                      | MS-4022 | [Extend Microsoft 365 Copilot in Copilot Studio][4022 LP]                                          |                                          |
 |                                                      | MS-4023 | [Explore Microsoft 365 Copilot Chat][4023 LP]                                                      |                                          |
 | <img src="media/apl.png" width="30">[APL][7001 APL]  | PL-7001 | [Create and manage canvas apps with Power Apps][7001 LP]                                           | [Repo][7001 Repo]                        |
@@ -111,7 +110,7 @@ Recordings of Microsoft Trainings on YouTube see below.
 
 
 
-updated on May 24, 2025 (Courseware titleplan May v1)
+updated on June 19, 2025 (Courseware titleplan June v1)
 
 [xxxx APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-with-identities-and-access-using-microsoft-entra/
 [xxxx LP]:   https://learn.microsoft.com/en-us/training/paths/perform-basic-identity-access-tasks/
@@ -310,6 +309,8 @@ updated on May 24, 2025 (Courseware titleplan May v1)
 
 [4019 LP]:   https://learn.microsoft.com/en-us/training/paths/implement-no-code-copilot-agents-microsoft-365-sharepoint/
 
+[4021LP]:    https://learn.microsoft.com/en-us/training/paths/copilot-immersion-experience/
+
 [4022 LP]:   https://learn.microsoft.com/en-us/training/paths/extend-microsoft-365-copilot-studio/
 
 [4023 LP]:   https://learn.microsoft.com/training/paths/explore-microsoft-365-copilot-business-chat/
@@ -368,6 +369,7 @@ updated on May 24, 2025 (Courseware titleplan May v1)
 [7008 APL]:  https://learn.microsoft.com/en-us/credentials/applied-skills/create-agents-in-microsoft-copilot-studio
 
 [GH-100 LP]: https://learn.microsoft.com/en-us/training/courses/gh-100t00
+[GH-200 LP]: https://learn.microsoft.com/en-us/training/courses/gh-200t00
 [GH-300 LP]: https://learn.microsoft.com/en-us/training/courses/gh-300t00
 [GH-500 LP]: https://learn.microsoft.com/en-us/training/courses/gh-500t00
 [GH-900 LP]: https://learn.microsoft.com/en-us/training/courses/gh-900t00
